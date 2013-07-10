@@ -5,32 +5,185 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-07-10T07:47:00Z</updated>
+  <updated>2013-07-10T16:27:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>second-blog</title>
-    <link rel="alternate" href="/blog/second-blog.html"/>
-    <id>/blog/second-blog.html</id>
-    <published>2013-07-10T07:47:00Z</published>
-    <updated>2013-07-10T07:47:00Z</updated>
+    <title>六月27日</title>
+    <link rel="alternate" href="/blog/June27.html"/>
+    <id>/blog/June27.html</id>
+    <published>2013-07-10T16:27:00Z</published>
+    <updated>2013-07-10T16:27:00Z</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;this is second blog, enjoy it !&lt;/p&gt;
+    <content type="html">&lt;h3 id="section"&gt;企业系统集成点测试策略&lt;/h3&gt;
+&lt;p&gt;众所周知，在企业开发中，集成是一个绕不开的话题，谈到集成，通常意味着实现麻烦，难以测试。熊节的&lt;a href="http://www.infoq.com/cn/articles/enterprise-systems-integration-points"&gt;《企业系统集成点测试策略》&lt;/a&gt;分享了他在集成方面的新思考，希望可以拉出挣扎在集成泥潭中的人。&lt;/p&gt;
+
+&lt;h3 id="y-combinator"&gt;如何一步一步推导出Y Combinator&lt;/h3&gt;
+&lt;p&gt;如果你知道，在成都办公室的郑大晔校里，曾经有一系列函数式编程的课程，虽然坚持下来的人不多，但我们很高兴看到其中有一些不错的产出。崔鹏飞的&lt;a href="http://cuipengfei.me/blog/2013/04/09/make-y/"&gt;《如何一步一步推导出Y Combinator》&lt;/a&gt;就是其中之一。如果你还不知道Y Combinator是什么，趁着别人还不知道，赶紧读读这篇文章。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;如何构建自动化的前端开发流程&lt;/h3&gt;
+&lt;p&gt;说到自动化，大家往往想到的都是服务端代码，前端似乎总是与现代软件开发的方法无缘，事实上，有人已经在这方面做了足够的探索。刘旸的&lt;a href="http://www.zation.me/2013/03/15/how-to-build-frontend-dev-env.html"&gt;《如何构建自动化的前端开发流程》&lt;/a&gt;就是前端开发人员不落伍的宣言，小道消息，Drupal组正准备派出他们的最年轻的成员给成都办公室上一课前端自动化。&lt;/p&gt;
+
+&lt;h3 id="java"&gt;Java事务全解析系列&lt;/h3&gt;
+&lt;p&gt;接下来介绍的是一个系列，滕云的《Java事务全解析系列》，在这个系列里，滕云充分展现了他自己盘根问底的能力，一步步的推导，让我们看到现在开发中常用的API是怎么来的。如果你曾经在办公室内参加过滕云Java事务的workshop，那这些文章就是非常好的回顾。
+&lt;a href="http://www.davenkin.me/post/2013-02-16/40048284001"&gt;一&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-02-17/40049132188"&gt;二&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-02-22/40049367747"&gt;三&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-02-23/40049986447"&gt;四&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-02-23/40049802880"&gt;五&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-02-24/40049235086"&gt;六&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-02-24/40048572306"&gt;七&lt;/a&gt;
+&lt;a href="http://www.davenkin.me/post/2013-03-19/40049247543"&gt;八&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="thoughtworks"&gt;而立之年与ThoughtWorks相遇&lt;/h3&gt;
+&lt;p&gt;纯技术的文章过后，我们再来分享老男孩的P2追求，银大伟的&lt;a href="http://blogs.exmertec.com/davidyin/?e=2"&gt;《而立之年与ThoughtWorks相遇》&lt;/a&gt;，相信每个ThoughtWorker背后都有一段自己不懈努力的故事。&lt;/p&gt;
+
 </content>
   </entry>
   <entry>
-    <title>first blog</title>
-    <link rel="alternate" href="/blog/first-blog.html"/>
-    <id>/blog/first-blog.html</id>
-    <published>2013-07-09T15:08:00Z</published>
-    <updated>2013-07-09T15:08:00Z</updated>
+    <title>七月八日</title>
+    <link rel="alternate" href="/blog/July08.html"/>
+    <id>/blog/July08.html</id>
+    <published>2013-07-10T16:13:00Z</published>
+    <updated>2013-07-10T16:13:00Z</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;this is first test blog !&lt;/p&gt;
+    <content type="html">&lt;p&gt;强烈呼唤更多更多同学把自己的blog登记在https://jinshuju.net/f/e9YkXt ，以便进入我们的搜索雷达。&lt;/p&gt;
+
+&lt;h3 id="gradlejava"&gt;Gradle在大型Java项目上的应用&lt;/h3&gt;
+&lt;p&gt;在之前的分享中，我们介绍过Gradle的基本用法，还是那句话，Java程序员如果用Maven，你就Out了。如果不想让人嘲笑，赶紧投入到新构建工具的阵营来吧！这次给大家带来一些高级用法的是何海洋，他用一篇&lt;a href="http://www.infoq.com/cn/articles/Gradle-application-in-large-Java-projects"&gt;《Gradle在大型Java项目上的应用》&lt;/a&gt;证明了自己不仅仅是乒乓球大师，更是Java高手。&lt;/p&gt;
+
+&lt;h3 id="lambda-"&gt;Lambda演算-编程语言算术操作实现&lt;/h3&gt;
+&lt;p&gt;如今的程序设计里，lambda已经是非常常见的一种语法构造，君不见就连Java这种笨拙的程序设计语言也要在Java 8里增添对于lambda的支持。也许你也知道，lambda演算是整个函数式编程的基础，但你是否知道，lambda演算到底意味着什么呢？那我们就一起跟着成都办公室尤青松的文章&lt;a href="http://yqsqq.github.io/blog/2013/03/15/lambdayan-suan-bian-cheng-yu-yan-suan-zhu-cao-zuo-shi-xian/"&gt;《Lambda演算-编程语言算术操作实现》&lt;/a&gt;，体验一下真正的lambda演算，需要提示一下，这会很费脑子：&lt;/p&gt;
+
+&lt;h3 id="section"&gt;使用功能开关更好地实现持续部署&lt;/h3&gt;
+&lt;p&gt;如今的开发，周期越来越快，功能越来越多，如果还在用Feature Branch隔离不同的功能，那就有些土了，现在人家开发都用Feature Toggle。如果你还不知道Feature Toggle怎么做，不妨看看西安办公室崔立强的&lt;a href="http://www.infoq.com/cn/articles/function-switch-realize-better-continuous-implementations"&gt;《使用功能开关更好地实现持续部署》&lt;/a&gt;。顺便说一下，《ThoughtWorks文集2》里也有一章专门讲述Feature Toggle。&lt;/p&gt;
+
+&lt;h3 id="java-8"&gt;Java 8&lt;/h3&gt;
+&lt;p&gt;Java8即将面市了，他是一如既往的土呢，还是会换上些新潮的服饰呢？想不想知道那些年我们爱过的这门语言有什么新特性？不妨跟着我们北京办公室的才子——张振宇——提前体验一下Java 8，共赏新时代Java的序曲 &lt;a href="http://zyzhang.github.io/blog/2013/06/13/intellij-java8-compile-require-target-1-8"&gt;一&lt;/a&gt; &lt;a href="http://zyzhang.github.io/blog/2013/06/13/java8previewdefaultmethod"&gt;二&lt;/a&gt; &lt;a href="http://zyzhang.github.io/blog/2013/06/15/java8-preview-functional-interface"&gt;三&lt;/a&gt; &lt;a href="http://zyzhang.github.io/blog/2013/06/15/java8-preview-method-reference"&gt;四&lt;/a&gt;：&lt;/p&gt;
+
+&lt;h3 id="chocolatey-"&gt;Chocolatey, 我爱你&lt;/h3&gt;
+&lt;p&gt;在程序员的眼里，一切都要尽可能自动化，这也是Windows之前如此不受待见的重要原因。Windows程序员别提多羡慕其它世界程序员用包管理器安装软件的过程了。好在世界有了一些改变，有个Chocolatey的东西出现了。北京办公室的韩锴高声疾呼&lt;a href="http://isaachan.github.io/blog/2013/02/07/chocolatey-i-love-you/"&gt;《Chocolatey, 我爱你》&lt;/a&gt;，让我们共同赏析这份炽烈的爱：&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>七月一日</title>
+    <link rel="alternate" href="/blog/July01.html"/>
+    <id>/blog/July01.html</id>
+    <published>2013-07-10T16:11:00Z</published>
+    <updated>2013-07-10T16:11:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;时间来到2013年下半年，《The Voice of Geek》也已经运行超过了一个月。
+在这样一个历史阶段，我们终于实现了四个办公室同台演出，希望以后这样的场面可以经常出现！&lt;/p&gt;
+
+&lt;h3 id="javascriptreplace"&gt;JavaScript函数replace揭秘&lt;/h3&gt;
+&lt;p&gt;成都办公室里有个JavaScript粉，恨不得用JavaScript写所有的代码，虽然他不是专职的UI；也许，更多人知道因为他的民族，他是中国区的第一个藏族同胞；但他真正赢得大家尊敬的是他的技术能力。&lt;a href="http://www.cnblogs.com/whitewolf/archive/2013/03/14/2958720.html"&gt;《JavaScript函数replace揭秘》&lt;/a&gt;让我们得以初窥格荣扎西的技术功底：&lt;/p&gt;
+
+&lt;h3 id="test-tips"&gt;2 Test Tips&lt;/h3&gt;
+&lt;p&gt;西安办公室的张久坤为我们带来了&lt;a href="http://xuwugui.github.io/blog/2013/06/21/2-test-tips/"&gt;《2 Test Tips》&lt;/a&gt;，两个非常实用的小技巧，却很好地解决了在Java开发中常见的两个问题：使用Joda Time函数模拟当前时间，以及编写自己的Matcher。顺便说一下，如果你用的JUnit版本大于4.11，用FeatureMatcher定制Matcher会更容易：&lt;/p&gt;
+
+&lt;h3 id="angularjs"&gt;Angularjs&lt;/h3&gt;
+&lt;p&gt;用各种JavaScript库，通过各种方式找出想要修改的元素，然后应用一些脚本来动态化页面？或者使用前端的各种MVC框架，更好地组织庞大的JavaScript代码？何不尝试扩展HTML本身，使其更容易展现动态的内容呢！ 这就是AngularJS的设计初衷，北京办公室张霄翀分享了 Angularjs的一些有趣的特性（比如scope，data-binding，service/provider/factory），轻击查看 &lt;a href="http://hellobug.github.io/blog/angularjs-introduction/"&gt;感受篇&lt;/a&gt; &lt;a href="http://hellobug.github.io/blog/angularjs-scope/"&gt;Scope&lt;/a&gt; &lt;a href="http://hellobug.github.io/blog/angularjs-two-ways-binding/"&gt;View-Model双向绑定背后的故事&lt;/a&gt; &lt;a href="http://hellobug.github.io/blog/angularjs-providers/"&gt;伤不起的provider们&lt;/a&gt;：&lt;/p&gt;
+
+&lt;h3 id="java"&gt;Java常见分布式协议比较系列&lt;/h3&gt;
+&lt;p&gt;如果你们觉得只有追求新的技术才是Geek，那只能说你们，too young，too naive。所谓Geek就是把一件平淡至极的事情做到让人惊叹的地步。所以做为一个靠谱的Geek，必须要面对那些真实被使用的技术，哪怕它们很陈旧。有请北京办公室的张晓庆同学送上《Java常见分布式协议比较系列》，在这里你会看到&lt;a href="http://xiaoqing.me/2012/12/19/protocols-ejb/"&gt;EJB&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/21/protocols-rmi/"&gt;RMI&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/25/protocols-rpc/"&gt;RPC&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/28/protocols-corba/"&gt;CORBA&lt;/a&gt;和&lt;a href="http://xiaoqing.me/2013/01/08/protocols-jms/"&gt;JMS&lt;/a&gt;等。&lt;/p&gt;
+
+&lt;h3 id="scala"&gt;scala的类型系统居然可以解题&lt;/h3&gt;
+&lt;p&gt;对于许多年轻的程序员而言，或许你错过了C++泛型初临之际的各种折腾，比如，用C++泛型参数求阶乘。但只要是内心有所追求的程序员，便无法停止对技术狂热，请看上海办公室李鹏的发现&lt;a href="http://freewind.me/blog/20130612/2153.html"&gt;《scala的类型系统居然可以解题》&lt;/a&gt;：&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>6月24日</title>
+    <link rel="alternate" href="/blog/June24.html"/>
+    <id>/blog/June24.html</id>
+    <published>2013-07-10T15:52:00Z</published>
+    <updated>2013-07-10T15:52:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;这次的成都推荐来自两个毕业生，准确地说，实习生，还没毕业。虽然他们的文字还略显稚嫩，但从中我们已经可以看到未来之星正在冉冉升起。&lt;/p&gt;
+
+&lt;h3 id="moco"&gt;Moco使用心得分享&lt;/h3&gt;
+&lt;p&gt;首先是赵峻伟，它写了一篇&lt;a href="http://toozhao.com/blog/2013/06/13/moco/"&gt;《Moco使用心得分享》&lt;/a&gt;，他所在的项目是第一将Moco应用于实践的商业项目，从中孵化出许多Moco的新用法，也探索出企业集成测试的新方式。我们不妨看看在峻伟眼中，Moco如何助力其开发企业开发的。&lt;/p&gt;
+
+&lt;h3 id="expressjssocketio"&gt;让expressjs和socket.io分享同一个路由&lt;/h3&gt;
+&lt;p&gt;另一个是郑泽楷，他算是一名特长生，特长是前端开发，所以，他的blog对前端开发相关的技术关注很多，而来自JavaScript世界的Node.js自然也纳入了他的兴趣范畴。&lt;a href="http://www.closure.pro/index.html#/article/51c2e064e742b80000000001"&gt;《让expressjs和socket.io分享同一个路由》&lt;/a&gt;让我们看到ThoughtWorker身上应有的那种爱折腾劲。&lt;/p&gt;
+
+&lt;h3 id="gradle"&gt;Gradle的基础教程&lt;/h3&gt;
+&lt;p&gt;如果你在做一个Java项目，请问你的构建工具是什么？如果你的答案是Ant，只有一个字形容“土”，如果是Maven，那么恭喜你，你out了。君不见在新版技术雷达里，Maven已经On Hold了吗？也就是说，老项目不得已，新项目就别用了。那用什么呢？Gradle和Buildr是新时代的选择。西安办公室的王磊为我们提供了一个Gradle的基础教程(&lt;a href="http://wldandan.github.io/blog/2013/01/23/gradle-learning-one/"&gt;一&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/23/gradle-learning-two/"&gt;二&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/24/gradle-learning-three/"&gt;三&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/25/gradle-learning-four/"&gt;四&lt;/a&gt;)，帮助我们走上Gradle的康庄大道，从此告别恼人的XML！&lt;/p&gt;
+
+&lt;h3 id="coffeescript"&gt;CoffeeScript&lt;/h3&gt;
+&lt;p&gt;西安办公室的姜鹏是米糕产品团队的一员干将，要知道，以米糕的不安好心，他从开发团队里带走的都是些精明强干之辈。这里分享的是姜鹏对于CoffeeScript的理解，鉴于许多人都知道JavaScript的水有多深，有机会跳脱出来，换个方式写代码，你会如春风拂面搬清爽，话不多说，请看 &lt;a href="http://jiangpeng.info/blogs/2012/05/26/inside-coffeescript-1.html"&gt;Inside CoffeeScript: 语法强大&lt;/a&gt;, &lt;a href="http://jiangpeng.info/blogs/2012/05/26/inside-coffeescript-2.html"&gt;Inside CoffeeScript: 语法强壮&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="groovy"&gt;Groovy&lt;/h3&gt;
+&lt;p&gt;北京有一个被许多人奉为偶像的人，因为他从来都是言简意赅，直中要害。所以，他一旦发言，大家通常的选择，就是好好听着。他叫李光磊，他最近对Groovy有了兴趣，所以，我们有了一系列Groovy文章可以看，猛击查看：&lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;系列一&lt;/a&gt; &lt;a href=""&gt;系列二&lt;/a&gt;。&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>六月17日</title>
+    <link rel="alternate" href="/blog/June17.html"/>
+    <id>/blog/June17.html</id>
+    <published>2013-07-10T15:44:00Z</published>
+    <updated>2013-07-10T15:44:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;感谢屈原，让大家多休息了一天，我们也因此休息了一次。休息好，我们重装上阵，好消息是，现在已经有人开始主动投稿了，但我们不会告诉你哪篇是投稿的，哈哈！&lt;/p&gt;
+
+&lt;h3 id="javascript"&gt;JavaScript变量作用域之殇&lt;/h3&gt;
+&lt;p&gt;不管你愿不愿意，JavaScript已经成为了一门重要的程序设计语言，所以，那些隐藏在角落里的JavaScript特征也慢慢被人挖掘了出来。成都办公室的喻杨给我们讲述了&lt;a href="http://cloveryu.github.io/blog/the-war-of-JavaScript-vaiiable-scope/"&gt;《JavaScript变量作用域之殇》&lt;/a&gt;，�让我们得以更好地了解JavaScript中的变量作用域。&lt;/p&gt;
+
+&lt;h3 id="ruby"&gt;Ruby背后的那些事&lt;/h3&gt;
+&lt;p&gt;ThoughtWorks里有许多Ruby的拥趸，不过你知道Ruby背后的那些故事吗？且听成都办公室的刘先宁慢慢道来：&lt;a href="http://ningandjiao.iteye.com/blog/1857016"&gt;系列1&lt;/a&gt;  &lt;a href="http://ningandjiao.iteye.com/blog/1858215"&gt;系列2&lt;/a&gt;  &lt;a href="http://ningandjiao.iteye.com/blog/1860099"&gt;系列3&lt;/a&gt; &lt;a href="http://ningandjiao.iteye.com/blog/1869447"&gt;系列4&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="css"&gt;CSS技巧&lt;/h3&gt;
+&lt;p&gt;上次我们介绍了邱俊涛使用CSS的一些做法，这次我们还有CSS的绚丽效果介绍给各位，西安办公室的冯智超给我们展现了运用纯CSS实现一些特效。不是一个，而是三个，包括&lt;a href="http://www.chaojiwudi.com/2013/04/css-how-to-create-animated-menu-bar-only-using-css/"&gt;菜单滑块效果&lt;/a&gt;、&lt;a href="http://www.chaojiwudi.com/2013/04/css-how-to-create-a-stopwatch-clock-use-css/"&gt;秒表时钟效果&lt;/a&gt;，最酷的是，还有一个&lt;a href="http://www.chaojiwudi.com/2013/05/css-how-to-create-a-rotating-tech-radar-with-pure-css/"&gt;技术雷达&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="vagrant-"&gt;Vagrant 知识澄清与杂症诊治&lt;/h3&gt;
+&lt;p&gt;在硬件能力越来越强大的今天，虚拟化得以大行其道，DevOps运动的发展，更把虚拟化的应用推上了一个新的台阶。Virtual Box是我们最常用的一个虚拟机，而配合Vagrant，程序员可以得心应手地在命令行下操控虚拟机。不过，使用Vagrant会遇到很多问题，官方文档又不够全面，怎么办？那就看看西安办公室吴少博的&lt;a href="http://wushaobo.info/?p=83"&gt;《Vagrant 知识澄清与杂症诊治》&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="grunt"&gt;Grunt&lt;/h3&gt;
+&lt;p&gt;如果你是C程序员，你一定知道Make；如果你是Java程序员，你应该知道Ant、Maven、Gradle或是Buildr；如果是.NET程序员，MsBuild、NuGet和Nscaffold你必定了解一个；那如果你是JavaScript程序员呢？北京办公室的禚娴静告诉我们，&lt;a href="http://xianjing.github.io/blog/2013/05/16/grunt/"&gt;Grunt&lt;/a&gt;是个不错的选择。&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>6月3日</title>
+    <link rel="alternate" href="/blog/June03.html"/>
+    <id>/blog/June03.html</id>
+    <published>2013-07-10T15:29:00Z</published>
+    <updated>2013-07-10T15:29:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h3 id="xss"&gt;防御XSS的七条原则&lt;/h3&gt;
+&lt;p&gt;安全一直是我们在企业级软件开发中关注不多的地方，但如果你曾在成都办公室里听过马伟的分享，你就知道，这个冷面笑匠居然可以把安全讲得如此意兴盎然。如果你还不知道什么是XSS，那马伟的这篇《防御XSS的七条原则》会是一篇很好的启蒙教材。顺便说一下，看一下域名，你就知道马伟对于Web安全有多庞大的构想了，如果你愿意在Web安全方面下下功夫，欢迎联系马伟。
+http://webappsecuritylab.com/?p=6&lt;/p&gt;
+
+&lt;h3 id="section"&gt;跨了个域&lt;/h3&gt;
+&lt;p&gt;知道如何防御XSS，也要知道正确使用XSS，王秋就像和马伟商量好了一样，对应着写了一篇《跨了个域》。有了这一正一反两篇文章，我们便可以对这个领域有一个更全面的认识。
+http://ishouldbeageek.me/2013/05/31/cross-origin-request/&lt;/p&gt;
+
+&lt;h3 id="travis-ci"&gt;持续集成之道：在你的开源项目中使用Travis CI&lt;/h3&gt;
+&lt;p&gt;作为ThoughtWorker，很多人都在github上拥有自己的账号，也都是CI坚定不移的支持者。但你知道Travis CI是github项目做CI的绝配吗？如果你还不知道，黄博文的《持续集成之道：在你的开源项目中使用Travis CI》会是一个不错的起点，文中以一个Java项目为例，介绍了Travis CI的搭建过程。
+http://huangbowen.net/blog/2013/05/30/use-travis-ci-to-your-open-source-project/&lt;/p&gt;
+
+&lt;h3 id="cssbeforeafter"&gt;CSS中的before和after伪元素及其应用&lt;/h3&gt;
+&lt;p&gt;CSS恐怕是大多数程序员躲不开的一课，但真正熟练掌握好CSS其实并不是那么多，比如，你知道CSS中before和after是怎么回事吗？西安办公室邱俊涛的《CSS中的before和after伪元素及其应用》用一个简单的例子为我们做了一个阐述。顺便广告一下，邱俊涛的新书《JavaScript核心概念及实践》刚刚出版。
+http://icodeit.org/2013/05/before-and-after-selector-in-css/&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;测试金字塔&lt;/h3&gt;
+&lt;p&gt;老马（Martin Fowler）最近在重新整理一些术语，比如《测试金字塔》，北京办公室的张振宇将它译成了中文，供各位参考。如果你有兴趣，老马还有很多写好的文章等你翻译。
+http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
+
 </content>
   </entry>
 </feed>
