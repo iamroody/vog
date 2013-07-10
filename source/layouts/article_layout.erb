@@ -1,24 +1,3 @@
 <% wrap_layout :layout do %>
     <%= yield %>  
-    <% if paginate %>
-        <p>Page <%= page_number %> of <%= num_pages %></p>
-        <% if prev_page %>
-            <p><%= link_to 'Previous page', prev_page %></p>
-        <% end %>
-    <% end %>
-
-    <% page_articles.each_with_index do |article, i| %>
-        <h2>
-          <%= link_to article.title, article %>
-          <span><%= article.date.strftime('%b %e') %></span>
-          <span><%= article.data.author%></span>
-        </h2>
-        <%= article.body %>
-    <% end %>
-
-    <% if paginate %>
-        <% if next_page %>
-            <p><%= link_to 'Next page', next_page %></p>
-        <% end %>
-    <% end %>
 <% end %>
