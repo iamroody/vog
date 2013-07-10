@@ -1,5 +1,25 @@
 <% wrap_layout :layout do %>
-<div class="container">
-    <%= yield %>  
-</div>
+	<nav class="paginate">
+		<% if prev_article = current_article.previous_article %>
+    		<a href="<%= prev_article.url %>" class="prev">◀</a>  
+    	<%else%>
+    		<a href="/index.html" class="prev">◀</a>  
+    	<%end%>
+
+	    <% if next_article = current_article.next_article %>
+	        <a href="<%= next_article.url %>" class="next">▶</a>
+	    <% end %>
+	</nav>
+
+	<div class="container">
+		<section class="page">
+			<nav class="issues">
+				<ul class="clearfix">
+    				<li class="active"><a href="/index.html">VOG, 七月 2013</a></li>
+					<li class="pull-right"> 1 / <%= blog.articles.count %> </li>
+				</ul>
+			</nav>
+    		<article><%= yield %> </article>
+    	</section>
+	</div>
 <% end %>
