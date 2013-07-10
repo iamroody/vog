@@ -1,0 +1,30 @@
+---
+title: 0527
+date: 2013-07-10 16:27 UTC
+tags:
+---
+### 企业系统集成点测试策略
+众所周知，在企业开发中，集成是一个绕不开的话题，谈到集成，通常意味着实现麻烦，难以测试。熊节的[《企业系统集成点测试策略》](http://www.infoq.com/cn/articles/enterprise-systems-integration-points)分享了他在集成方面的新思考，希望可以拉出挣扎在集成泥潭中的人。
+
+
+### 如何一步一步推导出Y Combinator
+如果你知道，在成都办公室的郑大晔校里，曾经有一系列函数式编程的课程，虽然坚持下来的人不多，但我们很高兴看到其中有一些不错的产出。崔鹏飞的[《如何一步一步推导出Y Combinator》](http://cuipengfei.me/blog/2013/04/09/make-y/)就是其中之一。如果你还不知道Y Combinator是什么，趁着别人还不知道，赶紧读读这篇文章。
+
+### 如何构建自动化的前端开发流程
+说到自动化，大家往往想到的都是服务端代码，前端似乎总是与现代软件开发的方法无缘，事实上，有人已经在这方面做了足够的探索。刘旸的[《如何构建自动化的前端开发流程》](http://www.zation.me/2013/03/15/how-to-build-frontend-dev-env.html)就是前端开发人员不落伍的宣言，小道消息，Drupal组正准备派出他们的最年轻的成员给成都办公室上一课前端自动化。
+
+### Java事务全解析系列
+接下来介绍的是一个系列，滕云的《Java事务全解析系列》，在这个系列里，滕云充分展现了他自己盘根问底的能力，一步步的推导，让我们看到现在开发中常用的API是怎么来的。如果你曾经在办公室内参加过滕云Java事务的workshop，那这些文章就是非常好的回顾。
+[一](http://www.davenkin.me/post/2013-02-16/40048284001)
+[二](http://www.davenkin.me/post/2013-02-17/40049132188)
+[三](http://www.davenkin.me/post/2013-02-22/40049367747)
+[四](http://www.davenkin.me/post/2013-02-23/40049986447)
+[五](http://www.davenkin.me/post/2013-02-23/40049802880)
+[六](http://www.davenkin.me/post/2013-02-24/40049235086)
+[七](http://www.davenkin.me/post/2013-02-24/40048572306)
+[八](http://www.davenkin.me/post/2013-03-19/40049247543)
+
+### 而立之年与ThoughtWorks相遇
+纯技术的文章过后，我们再来分享老男孩的P2追求，银大伟的[《而立之年与ThoughtWorks相遇》](http://blogs.exmertec.com/davidyin/?e=2)，相信每个ThoughtWorker背后都有一段自己不懈努力的故事。
+
+

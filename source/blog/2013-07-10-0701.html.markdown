@@ -1,0 +1,28 @@
+---
+title: 0701
+date: 2013-07-10 16:11 UTC
+tags:
+authors: 周哲武、何海洋、曾学海、熊节、仝健、邱俊涛、马博文、郑晔
+---
+
+时间来到2013年下半年，《The Voice of Geek》也已经运行超过了一个月。
+在这样一个历史阶段，我们终于实现了四个办公室同台演出，希望以后这样的场面可以经常出现！
+
+### JavaScript函数replace揭秘
+成都办公室里有个JavaScript粉，恨不得用JavaScript写所有的代码，虽然他不是专职的UI；也许，更多人知道因为他的民族，他是中国区的第一个藏族同胞；但他真正赢得大家尊敬的是他的技术能力。[《JavaScript函数replace揭秘》](http://www.cnblogs.com/whitewolf/archive/2013/03/14/2958720.html)让我们得以初窥格荣扎西的技术功底：
+
+
+### 2 Test Tips
+西安办公室的张久坤为我们带来了[《2 Test Tips》](http://xuwugui.github.io/blog/2013/06/21/2-test-tips/)，两个非常实用的小技巧，却很好地解决了在Java开发中常见的两个问题：使用Joda Time函数模拟当前时间，以及编写自己的Matcher。顺便说一下，如果你用的JUnit版本大于4.11，用FeatureMatcher定制Matcher会更容易：
+
+### Angularjs
+用各种JavaScript库，通过各种方式找出想要修改的元素，然后应用一些脚本来动态化页面？或者使用前端的各种MVC框架，更好地组织庞大的JavaScript代码？何不尝试扩展HTML本身，使其更容易展现动态的内容呢！ 这就是AngularJS的设计初衷，北京办公室张霄翀分享了 Angularjs的一些有趣的特性（比如scope，data-binding，service/provider/factory），轻击查看 [感受篇](http://hellobug.github.io/blog/angularjs-introduction/) [Scope](http://hellobug.github.io/blog/angularjs-scope/) [View-Model双向绑定背后的故事](http://hellobug.github.io/blog/angularjs-two-ways-binding/) [伤不起的provider们](http://hellobug.github.io/blog/angularjs-providers/)：
+
+
+### Java常见分布式协议比较系列
+如果你们觉得只有追求新的技术才是Geek，那只能说你们，too young，too naive。所谓Geek就是把一件平淡至极的事情做到让人惊叹的地步。所以做为一个靠谱的Geek，必须要面对那些真实被使用的技术，哪怕它们很陈旧。有请北京办公室的张晓庆同学送上《Java常见分布式协议比较系列》，在这里你会看到[EJB](http://xiaoqing.me/2012/12/19/protocols-ejb/)、[RMI](http://xiaoqing.me/2012/12/21/protocols-rmi/)、[RPC](http://xiaoqing.me/2012/12/25/protocols-rpc/)、[CORBA](http://xiaoqing.me/2012/12/28/protocols-corba/)和[JMS](http://xiaoqing.me/2013/01/08/protocols-jms/)等。
+
+### scala的类型系统居然可以解题
+对于许多年轻的程序员而言，或许你错过了C++泛型初临之际的各种折腾，比如，用C++泛型参数求阶乘。但只要是内心有所追求的程序员，便无法停止对技术狂热，请看上海办公室李鹏的发现[《scala的类型系统居然可以解题》](http://freewind.me/blog/20130612/2153.html)：
+
+
