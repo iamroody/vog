@@ -4,7 +4,7 @@ date: 2013-07-10 15:11 UTC
 tags:
 ---
 
-时间来到2013年下半年，《The Voice of Geek》也已经运行超过了一个月。
+时间来到2013年下半年，《The Voice Of ThoughtWorkers》也已经运行超过了一个月。
 在这样一个历史阶段，我们终于实现了四个办公室同台演出，希望以后这样的场面可以经常出现！
 
 ### JavaScript函数replace揭秘
