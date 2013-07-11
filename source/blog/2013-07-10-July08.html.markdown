@@ -3,7 +3,6 @@ title: 七月八日
 date: 2013-07-10 14:13 UTC
 tags:
 ---
-强烈呼唤更多更多同学把自己的blog登记在[金数据](https://jinshuju.net/f/e9YkXt) ，以便进入我们的搜索雷达。
 
 ### Gradle在大型Java项目上的应用
 在之前的分享中，我们介绍过Gradle的基本用法，还是那句话，Java程序员如果用Maven，你就Out了。如果不想让人嘲笑，赶紧投入到新构建工具的阵营来吧！这次给大家带来一些高级用法的是何海洋，他用一篇[《Gradle在大型Java项目上的应用》](http://www.infoq.com/cn/articles/Gradle-application-in-large-Java-projects)证明了自己不仅仅是乒乓球大师，更是Java高手。
