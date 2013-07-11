@@ -10,7 +10,7 @@
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>六月27日</title>
+    <title>五月二十七日</title>
     <link rel="alternate" href="/blog/May27.html"/>
     <id>/blog/May27.html</id>
     <published>2013-07-10T16:27:00Z</published>
@@ -44,7 +44,7 @@
 </content>
   </entry>
   <entry>
-    <title>6月3日</title>
+    <title>六月三日</title>
     <link rel="alternate" href="/blog/June03.html"/>
     <id>/blog/June03.html</id>
     <published>2013-07-10T16:20:00Z</published>
@@ -75,7 +75,7 @@ http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>六月17日</title>
+    <title>六月十七日</title>
     <link rel="alternate" href="/blog/June17.html"/>
     <id>/blog/June17.html</id>
     <published>2013-07-10T16:18:00Z</published>
@@ -103,7 +103,7 @@ http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>6月24日</title>
+    <title>六月二十四日</title>
     <link rel="alternate" href="/blog/June24.html"/>
     <id>/blog/June24.html</id>
     <published>2013-07-10T15:52:00Z</published>
@@ -168,7 +168,7 @@ http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;强烈呼唤更多更多同学把自己的blog登记在https://jinshuju.net/f/e9YkXt ，以便进入我们的搜索雷达。&lt;/p&gt;
+    <content type="html">&lt;p&gt;强烈呼唤更多更多同学把自己的blog登记在&lt;a href="https://jinshuju.net/f/e9YkXt"&gt;金数据&lt;/a&gt; ，以便进入我们的搜索雷达。&lt;/p&gt;
 
 &lt;h3 id="gradlejava"&gt;Gradle在大型Java项目上的应用&lt;/h3&gt;
 &lt;p&gt;在之前的分享中，我们介绍过Gradle的基本用法，还是那句话，Java程序员如果用Maven，你就Out了。如果不想让人嘲笑，赶紧投入到新构建工具的阵营来吧！这次给大家带来一些高级用法的是何海洋，他用一篇&lt;a href="http://www.infoq.com/cn/articles/Gradle-application-in-large-Java-projects"&gt;《Gradle在大型Java项目上的应用》&lt;/a&gt;证明了自己不仅仅是乒乓球大师，更是Java高手。&lt;/p&gt;
