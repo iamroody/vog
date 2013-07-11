@@ -112,14 +112,17 @@
 &lt;h3 id="expressjssocketio"&gt;让expressjs和socket.io分享同一个路由&lt;/h3&gt;
 &lt;p&gt;另一个是郑泽楷，他算是一名特长生，特长是前端开发，所以，他的blog对前端开发相关的技术关注很多，而来自JavaScript世界的Node.js自然也纳入了他的兴趣范畴。&lt;a href="http://www.closure.pro/index.html#/article/51c2e064e742b80000000001"&gt;《让expressjs和socket.io分享同一个路由》&lt;/a&gt;让我们看到ThoughtWorker身上应有的那种爱折腾劲。&lt;/p&gt;
 
-&lt;h3 id="gradle"&gt;Gradle的基础教程&lt;/h3&gt;
+&lt;h3 id="gradle"&gt;Gradle基础教程&lt;/h3&gt;
 &lt;p&gt;如果你在做一个Java项目，请问你的构建工具是什么？如果你的答案是Ant，只有一个字形容“土”，如果是Maven，那么恭喜你，你out了。君不见在新版技术雷达里，Maven已经On Hold了吗？也就是说，老项目不得已，新项目就别用了。那用什么呢？Gradle和Buildr是新时代的选择。西安办公室的王磊为我们提供了一个Gradle的基础教程(&lt;a href="http://wldandan.github.io/blog/2013/01/23/gradle-learning-one/"&gt;一&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/23/gradle-learning-two/"&gt;二&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/24/gradle-learning-three/"&gt;三&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/25/gradle-learning-four/"&gt;四&lt;/a&gt;)，帮助我们走上Gradle的康庄大道，从此告别恼人的XML！&lt;/p&gt;
 
-&lt;h3 id="coffeescript"&gt;CoffeeScript&lt;/h3&gt;
+&lt;h3 id="inside-coffeescript"&gt;Inside CoffeeScript&lt;/h3&gt;
 &lt;p&gt;西安办公室的姜鹏是米糕产品团队的一员干将，要知道，以米糕的不安好心，他从开发团队里带走的都是些精明强干之辈。这里分享的是姜鹏对于CoffeeScript的理解，鉴于许多人都知道JavaScript的水有多深，有机会跳脱出来，换个方式写代码，你会如春风拂面搬清爽，话不多说，请看 &lt;a href="http://jiangpeng.info/blogs/2012/05/26/inside-coffeescript-1.html"&gt;Inside CoffeeScript: 语法强大&lt;/a&gt;, &lt;a href="http://jiangpeng.info/blogs/2012/05/26/inside-coffeescript-2.html"&gt;Inside CoffeeScript: 语法强壮&lt;/a&gt;。&lt;/p&gt;
 
-&lt;h3 id="groovy"&gt;Groovy&lt;/h3&gt;
-&lt;p&gt;北京有一个被许多人奉为偶像的人，因为他从来都是言简意赅，直中要害。所以，他一旦发言，大家通常的选择，就是好好听着。他叫李光磊，他最近对Groovy有了兴趣，所以，我们有了一系列Groovy文章可以看，猛击查看：&lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;系列一&lt;/a&gt; &lt;a href=""&gt;系列二&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id="groovy-beginner"&gt;Groovy Beginner&lt;/h3&gt;
+&lt;p&gt;北京有一个被许多人奉为偶像的人，因为他从来都是言简意赅，直中要害。所以，他一旦发言，大家通常的选择，就是好好听着。他叫李光磊，他最近对Groovy有了兴趣，所以，我们有了一系列Groovy文章可以看，猛击查看：
+&lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;《Closure, ExpandoMetaClass, delegate, they don’t like each other?》&lt;/a&gt; 
+&lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;Collections (vs. LINQ and STL)&lt;/a&gt;
+&lt;a href="http://liguanglei.name/blogs/2013/06/06/groovy-beginner-a-brief-summary/"&gt;A Brief Summary&lt;/a&gt;&lt;/p&gt;
 
 </content>
   </entry>
@@ -141,15 +144,18 @@
 &lt;h3 id="test-tips"&gt;2 Test Tips&lt;/h3&gt;
 &lt;p&gt;西安办公室的张久坤为我们带来了&lt;a href="http://xuwugui.github.io/blog/2013/06/21/2-test-tips/"&gt;《2 Test Tips》&lt;/a&gt;，两个非常实用的小技巧，却很好地解决了在Java开发中常见的两个问题：使用Joda Time函数模拟当前时间，以及编写自己的Matcher。顺便说一下，如果你用的JUnit版本大于4.11，用FeatureMatcher定制Matcher会更容易：&lt;/p&gt;
 
-&lt;h3 id="angularjs"&gt;Angularjs&lt;/h3&gt;
-&lt;p&gt;用各种JavaScript库，通过各种方式找出想要修改的元素，然后应用一些脚本来动态化页面？或者使用前端的各种MVC框架，更好地组织庞大的JavaScript代码？何不尝试扩展HTML本身，使其更容易展现动态的内容呢！ 这就是AngularJS的设计初衷，北京办公室张霄翀分享了 Angularjs的一些有趣的特性（比如scope，data-binding，service/provider/factory），轻击查看 &lt;a href="http://hellobug.github.io/blog/angularjs-introduction/"&gt;感受篇&lt;/a&gt; &lt;a href="http://hellobug.github.io/blog/angularjs-scope/"&gt;Scope&lt;/a&gt; &lt;a href="http://hellobug.github.io/blog/angularjs-two-ways-binding/"&gt;View-Model双向绑定背后的故事&lt;/a&gt; &lt;a href="http://hellobug.github.io/blog/angularjs-providers/"&gt;伤不起的provider们&lt;/a&gt;：&lt;/p&gt;
+&lt;h3 id="angularjs"&gt;AngularJS&lt;/h3&gt;
+&lt;p&gt;用各种JavaScript库，通过各种方式找出想要修改的元素，然后应用一些脚本来动态化页面？或者使用前端的各种MVC框架，更好地组织庞大的JavaScript代码？何不尝试扩展HTML本身，使其更容易展现动态的内容呢！ 这就是AngularJS的设计初衷，北京办公室张霄翀分享了AngularJS的一些有趣的特性（比如scope，data-binding，service/provider/factory），轻击查看 
+&lt;a href="http://hellobug.github.io/blog/angularjs-introduction/"&gt;感受篇&lt;/a&gt; 
+&lt;a href="http://hellobug.github.io/blog/angularjs-scope/"&gt;Scope&lt;/a&gt; 
+&lt;a href="http://hellobug.github.io/blog/angularjs-two-ways-binding/"&gt;View-Model双向绑定背后的故事&lt;/a&gt; 
+&lt;a href="http://hellobug.github.io/blog/angularjs-providers/"&gt;伤不起的provider们&lt;/a&gt;：&lt;/p&gt;
 
 &lt;h3 id="java"&gt;Java常见分布式协议比较系列&lt;/h3&gt;
 &lt;p&gt;如果你们觉得只有追求新的技术才是Geek，那只能说你们，too young，too naive。所谓Geek就是把一件平淡至极的事情做到让人惊叹的地步。所以做为一个靠谱的Geek，必须要面对那些真实被使用的技术，哪怕它们很陈旧。有请北京办公室的张晓庆同学送上《Java常见分布式协议比较系列》，在这里你会看到&lt;a href="http://xiaoqing.me/2012/12/19/protocols-ejb/"&gt;EJB&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/21/protocols-rmi/"&gt;RMI&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/25/protocols-rpc/"&gt;RPC&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/28/protocols-corba/"&gt;CORBA&lt;/a&gt;和&lt;a href="http://xiaoqing.me/2013/01/08/protocols-jms/"&gt;JMS&lt;/a&gt;等。&lt;/p&gt;
 
 &lt;h3 id="scala"&gt;scala的类型系统居然可以解题&lt;/h3&gt;
 &lt;p&gt;对于许多年轻的程序员而言，或许你错过了C++泛型初临之际的各种折腾，比如，用C++泛型参数求阶乘。但只要是内心有所追求的程序员，便无法停止对技术狂热，请看上海办公室李鹏的发现&lt;a href="http://freewind.me/blog/20130612/2153.html"&gt;《scala的类型系统居然可以解题》&lt;/a&gt;：&lt;/p&gt;
-
 </content>
   </entry>
   <entry>
@@ -170,8 +176,12 @@
 &lt;h3 id="section"&gt;使用功能开关更好地实现持续部署&lt;/h3&gt;
 &lt;p&gt;如今的开发，周期越来越快，功能越来越多，如果还在用Feature Branch隔离不同的功能，那就有些土了，现在人家开发都用Feature Toggle。如果你还不知道Feature Toggle怎么做，不妨看看西安办公室崔立强的&lt;a href="http://www.infoq.com/cn/articles/function-switch-realize-better-continuous-implementations"&gt;《使用功能开关更好地实现持续部署》&lt;/a&gt;。顺便说一下，《ThoughtWorks文集2》里也有一章专门讲述Feature Toggle。&lt;/p&gt;
 
-&lt;h3 id="java-8"&gt;Java 8&lt;/h3&gt;
-&lt;p&gt;Java8即将面市了，他是一如既往的土呢，还是会换上些新潮的服饰呢？想不想知道那些年我们爱过的这门语言有什么新特性？不妨跟着我们北京办公室的才子——张振宇——提前体验一下Java 8，共赏新时代Java的序曲 &lt;a href="http://zyzhang.github.io/blog/2013/06/13/intellij-java8-compile-require-target-1-8"&gt;一&lt;/a&gt; &lt;a href="http://zyzhang.github.io/blog/2013/06/13/java8previewdefaultmethod"&gt;二&lt;/a&gt; &lt;a href="http://zyzhang.github.io/blog/2013/06/15/java8-preview-functional-interface"&gt;三&lt;/a&gt; &lt;a href="http://zyzhang.github.io/blog/2013/06/15/java8-preview-method-reference"&gt;四&lt;/a&gt;：&lt;/p&gt;
+&lt;h3 id="java-8"&gt;Java 8预览&lt;/h3&gt;
+&lt;p&gt;Java8即将面市了，他是一如既往的土呢，还是会换上些新潮的服饰呢？想不想知道那些年我们爱过的这门语言有什么新特性？不妨跟着我们北京办公室的才子——张振宇——提前体验一下Java 8，共赏新时代Java的序曲
+&lt;a href="http://zyzhang.github.io/blog/2013/06/13/intellij-java8-compile-require-target-1-8"&gt;IntelliJ中Java8编译错误&lt;/a&gt; 
+&lt;a href="http://zyzhang.github.io/blog/2013/06/13/java8previewdefaultmethod"&gt;Java 8 预览之Default Method&lt;/a&gt; 
+&lt;a href="http://zyzhang.github.io/blog/2013/06/15/java8-preview-functional-interface"&gt;Java 8 预览之Functional Interface&lt;/a&gt; 
+&lt;a href="http://zyzhang.github.io/blog/2013/06/15/java8-preview-method-reference"&gt;Java 8 预览之Method Reference&lt;/a&gt;：&lt;/p&gt;
 
 &lt;h3 id="chocolatey-"&gt;Chocolatey, 我爱你&lt;/h3&gt;
 &lt;p&gt;在程序员的眼里，一切都要尽可能自动化，这也是Windows之前如此不受待见的重要原因。Windows程序员别提多羡慕其它世界程序员用包管理器安装软件的过程了。好在世界有了一些改变，有个Chocolatey的东西出现了。北京办公室的韩锴高声疾呼&lt;a href="http://isaachan.github.io/blog/2013/02/07/chocolatey-i-love-you/"&gt;《Chocolatey, 我爱你》&lt;/a&gt;，让我们共同赏析这份炽烈的爱：&lt;/p&gt;
