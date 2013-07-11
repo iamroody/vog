@@ -1,12 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab:100,300,500,700);
-/* line 4, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 4, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 6, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 6, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -15,56 +15,56 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font-size: 100%;
   vertical-align: baseline; }
 
-/* line 7, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 7, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 8, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 8, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle; }
 
-/* line 9, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 9, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 q, blockquote {
   quotes: none; }
 
-/* line 10, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 10, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none; }
 
-/* line 11, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 11, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 a img {
   border: none; }
 
-/* line 12, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 12, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-/* line 18, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 18, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 button, input {
   line-height: normal; }
 
-/* line 19, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 19, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 button, input, select, textarea {
   font-size: 100%;
   margin: 0;
   vertical-align: baseline;
   *vertical-align: middle; }
 
-/* line 20, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 20, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   cursor: pointer;
   *overflow: visible; }
 
-/* line 21, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 21, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 button::-moz-focus-inner, input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-/* line 22, /Users/twer/github/vog/source/stylesheets/libs/_reset.scss */
+/* line 22, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_reset.scss */
 textarea {
   overflow: auto;
   vertical-align: top;
@@ -72,12 +72,12 @@ textarea {
 
 /* ::Clearfixs and extends. Use which suits best */
 /* ----------------------------------------------------------- */
-/* line 41, /Users/twer/github/vog/source/stylesheets/screen.scss */
+/* line 41, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
 .clearfix, .container, section {
   overflow: hidden;
   *zoom: 1; }
 
-/* line 45, /Users/twer/github/vog/source/stylesheets/screen.scss */
+/* line 45, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
 .pie-clearfix {
   *zoom: 1; }
   /* line 38, /Users/twer/.rvm/gems/ruby-2.0.0-p247@vog/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
@@ -86,23 +86,23 @@ textarea {
     display: table;
     clear: both; }
 
-/* line 52, /Users/twer/github/vog/source/stylesheets/screen.scss */
+/* line 52, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
 .max-width {
   max-width: 100%;
   height: auto; }
 
 /* ::Base styles Almost exclusively single element selectors */
 /* ------------------------------------------------------------ */
-/* line 59, /Users/twer/github/vog/source/stylesheets/screen.scss */
+/* line 59, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
 html {
   font-size: 100%; }
 
-/* line 63, /Users/twer/github/vog/source/stylesheets/screen.scss */
+/* line 63, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
 body {
   color: #666666;
   font-family: Helvetica, Arial, sans-serif; }
 
-/* line 68, /Users/twer/github/vog/source/stylesheets/screen.scss */
+/* line 68, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
 a {
   color: #666666;
   white-space: pre;
@@ -113,81 +113,81 @@ a {
   white-space: -moz-pre-wrap;
   white-space: -hp-pre-wrap;
   word-wrap: break-word; }
-  /* line 71, /Users/twer/github/vog/source/stylesheets/screen.scss */
+  /* line 71, /Users/twer/workspace/p2_newsletter/source/stylesheets/screen.scss */
   a:hover, a:focus, a:active {
     color: #222222; }
 
-/* line 14, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 14, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 h1 {
   font-size: 1.875em;
   line-height: 1.33333em;
   margin: 0.53333em 0 0.53333em 0; }
 
-/* line 19, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 19, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 h2 {
   font-size: 1.5em;
   line-height: 1.33333em;
   margin: 1.33333em 0 0.66667em 0; }
 
-/* line 24, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 24, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 h3 {
   font-size: 1.125em;
   line-height: 1.33333em;
   margin: 0.88889em 0 0.88889em 0; }
 
-/* line 29, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 29, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 h4 {
   font-size: 0.875em;
   line-height: 1.71429em;
   margin: 0 0 0.57143em 0; }
 
-/* line 34, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 34, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 h5 {
   font-size: 0.75em;
   line-height: 1.33333em;
   margin: 0 0 0.66667em 0; }
 
-/* line 39, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 39, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 h6 {
   font-size: 0.625em;
   line-height: 1.6em;
   margin: 0 0 0.8em 0; }
 
-/* line 43, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 43, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 p, pre, label {
   font-size: 1em;
   line-height: 1.5em;
   margin: 0 0 1em 0; }
 
-/* line 48, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 48, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 ol, ul {
   font-size: 1em;
   line-height: 1.5em;
   margin: 0 0 2em 0; }
 
-/* line 53, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 53, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 li {
   line-height: auto; }
 
-/* line 59, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 59, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 ul {
   list-style-position: outside;
   list-style-type: disc; }
 
-/* line 60, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 60, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 ol {
   list-style-position: outside;
   list-style-type: decimal; }
 
-/* line 61, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 61, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 strong, b {
   font-weight: 600; }
 
-/* line 62, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 62, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 em, i, q {
   font-style: italic; }
 
-/* line 64, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+/* line 64, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
 blockquote {
   border-left: none;
   line-height: normal;
@@ -196,7 +196,7 @@ blockquote {
   -webkit-column-break-inside: avoid;
   -moz-column-break-inside: avoid;
   -column-break-inside: avoid; }
-  /* line 72, /Users/twer/github/vog/source/stylesheets/libs/_typography.scss */
+  /* line 72, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_typography.scss */
   blockquote p {
     font-family: "Roboto Slab", serif;
     font-style: italic;
@@ -205,28 +205,28 @@ blockquote {
     line-height: 1.45455em;
     margin: 1.2em 0 1.2em 0; }
 
-/* line 8, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 8, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 label, select {
   display: block; }
 
-/* line 12, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 12, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 input[type="search"] {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   -webkit-appearance: textfield;
   box-sizing: content-box; }
 
-/* line 20, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 20, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button {
   -webkit-appearance: none; }
 
-/* line 24, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 24, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
-/* line 42, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 42, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 textarea,
 input[type="text"],
 input[type="password"],
@@ -249,7 +249,7 @@ input[type="tel"] {
   -o-transition: border linear 0.2s, box-shadow linear 0.2s;
   transition: border linear 0.2s, box-shadow linear 0.2s; }
 
-/* line 53, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 53, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 input[type="radio"],
 input[type="checkbox"] {
   margin: 4px 0 0;
@@ -258,7 +258,7 @@ input[type="checkbox"] {
   line-height: normal;
   cursor: pointer; }
 
-/* line 67, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 67, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 input[type="file"],
 input[type="image"],
 input[type="submit"],
@@ -268,13 +268,13 @@ input[type="radio"],
 input[type="checkbox"] {
   width: auto; }
 
-/* line 72, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 72, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 select,
 input[type="file"] {
   *margin-top: 4px;
   /* In IE7, the height of the select element cannot be changed by height, only font-size */ }
 
-/* line 79, /Users/twer/github/vog/source/stylesheets/libs/_forms.scss */
+/* line 79, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_forms.scss */
 select:focus,
 input[type="file"]:focus,
 input[type="radio"]:focus,
@@ -285,41 +285,41 @@ input[type="checkbox"]:focus {
 
 /* ::Layout styles - Layouts hold one or more modules together. */
 /* ------------------------------------------------------------ */
-/* line 4, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 4, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .container {
   margin: 0 auto;
   width: 95%; }
 
-/* line 10, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 10, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 ol {
   list-style-position: inside;
   list-style-type: decimal; }
 
-/* line 11, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 11, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 ul {
   list-style-position: inside;
   list-style-type: disc; }
 
-/* line 12, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 12, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 h1, h2, h3 {
   font-family: "Roboto Slab", serif;
   font-weight: 300;
   color: #000; }
 
-/* line 17, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 17, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 body {
   font-family: "Open Sans", sans-serif;
   margin: 0.5em 0.6875em 1.375em 0.6875em;
   font-weight: 300; }
-  /* line 22, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 22, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   body b, body strong {
     font-weight: 700; }
-  /* line 25, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 25, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   body bi {
     font-weight: 700;
     font-style: italic; }
 
-/* line 30, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 30, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .cover {
   -webkit-transition: width 500ms ease-in-out;
   -moz-transition: width 500ms ease-in-out;
@@ -336,23 +336,23 @@ body {
   width: 0;
   margin-left: -12080px; }
 
-/* line 43, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 43, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .issue-notes {
   border-bottom: 1px #e6e6e6 solid; }
 
-/* line 46, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 46, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .issues {
   background: white;
   padding: 32px 0 0 0; }
-  /* line 50, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 50, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .issues ul {
     border-bottom: 1px #e6e6e6 solid;
     margin: 0;
     padding: 10px 0; }
-    /* line 55, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 55, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .issues ul li {
       display: inline; }
-      /* line 59, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 59, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
       .issues ul li a {
         text-transform: uppercase;
         text-decoration: none;
@@ -363,20 +363,20 @@ body {
         transition: color 200ms ease;
         color: #bbbbbb;
         font-weight: 700; }
-        /* line 66, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+        /* line 66, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
         .issues ul li a:hover {
           color: #00cc88; }
 
-/* line 76, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 76, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .table-of-contents article {
   margin: 0.9375em 0;
   border-bottom: 1px #e6e6e6 solid;
   text-align: center; }
-/* line 82, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 82, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .table-of-contents .author-avatar {
   float: none;
   max-width: 3em; }
-/* line 86, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 86, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .table-of-contents .article-number {
   font-family: "Roboto Slab", serif;
   font-style: italic;
@@ -385,66 +385,66 @@ body {
   top: 0;
   font-size: 0.75em;
   color: #ccc; }
-/* line 97, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 97, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .table-of-contents .summary {
   display: block;
   padding: 0px 0 8px 0; }
-  /* line 102, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 102, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .table-of-contents .summary h3, .table-of-contents .summary p {
     font-size: 12px;
     margin: 0.33333em 0 0.33333em 0; }
-    /* line 107, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 107, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .table-of-contents .summary h3 .title, .table-of-contents .summary p .title {
       text-transform: uppercase; }
-    /* line 111, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 111, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .table-of-contents .summary h3 .author, .table-of-contents .summary p .author {
       color: #bbb; }
-    /* line 115, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 115, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .table-of-contents .summary h3 a, .table-of-contents .summary p a {
       text-decoration: none; }
 
-/* line 123, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 123, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .left-column {
   margin: 0 0 1.25em 0;
   text-align: center; }
-  /* line 127, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 127, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .left-column .author {
     padding: 0.625em;
     margin: 0; }
-  /* line 131, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 131, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .left-column .author-avatar {
     max-width: 7em; }
 
-/* line 135, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 135, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .author-avatar {
   background-color: whitesmoke;
   -webkit-mask-image: url(../img/circle-img-mask.png);
   -webkit-mask-size: 100% 100%; }
 
-/* line 140, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 140, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 article header {
   border-bottom: 1px #e6e6e6 solid;
   margin-bottom: 1.25em; }
 
-/* line 145, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 145, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 article footer {
   border-top: 1px #e6e6e6 solid;
   margin-top: 0.625em;
   padding-top: 1.25em;
   text-align: center; }
-  /* line 151, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 151, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   article footer img {
     width: 2em;
     margin-right: 0.75em;
     vertical-align: middle; }
 
-/* line 158, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 158, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 article .byline {
   font-size: 12px;
   text-transform: uppercase;
   color: #bbb; }
 
-/* line 164, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 164, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .paginate {
   opacity: 1;
   -webkit-transition: all 500ms ease;
@@ -452,7 +452,7 @@ article .byline {
   -ms-transition: all 500ms ease;
   -o-transition: all 500ms ease;
   transition: all 500ms ease; }
-  /* line 168, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 168, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .paginate a {
     background-color: rgba(0, 0, 0, 0.15);
     color: #fff;
@@ -472,35 +472,35 @@ article .byline {
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease; }
-    /* line 182, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 182, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a.prev {
       left: 0;
       margin-left: 30px;
       padding-right: 4px; }
-    /* line 187, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 187, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a.next {
       right: 0;
       margin-right: 30px;
       padding-left: 4px; }
-    /* line 192, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 192, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a:hover {
       background-color: #00cc88; }
-      /* line 196, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 196, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.prev {
         left: 10px; }
-      /* line 199, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 199, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.next {
         right: 10px; }
 
-/* line 205, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 205, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .pull-right {
   float: right; }
 
-/* line 208, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 208, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .pull-left {
   float: left; }
 
-/* line 212, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 212, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 #title {
   color: #fff;
   font-size: 10em;
@@ -510,7 +510,7 @@ article .byline {
   margin-left: 0.01em;
   text-align: center; }
 
-/* line 222, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 222, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 #subtitle {
   color: #fff;
   text-align: center;
@@ -518,14 +518,14 @@ article .byline {
   font-size: 2.5em;
   margin: 0; }
 
-/* line 230, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 230, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 #corp {
   color: #fff;
   font-size: 1.79em;
   margin: 0;
   text-align: center; }
 
-/* line 236, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 236, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .logo {
   position: fixed;
   top: 26px;
@@ -533,37 +533,37 @@ article .byline {
   /*z-index: 1;*/
   padding: 0; }
 
-/* line 244, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 244, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .gist {
   font-size: 0.8em; }
 
-/* line 248, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 248, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 pre.line-pre {
   white-space: normal !important; }
 
-/* line 253, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 253, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 div.normal-gist pre.line-pre {
   white-space: pre !important; }
 
-/* line 258, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 258, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .gist-meta {
   display: none; }
 
-/* line 262, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 262, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 footer {
   display: none; }
 
-/* line 266, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 266, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .snippet {
   font-size: 0.8em;
   margin-left: 2em;
   display: inline-block; }
 
-/* line 272, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 272, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .computer {
   font-family: "courier new"; }
 
-/* line 276, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 276, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .inline-code {
   font-family: 'courier new';
   background-color: #f8f8f8;
@@ -575,14 +575,14 @@ footer {
 /* ::Media queries */
 /* ------------------------------------------------------------ */
 @media screen and (max-width: 47.9375em) {
-  /* line 295, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 295, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .logo {
     position: static;
     top: 0;
     left: 0;
     text-align: left; }
 
-  /* line 301, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 301, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   #title {
     color: #bbb;
     font-size: 2em;
@@ -590,55 +590,55 @@ footer {
     line-height: 1.0em;
     padding-bottom: 0; }
 
-  /* line 308, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 308, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   #subtitle {
     color: #bbb;
     font-size: 2em;
     display: inline-block;
     line-height: 1.0em; }
 
-  /* line 314, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 314, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   #corp {
     color: #bbb;
     font-size: 1em;
     line-height: 1.0em;
     text-align: left; }
 
-  /* line 320, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 320, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   #start-reading {
     display: none; } }
 @media screen and (min-width: 30em) {
-  /* line 326, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 326, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .container {
     width: 80%; } }
 @media screen and (min-width: 47.9375em) {
-  /* line 334, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 334, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   #bottom-pages {
     display: block; }
 
-  /* line 338, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 338, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   body {
     margin: 0 0.6875em 1.375em 0.6875em; }
 
-  /* line 341, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 341, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .container {
     min-width: 36.625em; }
 
-  /* line 344, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 344, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .page {
     margin-left: 11.875em; }
 
-  /* line 347, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 347, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .table-of-contents {
     margin-left: 11.875em; }
-    /* line 349, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 349, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .table-of-contents article {
       position: relative;
       text-align: left; }
-    /* line 353, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 353, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .table-of-contents .summary {
       margin-left: 2.25em; }
-    /* line 359, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 359, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .table-of-contents .author-avatar {
       display: none;
       position: absolute;
@@ -647,18 +647,18 @@ footer {
       width: 100%;
       margin-top: -2.25em; }
 
-  /* line 369, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 369, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .cover {
     width: 12044px; }
 
-  /* line 372, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 372, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .left-column {
     max-width: 11.875em;
     margin: 3.375em 0 0 -11.875em;
     position: fixed;
     top: 0;
     text-align: center; }
-    /* line 379, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 379, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .left-column .author-avatar {
       width: 100%;
       max-width: 9.25em;
@@ -666,43 +666,43 @@ footer {
       margin-bottom: 1.25em;
       margin-right: 0; }
 
-  /* line 387, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 387, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   h1 {
     font-size: 2.375em;
     line-height: 1.26316em;
     margin: 0.42105em 0 0.42105em 0; }
 
-  /* line 392, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 392, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   h2 {
     font-size: 1.875em;
     line-height: 1.33333em;
     margin: 1.06667em 0 0.53333em 0; }
 
-  /* line 397, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 397, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   h3 {
     font-size: 1.375em;
     line-height: 1.45455em;
     margin: 0.72727em 0 0.72727em 0; }
 
-  /* line 402, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 402, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   h4 {
     font-size: 1.25em;
     line-height: 1.2em;
     margin: 0 0 0.4em 0; }
 
-  /* line 407, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 407, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   h5 {
     font-size: 1.125em;
     line-height: 1.33333em;
     margin: 0 0 0.44444em 0; }
 
-  /* line 412, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 412, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   h6 {
     font-size: 1em;
     line-height: 1.5em;
     margin: 0 0 0.5em 0; }
 
-  /* line 416, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 416, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   article footer a img {
     opacity: 0.2;
     width: 2em;
@@ -716,7 +716,7 @@ footer {
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease; }
-    /* line 422, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 422, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     article footer a img:hover {
       opacity: 1;
       -webkit-filter: grayscale(0%);
@@ -725,76 +725,76 @@ footer {
       -o-filter: grayscale(0%);
       filter: grayscale(0%); } }
 @media screen and (min-width: 64em) {
-  /* line 431, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 431, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .container {
     width: 48em; }
 
-  /* line 434, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 434, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .paginate {
     opacity: 1; }
-    /* line 436, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 436, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a {
       position: fixed; } }
-/* line 441, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 441, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 #bottom-pages {
   display: none; }
 
 @media screen and (max-width: 64em) {
-  /* line 447, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 447, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .paginate a {
     position: absolute;
     top: 40px;
     line-height: 36px;
     width: 36px;
     font-size: 18px; }
-    /* line 453, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 453, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a.prev {
       left: 0;
       margin-left: 20px;
       padding-right: 4px; }
-    /* line 458, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 458, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a.next {
       right: 0;
       margin-right: 20px;
       padding-left: 4px; }
-    /* line 463, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 463, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     .paginate a:hover {
       background-color: #00cc88; }
-      /* line 467, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 467, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.prev {
         left: 0; }
-      /* line 470, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 470, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.next {
         right: 0; }
 
-  /* line 476, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 476, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   #bottom-pages {
     margin-top: -110px;
     display: block; }
-    /* line 479, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 479, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
     #bottom-pages .paginate {
       text-align: center; }
-      /* line 481, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 481, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
       #bottom-pages .paginate a {
         position: inherit;
         font-size: 18px;
         line-height: 36px;
         width: 36px; }
-        /* line 486, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+        /* line 486, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
         #bottom-pages .paginate a.prev {
           float: left; }
-        /* line 489, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+        /* line 489, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
         #bottom-pages .paginate a.next {
           float: right; } }
 @media print {
   @page {
     margin: 6.25em; }
 
-  /* line 502, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 502, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   body {
     line-height: 1em; }
 
-  /* line 505, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 505, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .left-column {
     max-width: 10em;
     margin-right: 3em;
@@ -802,45 +802,45 @@ footer {
     border-bottom: none;
     margin-bottom: 0; }
 
-  /* line 512, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 512, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   .page {
     margin-top: 3em;
     margin-left: 10em; }
 
-  /* line 516, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 516, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
   article footer {
     display: none; } }
 @media screen and (max-width: 769px) {
   -webkit-text-size-adjust: none; }
 /* ::State styles */
 /* ------------------------------------------------------------ */
-/* line 531, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 531, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .is-hidden {
   display: none; }
 
-/* line 535, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 535, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .is-shown, .is-block {
   display: block; }
 
-/* line 539, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 539, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .is-uppercase {
   text-transform: uppercase;
   letter-spacing: 1px; }
 
-/* line 544, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 544, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 .is-lowercase {
   text-transform: lowercase; }
 
 /* ::Debugs and #grid by Jon Gibbins */
 /* ----------------------------------------------------------- */
-/* line 552, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 552, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 #grid {
   width: 100%;
   position: absolute;
   top: 0;
   left: 0; }
 
-/* line 559, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 559, /Users/twer/workspace/p2_newsletter/source/stylesheets/libs/_custom.scss */
 #grid div.horiz {
   height: 8px;
   border-bottom: 1px solid #ddd;

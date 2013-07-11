@@ -40,7 +40,6 @@
 
 &lt;h3 id="thoughtworks"&gt;而立之年与ThoughtWorks相遇&lt;/h3&gt;
 &lt;p&gt;纯技术的文章过后，我们再来分享老男孩的P2追求，银大伟的&lt;a href="http://blogs.exmertec.com/davidyin/?e=2"&gt;《而立之年与ThoughtWorks相遇》&lt;/a&gt;，相信每个ThoughtWorker背后都有一段自己不懈努力的故事。&lt;/p&gt;
-
 </content>
   </entry>
   <entry>
@@ -53,25 +52,19 @@
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h3 id="xss"&gt;防御XSS的七条原则&lt;/h3&gt;
-&lt;p&gt;安全一直是我们在企业级软件开发中关注不多的地方，但如果你曾在成都办公室里听过马伟的分享，你就知道，这个冷面笑匠居然可以把安全讲得如此意兴盎然。如果你还不知道什么是XSS，那马伟的这篇《防御XSS的七条原则》会是一篇很好的启蒙教材。顺便说一下，看一下域名，你就知道马伟对于Web安全有多庞大的构想了，如果你愿意在Web安全方面下下功夫，欢迎联系马伟。
-http://webappsecuritylab.com/?p=6&lt;/p&gt;
+&lt;p&gt;安全一直是我们在企业级软件开发中关注不多的地方，但如果你曾在成都办公室里听过马伟的分享，你就知道，这个冷面笑匠居然可以把安全讲得如此意兴盎然。如果你还不知道什么是XSS，那马伟的这篇&lt;a href="http://webappsecuritylab.com/?p=6"&gt;《防御XSS的七条原则》&lt;/a&gt;会是一篇很好的启蒙教材。顺便说一下，看一下域名，你就知道马伟对于Web安全有多庞大的构想了，如果你愿意在Web安全方面下下功夫，欢迎联系马伟。&lt;/p&gt;
 
 &lt;h3 id="section"&gt;跨了个域&lt;/h3&gt;
-&lt;p&gt;知道如何防御XSS，也要知道正确使用XSS，王秋就像和马伟商量好了一样，对应着写了一篇《跨了个域》。有了这一正一反两篇文章，我们便可以对这个领域有一个更全面的认识。
-http://ishouldbeageek.me/2013/05/31/cross-origin-request/&lt;/p&gt;
+&lt;p&gt;知道如何防御XSS，也要知道正确使用XSS，王秋就像和马伟商量好了一样，对应着写了一篇&lt;a href="http://ishouldbeageek.me/2013/05/31/cross-origin-request/"&gt;《跨了个域》&lt;/a&gt;。有了这一正一反两篇文章，我们便可以对这个领域有一个更全面的认识。&lt;/p&gt;
 
 &lt;h3 id="travis-ci"&gt;持续集成之道：在你的开源项目中使用Travis CI&lt;/h3&gt;
-&lt;p&gt;作为ThoughtWorker，很多人都在github上拥有自己的账号，也都是CI坚定不移的支持者。但你知道Travis CI是github项目做CI的绝配吗？如果你还不知道，黄博文的《持续集成之道：在你的开源项目中使用Travis CI》会是一个不错的起点，文中以一个Java项目为例，介绍了Travis CI的搭建过程。
-http://huangbowen.net/blog/2013/05/30/use-travis-ci-to-your-open-source-project/&lt;/p&gt;
+&lt;p&gt;作为ThoughtWorker，很多人都在github上拥有自己的账号，也都是CI坚定不移的支持者。但你知道Travis CI是github项目做CI的绝配吗？如果你还不知道，黄博文的&lt;a href="http://huangbowen.net/blog/2013/05/30/use-travis-ci-to-your-open-source-project/"&gt;《持续集成之道：在你的开源项目中使用Travis CI》&lt;/a&gt;会是一个不错的起点，文中以一个Java项目为例，介绍了Travis CI的搭建过程。&lt;/p&gt;
 
 &lt;h3 id="cssbeforeafter"&gt;CSS中的before和after伪元素及其应用&lt;/h3&gt;
-&lt;p&gt;CSS恐怕是大多数程序员躲不开的一课，但真正熟练掌握好CSS其实并不是那么多，比如，你知道CSS中before和after是怎么回事吗？西安办公室邱俊涛的《CSS中的before和after伪元素及其应用》用一个简单的例子为我们做了一个阐述。顺便广告一下，邱俊涛的新书《JavaScript核心概念及实践》刚刚出版。
-http://icodeit.org/2013/05/before-and-after-selector-in-css/&lt;/p&gt;
+&lt;p&gt;CSS恐怕是大多数程序员躲不开的一课，但真正熟练掌握好CSS其实并不是那么多，比如，你知道CSS中before和after是怎么回事吗？西安办公室邱俊涛的&lt;a href="http://icodeit.org/2013/05/before-and-after-selector-in-css/"&gt;《CSS中的before和after伪元素及其应用》&lt;/a&gt;用一个简单的例子为我们做了一个阐述。顺便广告一下，邱俊涛的新书《JavaScript核心概念及实践》刚刚出版。&lt;/p&gt;
 
 &lt;h3 id="section-1"&gt;测试金字塔&lt;/h3&gt;
-&lt;p&gt;老马（Martin Fowler）最近在重新整理一些术语，比如《测试金字塔》，北京办公室的张振宇将它译成了中文，供各位参考。如果你有兴趣，老马还有很多写好的文章等你翻译。
-http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
-
+&lt;p&gt;老马（Martin Fowler）最近在重新整理一些术语，比如&lt;a href="http://zyzhang.github.io/blog/2013/04/28/test-pyramid/"&gt;《测试金字塔》&lt;/a&gt;，北京办公室的张振宇将它译成了中文，供各位参考。如果你有兴趣，老马还有很多写好的文章等你翻译。&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -139,7 +132,7 @@ http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;时间来到2013年下半年，《The Voice of Geek》也已经运行超过了一个月。
+    <content type="html">&lt;p&gt;时间来到2013年下半年，《The Voice Of ThoughtWorkers》也已经运行超过了一个月。
 在这样一个历史阶段，我们终于实现了四个办公室同台演出，希望以后这样的场面可以经常出现！&lt;/p&gt;
 
 &lt;h3 id="javascriptreplace"&gt;JavaScript函数replace揭秘&lt;/h3&gt;
@@ -168,9 +161,7 @@ http://zyzhang.github.io/blog/2013/04/28/test-pyramid/&lt;/p&gt;
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;强烈呼唤更多更多同学把自己的blog登记在&lt;a href="https://jinshuju.net/f/e9YkXt"&gt;金数据&lt;/a&gt; ，以便进入我们的搜索雷达。&lt;/p&gt;
-
-&lt;h3 id="gradlejava"&gt;Gradle在大型Java项目上的应用&lt;/h3&gt;
+    <content type="html">&lt;h3 id="gradlejava"&gt;Gradle在大型Java项目上的应用&lt;/h3&gt;
 &lt;p&gt;在之前的分享中，我们介绍过Gradle的基本用法，还是那句话，Java程序员如果用Maven，你就Out了。如果不想让人嘲笑，赶紧投入到新构建工具的阵营来吧！这次给大家带来一些高级用法的是何海洋，他用一篇&lt;a href="http://www.infoq.com/cn/articles/Gradle-application-in-large-Java-projects"&gt;《Gradle在大型Java项目上的应用》&lt;/a&gt;证明了自己不仅仅是乒乓球大师，更是Java高手。&lt;/p&gt;
 
 &lt;h3 id="lambda-"&gt;Lambda演算-编程语言算术操作实现&lt;/h3&gt;
