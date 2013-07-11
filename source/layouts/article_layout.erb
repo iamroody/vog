@@ -15,10 +15,15 @@
 		<section class="page">
 			<nav class="issues">
 				<ul class="clearfix">
-    				<li class="active"><a href="/index.html">VOG, 七月 2013</a></li>
+    				<li class="active"><a href="/index.html">七月刊 2013</a></li>
 				</ul>
 			</nav>
-    		<article><%= yield %> </article>
+    		<article>
+    			<header><h1><%= current_article.title %></h1></header>
+    			<div class="article-body">
+    				<%= yield %>
+    			</div>
+    		</article>
     	</section>
 	</div>
 <% end %>
