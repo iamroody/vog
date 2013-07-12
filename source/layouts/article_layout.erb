@@ -3,31 +3,31 @@
 <% end %>
 
 <% wrap_layout :layout do %>
-	<nav class="paginate">
-		<% if prev_article = current_article.previous_article %>
-    		<a href="<%= prev_article.url %>" class="prev">◀</a>  
-    	<%else%>
-    		<a href="/index.html" class="prev">◀</a>  
-    	<%end%>
+  <nav class="paginate">
+    <% if prev_article = current_article.previous_article %>
+        <a rel="prev" href="<%= prev_article.url %>" class="prev">◀</a>
+      <%else%>
+        <a rel="prev" href="/index.html" class="prev">◀</a>
+      <%end%>
 
-	    <% if next_article = current_article.next_article %>
-	        <a href="<%= next_article.url %>" class="next">▶</a>
-	    <% end %>
-	</nav>
+      <% if next_article = current_article.next_article %>
+          <a rel="next" href="<%= next_article.url %>" class="next">▶</a>
+      <% end %>
+  </nav>
 
-	<div class="container">
-		<section class="page">
-			<nav class="issues">
-				<ul class="clearfix">
-    				<li class="active"><a href="/index.html">The Voice Of ThoughtWorkers</a></li>
-				</ul>
-			</nav>
-    		<article>
-    			<header><h1><%= current_article.title %></h1></header>
-    			<div class="article-body">
-    				<%= yield %>
-    			</div>
-    		</article>
-    	</section>
-	</div>
+  <div class="container">
+    <section class="page">
+      <nav class="issues">
+        <ul class="clearfix">
+            <li class="active"><a href="/index.html">The Voice Of ThoughtWorkers</a></li>
+        </ul>
+      </nav>
+        <article>
+          <header><h1><%= current_article.title %></h1></header>
+          <div class="article-body">
+            <%= yield %>
+          </div>
+        </article>
+      </section>
+  </div>
 <% end %>
