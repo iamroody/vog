@@ -45,8 +45,8 @@ $base-font-size						: 16px; 				// Sets the browser default size. Shouldn't nee
 $base-line-height					: 8px;					// Baseline grid. Set to a sensible, small size.
 $round-to-nearest-half-line			: false;  				// Round the line height to the nearest half line height. Off by default 
 
-$heading-font						:'Roboto Slab', serif;
-$body-font							:'Open Sans', sans-serif;
+$heading-font						:'Roboto Slab', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', serif;
+$body-font							:'Open Sans', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
 
 
 
