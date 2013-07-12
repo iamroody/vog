@@ -198,7 +198,7 @@ blockquote {
   -column-break-inside: avoid; }
   /* line 72, /Users/feng/Dev/mygithub/vog/source/stylesheets/libs/_typography.scss */
   blockquote p {
-    font-family: "Roboto Slab", serif;
+    font-family: "Roboto Slab", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", serif;
     font-style: italic;
     margin: 0;
     font-size: 1.375em;
@@ -302,13 +302,13 @@ ul {
 
 /* line 12, /Users/feng/Dev/mygithub/vog/source/stylesheets/libs/_custom.scss */
 h1, h2, h3 {
-  font-family: "Roboto Slab", serif;
+  font-family: "Roboto Slab", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", serif;
   font-weight: 300;
   color: #000; }
 
 /* line 17, /Users/feng/Dev/mygithub/vog/source/stylesheets/libs/_custom.scss */
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   margin: 0.5em 0.6875em 1.375em 0.6875em;
   font-weight: 300; }
   /* line 22, /Users/feng/Dev/mygithub/vog/source/stylesheets/libs/_custom.scss */
