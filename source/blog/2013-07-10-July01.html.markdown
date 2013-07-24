@@ -2,6 +2,7 @@
 title: 七月一日
 date: 2013-07-10 15:11 UTC
 tags:
+authors: [格荣扎西, 张久坤, 张霄翀, 张晓庆, 李鹏]
 ---
 
 时间来到2013年下半年，《The Voice Of ThoughtWorkers》也已经运行超过了一个月。

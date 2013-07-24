@@ -1,7 +1,12 @@
 ---
 title: 七月十五日
 date: 2013-07-10 12:33 UTC
-tags:
+tags: 持续涉及, 持续交付, linux, Vagrant, Javascript, Emacs, Evernote
+authors: [{"name": "Rebecca Parsons", "about": "http://join.thoughtworks.com/profiles/rebecca-parsons"},
+			{"name": "小白"},
+			{"name": "金明"},
+			{"name": "文迪"},
+			{"name": "欧阳继超"}]
 ---
 
 又一季的中国好声音开唱了，希望我们的The Voice Of ThoughtWorkers也能越来越精彩。
@@ -13,7 +18,7 @@ tags:
 在成都，郑大晔校有一个著名的复读生，他读了两年郑大晔校，因为他提前一年应聘ThoughtWorks，居然还成功了。他的blog上有一些有趣的内容，如今他终于入职了，我们终于可以光明正大地把他的内容放到这里了。他叫小白，因为长地很白，哦，其实他叫文竞成，请看[《Linux终端中使用上一命令减少键盘输入》](http://blog.csdn.net/kiwi_coder/article/details/9229913)
 
 ### Vagrant初窥
-ThoughtWorks有个人，曾经在自我介绍时，当着全办公室的人面做了首诗，于是，诗人的名号也就传了开来。当然，后来人们知道，他的技术能力也是很不错的，在对外方面，翻译、演讲的事也做了很多。如今，他的更多注意力放在了虚拟化和云上，我们不妨领略一下金明的《Vagrant初窥》（[一](http://mingjin.thoughtworkers.org/?p=155)）、（[二](http://mingjin.thoughtworkers.org/?p=170)）、[OVA（VMX）化Vagrant box](http://mingjin.thoughtworkers.org/?p=176)：
+ThoughtWorks有个人，曾经在自我介绍时，当着全办公室的人面做了首诗，于是，诗人的名号也就传了开来。当然，后来人们知道，他的技术能力也是很不错的，在对外方面，翻译、演讲的事也做了很多。如今，他的更多注意力放在了虚拟化和云上，我们不妨领略一下金明的《Vagrant初窥》（[一](http://mingjin.thoughtworkers.org/?p=155)）、（[二](http://mingjin.thoughtworkers.org/?p=170)）、[OVA（VMX）化Vagrant box](http://mingjin.thoughtworkers.org/?p=176)
 
 ### Some Tricky Ways to Calculate Integer in Javascript
 北京办公室有个长发飘飘的男人颇有geek范，在前不久举办的ThoughtWorks内部技术大赛上，他拿出了两个颇有新意的小东西参赛。让我们看看这个文迪用[《Some Tricky Ways to Calculate Integer in Javascript》](http://timnew.github.io/blog/2013/02/24/some-tricky-ways-to-calculate-integer-in-javascript/)：

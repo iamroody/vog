@@ -2,6 +2,7 @@
 title: 五月二十七日
 date: 2013-07-10 16:27 UTC
 tags:
+authors: [熊节, 崔鹏飞, 刘旸, 腾云, 银大伟]
 ---
 ### 企业系统集成点测试策略
 众所周知，在企业开发中，集成是一个绕不开的话题，谈到集成，通常意味着实现麻烦，难以测试。熊节的[《企业系统集成点测试策略》](http://www.infoq.com/cn/articles/enterprise-systems-integration-points)分享了他在集成方面的新思考，希望可以拉出挣扎在集成泥潭中的人。

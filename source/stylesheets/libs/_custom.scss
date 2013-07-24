@@ -120,6 +120,7 @@ body{
 }
 .left-column {
 	margin: 0 0 em-font(20px) 0;
+	margin-top: 10.375em;
 	text-align: center;
 
 	.author{
@@ -377,8 +378,9 @@ footer {
 		width: 12044px;
 	}
 	.left-column{
-		max-width: em-font(190px);
+		max-width: em-font(190px);	
 		margin: em-font(54px) 0 0 em-font(-190px);
+		margin-top: 10.375em;
 		position: fixed;
 		top: 0;
 		text-align: center;
