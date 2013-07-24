@@ -405,45 +405,46 @@ body {
 /* line 122, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .left-column {
   margin: 0 0 1.25em 0;
+  margin-top: 10.375em;
   text-align: center; }
-  /* line 126, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 127, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .left-column .author {
     padding: 0.625em;
     margin: 0; }
-  /* line 130, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 131, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .left-column .author-avatar {
     max-width: 7em; }
 
-/* line 134, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 135, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .author-avatar {
   background-color: whitesmoke;
   -webkit-mask-image: url(../img/circle-img-mask.png);
   -webkit-mask-size: 100% 100%; }
 
-/* line 139, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 140, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 article header {
   border-bottom: 1px #e6e6e6 solid;
   margin-bottom: 1.25em; }
 
-/* line 144, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 145, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 article footer {
   border-top: 1px #e6e6e6 solid;
   margin-top: 0.625em;
   padding-top: 1.25em;
   text-align: center; }
-  /* line 150, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 151, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   article footer img {
     width: 2em;
     margin-right: 0.75em;
     vertical-align: middle; }
 
-/* line 157, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 158, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 article .byline {
   font-size: 12px;
   text-transform: uppercase;
   color: #bbb; }
 
-/* line 163, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 164, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .paginate {
   opacity: 1;
   -webkit-transition: all 500ms ease;
@@ -451,7 +452,7 @@ article .byline {
   -ms-transition: all 500ms ease;
   -o-transition: all 500ms ease;
   transition: all 500ms ease; }
-  /* line 167, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 168, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .paginate a {
     background-color: rgba(0, 0, 0, 0.15);
     color: #fff;
@@ -471,35 +472,35 @@ article .byline {
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease; }
-    /* line 181, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 182, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a.prev {
       left: 0;
       margin-left: 30px;
       padding-right: 4px; }
-    /* line 186, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 187, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a.next {
       right: 0;
       margin-right: 30px;
       padding-left: 4px; }
-    /* line 191, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 192, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a:hover {
       background-color: #00cc88; }
-      /* line 195, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 196, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.prev {
         left: 10px; }
-      /* line 198, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 199, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.next {
         right: 10px; }
 
-/* line 204, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 205, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .pull-right {
   float: right; }
 
-/* line 207, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 208, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .pull-left {
   float: left; }
 
-/* line 211, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 212, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .logo {
   position: fixed;
   top: 100px;
@@ -507,26 +508,26 @@ article .byline {
   color: #fff;
   /*z-index: 1;*/
   padding: 0; }
-  /* line 219, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 220, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .logo .subtitle {
     font-size: 2.5em;
     margin: 0; }
-  /* line 224, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 225, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .logo #corp {
     font-size: 1.79em;
     margin: 0;
     text-align: center; }
-  /* line 230, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 231, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .logo .the {
     position: absolute;
     left: 2.8em;
     top: -0.25em;
     font-size: 1.5em; }
-  /* line 237, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 238, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .logo .of {
     font-size: 1.5em;
     margin-left: 5px; }
-  /* line 242, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 243, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .logo .title {
     font-size: 5.5em;
     font-weight: bold;
@@ -534,37 +535,37 @@ article .byline {
     color: #fff;
     line-height: 1em; }
 
-/* line 251, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 252, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .gist {
   font-size: 0.8em; }
 
-/* line 255, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 256, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 pre.line-pre {
   white-space: normal !important; }
 
-/* line 260, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 261, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 div.normal-gist pre.line-pre {
   white-space: pre !important; }
 
-/* line 265, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 266, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .gist-meta {
   display: none; }
 
-/* line 269, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 270, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 footer {
   display: none; }
 
-/* line 273, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 274, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .snippet {
   font-size: 0.8em;
   margin-left: 2em;
   display: inline-block; }
 
-/* line 279, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 280, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .computer {
   font-family: "courier new"; }
 
-/* line 283, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 284, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .inline-code {
   font-family: 'courier new';
   background-color: #f8f8f8;
@@ -576,7 +577,7 @@ footer {
 /* ::Media queries */
 /* ------------------------------------------------------------ */
 @media screen and (max-width: 47.9375em) {
-  /* line 302, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 303, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .logo {
     position: static;
     top: 0;
@@ -584,7 +585,7 @@ footer {
     text-align: left;
     display: none; }
 
-  /* line 309, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 310, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   #title {
     color: #bbb;
     font-size: 2em;
@@ -592,55 +593,55 @@ footer {
     line-height: 1.0em;
     padding-bottom: 0; }
 
-  /* line 316, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 317, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   #subtitle {
     color: #bbb;
     font-size: 2em;
     display: inline-block;
     line-height: 1.0em; }
 
-  /* line 322, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 323, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   #corp {
     color: #bbb;
     font-size: 1em;
     line-height: 1.0em;
     text-align: left; }
 
-  /* line 328, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 329, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   #start-reading {
     display: none; } }
 @media screen and (min-width: 30em) {
-  /* line 334, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 335, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .container {
     width: 80%; } }
 @media screen and (min-width: 47.9375em) {
-  /* line 342, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 343, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   #bottom-pages {
     display: block; }
 
-  /* line 346, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 347, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   body {
     margin: 0 0.6875em 1.375em 0.6875em; }
 
-  /* line 349, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 350, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .container {
     min-width: 36.625em; }
 
-  /* line 352, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 353, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .page {
     margin-left: 11.875em; }
 
-  /* line 355, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 356, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .table-of-contents {
     margin-left: 11.875em; }
-    /* line 357, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 358, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .table-of-contents article {
       position: relative;
       text-align: left; }
-    /* line 361, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 362, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .table-of-contents .summary {
       margin-left: 2.25em; }
-    /* line 367, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 368, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .table-of-contents .author-avatar {
       display: none;
       position: absolute;
@@ -649,18 +650,19 @@ footer {
       width: 100%;
       margin-top: -2.25em; }
 
-  /* line 377, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 378, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .cover {
     width: 12044px; }
 
-  /* line 380, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 381, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .left-column {
     max-width: 11.875em;
     margin: 3.375em 0 0 -11.875em;
+    margin-top: 10.375em;
     position: fixed;
     top: 0;
     text-align: center; }
-    /* line 387, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 389, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .left-column .author-avatar {
       width: 100%;
       max-width: 9.25em;
@@ -668,43 +670,43 @@ footer {
       margin-bottom: 1.25em;
       margin-right: 0; }
 
-  /* line 395, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 397, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   h1 {
     font-size: 2.375em;
     line-height: 1.26316em;
     margin: 0.42105em 0 0.42105em 0; }
 
-  /* line 400, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 402, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   h2 {
     font-size: 1.875em;
     line-height: 1.33333em;
     margin: 1.06667em 0 0.53333em 0; }
 
-  /* line 405, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 407, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   h3 {
     font-size: 1.375em;
     line-height: 1.45455em;
     margin: 0.72727em 0 0.72727em 0; }
 
-  /* line 410, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 412, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   h4 {
     font-size: 1.25em;
     line-height: 1.2em;
     margin: 0 0 0.4em 0; }
 
-  /* line 415, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 417, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   h5 {
     font-size: 1.125em;
     line-height: 1.33333em;
     margin: 0 0 0.44444em 0; }
 
-  /* line 420, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 422, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   h6 {
     font-size: 1em;
     line-height: 1.5em;
     margin: 0 0 0.5em 0; }
 
-  /* line 424, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 426, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   article footer a img {
     opacity: 0.2;
     width: 2em;
@@ -718,7 +720,7 @@ footer {
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease; }
-    /* line 430, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 432, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     article footer a img:hover {
       opacity: 1;
       -webkit-filter: grayscale(0%);
@@ -727,76 +729,76 @@ footer {
       -o-filter: grayscale(0%);
       filter: grayscale(0%); } }
 @media screen and (min-width: 64em) {
-  /* line 439, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 441, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .container {
     width: 48em; }
 
-  /* line 442, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 444, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .paginate {
     opacity: 1; }
-    /* line 444, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 446, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a {
       position: fixed; } }
-/* line 449, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 451, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 #bottom-pages {
   display: none; }
 
 @media screen and (max-width: 64em) {
-  /* line 455, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 457, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .paginate a {
     position: absolute;
     top: 40px;
     line-height: 36px;
     width: 36px;
     font-size: 18px; }
-    /* line 461, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 463, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a.prev {
       left: 0;
       margin-left: 20px;
       padding-right: 4px; }
-    /* line 466, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 468, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a.next {
       right: 0;
       margin-right: 20px;
       padding-left: 4px; }
-    /* line 471, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 473, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     .paginate a:hover {
       background-color: #00cc88; }
-      /* line 475, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 477, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.prev {
         left: 0; }
-      /* line 478, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 480, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
       .paginate a:hover.next {
         right: 0; }
 
-  /* line 484, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 486, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   #bottom-pages {
     margin-top: -110px;
     display: block; }
-    /* line 487, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+    /* line 489, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
     #bottom-pages .paginate {
       text-align: center; }
-      /* line 489, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+      /* line 491, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
       #bottom-pages .paginate a {
         position: inherit;
         font-size: 18px;
         line-height: 36px;
         width: 36px; }
-        /* line 494, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+        /* line 496, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
         #bottom-pages .paginate a.prev {
           float: left; }
-        /* line 497, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+        /* line 499, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
         #bottom-pages .paginate a.next {
           float: right; } }
 @media print {
   @page {
     margin: 6.25em; }
 
-  /* line 510, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 512, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   body {
     line-height: 1em; }
 
-  /* line 513, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 515, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .left-column {
     max-width: 10em;
     margin-right: 3em;
@@ -804,47 +806,71 @@ footer {
     border-bottom: none;
     margin-bottom: 0; }
 
-  /* line 520, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 522, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   .page {
     margin-top: 3em;
     margin-left: 10em; }
 
-  /* line 524, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+  /* line 526, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
   article footer {
     display: none; } }
 @media screen and (max-width: 769px) {
   -webkit-text-size-adjust: none; }
 /* ::State styles */
 /* ------------------------------------------------------------ */
-/* line 539, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 541, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .is-hidden {
   display: none; }
 
-/* line 543, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 545, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .is-shown, .is-block {
   display: block; }
 
-/* line 547, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 549, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .is-uppercase {
   text-transform: uppercase;
   letter-spacing: 1px; }
 
-/* line 552, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 554, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 .is-lowercase {
   text-transform: lowercase; }
 
 /* ::Debugs and #grid by Jon Gibbins */
 /* ----------------------------------------------------------- */
-/* line 560, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 562, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 #grid {
   width: 100%;
   position: absolute;
   top: 0;
   left: 0; }
 
-/* line 567, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
+/* line 569, /Users/twer/github/vog/source/stylesheets/libs/_custom.scss */
 #grid div.horiz {
   height: 8px;
   border-bottom: 1px solid #ddd;
   margin: 0;
   padding: 0; }
+
+/* line 1, /Users/twer/github/vog/source/stylesheets/libs/_vog.scss */
+.about-us {
+  position: fixed;
+  bottom: 20px; }
+
+/* line 7, /Users/twer/github/vog/source/stylesheets/libs/_vog.scss */
+.social-links a {
+  margin-right: 30px; }
+
+/* line 13, /Users/twer/github/vog/source/stylesheets/libs/_vog.scss */
+.authors ul li {
+  text-align: right;
+  list-style: none; }
+
+/* line 19, /Users/twer/github/vog/source/stylesheets/libs/_vog.scss */
+.article-page.container {
+  border-bottom: 1px #e6e6e6 solid;
+  padding-bottom: 3em; }
+
+/* line 24, /Users/twer/github/vog/source/stylesheets/libs/_vog.scss */
+.footer {
+  text-align: center;
+  margin-top: 1em; }
