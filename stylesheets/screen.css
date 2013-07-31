@@ -874,3 +874,8 @@ footer {
 .footer {
   text-align: center;
   margin-top: 1em; }
+
+/* line 30, /Users/twer/github/vog/source/stylesheets/libs/_vog.scss */
+.newsroom span {
+  font-size: 14px;
+  display: block; }
