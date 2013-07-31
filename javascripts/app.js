@@ -1,11 +1,1 @@
-function keyBind (key, action) {
-  jwerty.key(key, function () {
-    var link = $('a[rel="' + action + '"]');
-    if (link.length > 0) {
-      document.location.href = link.attr('href');
-    }
-  });
-}
-
-keyBind('←', 'prev');
-keyBind('→', 'next');
+function keyBind(e,n){jwerty.key(e,function(){var e=$('a[rel="'+n+'"]');e.length>0&&(document.location.href=e.attr("href"))})}keyBind("←","prev"),keyBind("→","next");
