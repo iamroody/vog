@@ -3,10 +3,10 @@ title: 七月二十九日
 date: 2013-07-31 14:29 UTC
 tags: 函数式编程, moco, infoq, Duke选择奖, 代码腐化, 遗留代码, git 技巧, 框架
 authors: [{"name": "Neal Ford", "about": "http://nealford.com/"},
-		  {"name": "infoq", "about": "http://www.infoq.com/cn"},
-		  {"name": "张逸", "about": "http://agiledon.github.io"},
-		  {"name": "贺思聪", "about": "http://blog.april1985.com"},
-		  {"name": "马博文", "about": "http://iambowen.github.io"} ]
+		  {"name": "郑晔", "about": "http://weibo.com/dreamhead"},
+		  {"name": "张逸", "about": "http://weibo.com/doovsaid"},
+		  {"name": "贺思聪", "about": "http://weibo.com/h198504"},
+		  {"name": "马博文", "about": "http://weibo.com/u/1925377872"} ]
 ---
 上周我们稍做休息，但并不妨碍ThoughtWorker们发出好声音，本周，我们继续前行。
 

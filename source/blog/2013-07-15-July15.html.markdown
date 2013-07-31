@@ -3,8 +3,8 @@ title: 七月十五日
 date: 2013-07-15 12:33 UTC
 tags: 持续涉及, 持续交付, linux, Vagrant, Javascript, Emacs, Evernote
 authors: [{"name": "Rebecca Parsons", "about": "http://join.thoughtworks.com/profiles/rebecca-parsons"},
-			{"name": "小白", "about": "http://blog.csdn.net/kiwi_coder"},
-			{"name": "金明", "about": "http://mingjin.thoughtworkers.org"},
+			{"name": "小白", "about": "http://weibo.com/kiwisw"},
+			{"name": "金明", "about": "http://weibo.com/imingjin"},
 			{"name": "文迪", "about": "http://timnew.github.io/"},
 			{"name": "欧阳继超", "about": "http://oyanglul.us/"}]
 ---
