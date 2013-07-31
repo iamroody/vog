@@ -1,12 +1,12 @@
 ---
 title: 七月十五日
-date: 2013-07-10 12:33 UTC
+date: 2013-07-15 12:33 UTC
 tags: 持续涉及, 持续交付, linux, Vagrant, Javascript, Emacs, Evernote
 authors: [{"name": "Rebecca Parsons", "about": "http://join.thoughtworks.com/profiles/rebecca-parsons"},
-			{"name": "小白"},
-			{"name": "金明"},
-			{"name": "文迪"},
-			{"name": "欧阳继超"}]
+			{"name": "小白", "about": "http://blog.csdn.net/kiwi_coder"},
+			{"name": "金明", "about": "http://mingjin.thoughtworkers.org"},
+			{"name": "文迪", "about": "http://timnew.github.io/"},
+			{"name": "欧阳继超", "about": "http://oyanglul.us/"}]
 ---
 
 又一季的中国好声音开唱了，希望我们的The Voice Of ThoughtWorkers也能越来越精彩。

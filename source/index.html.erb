@@ -3,7 +3,7 @@
 <% end %>
 
 <nav class="paginate">
-    <a rel="next" href="<%= blog.articles.last.url %>" class="next">▶</a>
+    <a rel="next" href="<%= blog.articles.first.url %>" class="next">▶</a>
 </nav>
 
 <div class="container">
@@ -21,7 +21,7 @@
       <ul class="clearfix">
         <li class="active"><a href="#">The Voice Of ThoughtWorkers</a>
         <!-- <li class="pull-right"><a href="#">Older Issues</a>-->
-        <li id="start-reading" class="pull-right"><a href="<%= blog.articles.last.url %>">开始阅读 &raquo;</a></li>
+        <li id="start-reading" class="pull-right"><a href="<%= blog.articles.first.url %>">开始阅读 &raquo;</a></li>
       </ul>
     </nav>
     <section class="issue-notes">
@@ -34,7 +34,7 @@
       <p>我们将定期呈现找到的ThoughtWorker好声音</p>
     </section>
     <section class="issue-notes">
-      <h3><a href="<%= blog.articles.last.url %>">开始阅读 &raquo;</a></h3>
+      <h3><a href="<%= blog.articles.first.url %>">开始阅读 &raquo;</a></h3>
     </section>
     <section class="about-us">
       <div class="social-links">

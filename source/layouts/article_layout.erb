@@ -4,13 +4,13 @@
 
 <% wrap_layout :layout do %>
   <nav class="paginate">
-    <% if prev_article = current_article.previous_article %>
+      <% if prev_article = current_article.next_article %>
         <a rel="prev" href="<%= prev_article.url %>" class="prev">◀</a>
       <%else%>
         <a rel="prev" href="/index.html" class="prev">◀</a>
       <%end%>
 
-      <% if next_article = current_article.next_article %>
+      <% if next_article = current_article.previous_article %>
           <a rel="next" href="<%= next_article.url %>" class="next">▶</a>
       <% end %>
   </nav>
@@ -34,7 +34,11 @@
                 <% current_article.data.authors.each do |author|%>
                   <li>
                       <% if author.class != String %>
-                        <a href="<%= author['about'] || 'http://e.weibo.com/thoughtworkschina' %>" target="blank"> <%= author["name"] %></a>
+                        <% if author['about']%>
+                          <a href="<%= author['about'] %>" target="blank"> <%= author["name"] %></a>
+                        <%else%>
+                          <%= author["name"] %>
+                        <%end%>
                       <% else %>
                         <%= author %>
                       <% end %>

@@ -1,0 +1,31 @@
+---
+title: 七月二十九日
+date: 2013-07-31 14:29 UTC
+tags:
+authors: [{"name": "Neal Ford", "about": "http://nealford.com/"},
+		  {"name": "infoq", "about": "http://www.infoq.com/cn"},
+		  {"name": "张逸", "about": "http://agiledon.github.io"},
+		  {"name": "贺思聪", "about": "http://blog.april1985.com"},
+		  {"name": "马博文", "about": "http://iambowen.github.io"} ]
+---
+上周我们稍做休息，但并不妨碍ThoughtWorker们发出好声音，本周，我们继续前行。
+
+### 函数式编程
+如果给追求卓越的软件开发者推荐一本书，且只能推荐一本，Neal Ford的《The Productive Programmer》（卓有成效的程序员）当之无愧。Neal Ford是ThoughtWorks公司里的P2的卓越代表之一，这次我们共同品味Neal Ford为解读的函数式编程： [函数式编程为何越来越受到重视](http://www.infoq.com/cn/news/2013/07/functional-programming)  [函数式思维](http://www.ibm.com/developerworks/cn/java/j-ft20/)
+
+### Moco背后的故事
+关于P2，最近有一个好消息是，郑晔写的Moco拿到2013年的Duke选择奖，Moco是救集成于水深火热的一个框架/工具。让我们一起跟着InfoQ的访谈一起了解一下 [Moco背后的故事](http://www.infoq.com/cn/news/2013/07/zhengye-on-moco)。
+
+
+### 代码腐化和救赎
+代码的腐化少有是一蹴而就的，多半是每个人改动一点点累积出来的。如果我们没有良好的嗅觉，无法闻到坏味道，那便是滑向腐坏深渊的开始。我们不妨追随着成都办公室的张逸，一个工作超过十五年的文艺“老人家”，一起用一个例子看看[代码腐化和救赎](http://agiledon.github.io/blog/2013/07/05/corrupt-code/)。
+
+
+### 遗留代码
+遗留代码到处都有，不管它来自十年前，还是昨天写的，只要有腐朽的味道，它就是遗留代码。遗留代码不可怕，我们总要有些办法对付它。我们来看看成都办公室的贺思聪对一段[遗留代码的讨论](http://blog.april1985.com/index.php/2013/07/yi_ge_yi_liu_dai_ma_de_zhong_gou_de_tao_lun/)。
+
+
+### git 小技巧
+想没想过这样的情形，我们在别人的机器上或是结对的机器上提交代码，却希望把自己的名字放到提交信息上。西安办公室的马博文用一个[git小技巧](http://iambowen.github.io/git/2013/06/19/reset-commit-author/)修改提交的作者信息。
+
+
