@@ -1,7 +1,7 @@
 ---
 title: 六月三日
 date: 2013-06-03 16:20 UTC
-tags:
+tags: 防御XSS, 跨域, 网站安全, 持续集成, Travis CI, CSS, before after, 伪元素, 测试金字塔
 authors: [马伟, 王秋, 黄博文, 邱俊涛, Martin Fowler]
 ---
 ### 防御XSS的七条原则

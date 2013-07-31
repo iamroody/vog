@@ -1,7 +1,7 @@
 ---
 title: 七月八日
 date: 2013-07-08 14:13 UTC
-tags:
+tags: Gradle, Lambda, 持续部署, Java 8, 功能开关, Java 8 预览, Chocolatey, 自动化, 包管理
 authors: [何海洋, 尤青松, 崔立强, 张振宇, 韩锴]
 ---
 

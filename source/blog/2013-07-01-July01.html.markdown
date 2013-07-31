@@ -1,7 +1,7 @@
 ---
 title: 七月一日
 date: 2013-07-01 15:11 UTC
-tags:
+tags: JavaScript, replace 函数, Test Tips, Angular JS, data-binding, 分布式协议, scala, 泛型
 authors: [格荣扎西, 张久坤, 张霄翀, 张晓庆, 李鹏]
 ---
 

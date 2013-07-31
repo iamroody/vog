@@ -1,3 +1,7 @@
+<% content_for :description do %>
+ThoughtWorkers好声音本期内容包含：<%= current_article.tags.join(", ") %>
+<% end %>
+
 <% content_for :title do %>
   <%= current_article.title %>
 <% end %>

@@ -1,7 +1,7 @@
 ---
 title: 七月二十九日
 date: 2013-07-31 14:29 UTC
-tags:
+tags: 函数式编程, moco, infoq, Duke选择奖, 代码腐化, 遗留代码, git 技巧, 框架
 authors: [{"name": "Neal Ford", "about": "http://nealford.com/"},
 		  {"name": "infoq", "about": "http://www.infoq.com/cn"},
 		  {"name": "张逸", "about": "http://agiledon.github.io"},
