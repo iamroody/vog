@@ -328,6 +328,35 @@ footer {
   #start-reading {
     display: none;
   }
+
+  .issues {
+  	padding-top: 0px;
+  }
+
+  article aside.left-column {
+  	display: none;
+  }
+
+  .about-us {
+  	position: initial;
+  	.social-links a {
+  		margin-right: 15px;
+  	}
+  }
+
+  .issue-notes {
+  	p {
+  		margin-bottom: 0.2em;
+  	}
+  }
+
+  .article-page {
+  	section.page {
+  		nav.issues {
+  			text-align: center;
+  		}
+  	}
+  }
 }
 
 @media screen and (min-width: em-font(480px)) {
