@@ -5,10 +5,38 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-07-31T14:29:00Z</updated>
+  <updated>2013-08-05T12:26:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>八月五日</title>
+    <link rel="alternate" href="/blog/August05.html"/>
+    <id>/blog/August05.html</id>
+    <published>2013-08-05T12:26:00Z</published>
+    <updated>2013-08-05T12:26:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;时间进入8月，天气依然闷热，但立秋将近，凉爽还会远吗？&lt;/p&gt;
+
+&lt;h3 id="jquery"&gt;JQuery&lt;/h3&gt;
+&lt;p&gt;JQuery几乎已经前端开发的标配了，大多数开发人员对JQuery的运用也已经驾轻就熟。但你是否知道，耳熟能详的bind、live、on几种事件绑定方式有何区别。请跟着成都的毕业生占红来一探究竟 &lt;a href="http://blog.csdn.net/sonlyf5020/article/details/9674099"&gt;.bind .live .on&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="scala"&gt;Scala&lt;/h3&gt;
+&lt;p&gt;Scala这门程序设计语言试图通过自己的努力打破面向对象程序设计和函数式编程的疆界，对习惯了面向对象程序设计的人，怎样一步步迈向函数式风格还是有些规律可循的。成都办公室有一个新来的腼腆大男孩李建，但他却对Scala有着自己的热情，让我们跟着他一起探究Scala的奥秘吧！ &lt;a href="http://1.jakimli.sinaapp.com/?p=10"&gt;Scala中的尾递归&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="reflection-in-c"&gt;Reflection in C&lt;/h3&gt;
+&lt;p&gt;反射，让人又爱又恨。一种由于过于强大而禁止在日常开发中使用的技术，同时也是一种可以在消除重复这件事上走得更远的技术。让架构师又爱又恨的语言特性，听起来这就是典型的只许州官放火不许百姓点灯的技术：哪个架构师不用反射呢？可惜架构师往往还不得不禁止普通程序员使用反射，以免滥用造成无法收拾的混乱。危险而又迷人的强大技术，不会有哪个Geek控制的住自己的欲望不去了解它。那位少年，我看你筋骨奇特，这本北京办公室禚娴静女侠的《Reflection in C#》就送给你了，以后维护软件世界远离混沌的任务就交给你了，收下吧：&lt;a href="http://xianjing.github.io/blog/2013/05/07/reflection-in-c-sharp/"&gt;Reflection in C#&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+&lt;p&gt;很多人都知道西安办公室邱俊涛是JavaScript方面的专家，但你不知道，最近邱俊涛的努力方向在Lisp上。如何搭建一个Lisp开发环境，Lisp有哪些特性，以及Lisp让许多人痴迷不已的宏到底是怎样的，请听邱俊涛一一道来：&lt;a href="http://icodeit.org/2013/06/setup-lisp-development-env-on-mac/"&gt;在Mac下搭建Common Lisp开发环境&lt;/a&gt; &lt;a href="http://icodeit.org/2013/06/common-lisp-basic/"&gt;Common Lisp 里的一些基本概念&lt;/a&gt; &lt;a href="http://icodeit.org/2013/06/macro-in-common-lisp/"&gt;Common Lisp中的宏(Macro)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="java-"&gt;Java 新知识&lt;/h3&gt;
+&lt;p&gt;如果你两耳不闻窗外事十年，出山之后，你会发现自己的Java开发知识大多还是适用的，找一份Java开发的工作还是可能的。但是，你要知道Java世界也在变化，没有丝毫停歇，所以，不要抱残守缺，拥着十年前的Java开发知识不放吧！Java开发还在前进，听听成都办公室的刘先宁给你介绍一下Java新知识：&lt;a href="http://ningandjiao.iteye.com/blog/1905882"&gt;进击的Java开发&lt;/a&gt;&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>七月二十九日</title>
     <link rel="alternate" href="/blog/July29.html"/>
@@ -153,34 +181,6 @@
 &lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;《Closure, ExpandoMetaClass, delegate, they don’t like each other?》&lt;/a&gt; 
 &lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;Collections (vs. LINQ and STL)&lt;/a&gt;
 &lt;a href="http://liguanglei.name/blogs/2013/06/06/groovy-beginner-a-brief-summary/"&gt;A Brief Summary&lt;/a&gt;&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>六月十七日</title>
-    <link rel="alternate" href="/blog/June17.html"/>
-    <id>/blog/June17.html</id>
-    <published>2013-06-17T16:18:00Z</published>
-    <updated>2013-06-17T16:18:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;感谢屈原，让大家多休息了一天，我们也因此休息了一次。休息好，我们重装上阵，好消息是，现在已经有人开始主动投稿了，但我们不会告诉你哪篇是投稿的，哈哈！&lt;/p&gt;
-
-&lt;h3 id="javascript"&gt;JavaScript变量作用域之殇&lt;/h3&gt;
-&lt;p&gt;不管你愿不愿意，JavaScript已经成为了一门重要的程序设计语言，所以，那些隐藏在角落里的JavaScript特征也慢慢被人挖掘了出来。成都办公室的喻杨给我们讲述了&lt;a href="http://cloveryu.github.io/blog/the-war-of-JavaScript-vaiiable-scope/"&gt;《JavaScript变量作用域之殇》&lt;/a&gt;，�让我们得以更好地了解JavaScript中的变量作用域。&lt;/p&gt;
-
-&lt;h3 id="ruby"&gt;Ruby背后的那些事&lt;/h3&gt;
-&lt;p&gt;ThoughtWorks里有许多Ruby的拥趸，不过你知道Ruby背后的那些故事吗？且听成都办公室的刘先宁慢慢道来：&lt;a href="http://ningandjiao.iteye.com/blog/1857016"&gt;系列1&lt;/a&gt;  &lt;a href="http://ningandjiao.iteye.com/blog/1858215"&gt;系列2&lt;/a&gt;  &lt;a href="http://ningandjiao.iteye.com/blog/1860099"&gt;系列3&lt;/a&gt; &lt;a href="http://ningandjiao.iteye.com/blog/1869447"&gt;系列4&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="css"&gt;CSS技巧&lt;/h3&gt;
-&lt;p&gt;上次我们介绍了邱俊涛使用CSS的一些做法，这次我们还有CSS的绚丽效果介绍给各位，西安办公室的冯智超给我们展现了运用纯CSS实现一些特效。不是一个，而是三个，包括&lt;a href="http://www.chaojiwudi.com/2013/04/css-how-to-create-animated-menu-bar-only-using-css/"&gt;菜单滑块效果&lt;/a&gt;、&lt;a href="http://www.chaojiwudi.com/2013/04/css-how-to-create-a-stopwatch-clock-use-css/"&gt;秒表时钟效果&lt;/a&gt;，最酷的是，还有一个&lt;a href="http://www.chaojiwudi.com/2013/05/css-how-to-create-a-rotating-tech-radar-with-pure-css/"&gt;技术雷达&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="vagrant-"&gt;Vagrant 知识澄清与杂症诊治&lt;/h3&gt;
-&lt;p&gt;在硬件能力越来越强大的今天，虚拟化得以大行其道，DevOps运动的发展，更把虚拟化的应用推上了一个新的台阶。Virtual Box是我们最常用的一个虚拟机，而配合Vagrant，程序员可以得心应手地在命令行下操控虚拟机。不过，使用Vagrant会遇到很多问题，官方文档又不够全面，怎么办？那就看看西安办公室吴少博的&lt;a href="http://wushaobo.info/?p=83"&gt;《Vagrant 知识澄清与杂症诊治》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="grunt"&gt;Grunt&lt;/h3&gt;
-&lt;p&gt;如果你是C程序员，你一定知道Make；如果你是Java程序员，你应该知道Ant、Maven、Gradle或是Buildr；如果是.NET程序员，MsBuild、NuGet和Nscaffold你必定了解一个；那如果你是JavaScript程序员呢？北京办公室的禚娴静告诉我们，&lt;a href="http://xianjing.github.io/blog/2013/05/16/grunt/"&gt;Grunt&lt;/a&gt;是个不错的选择。&lt;/p&gt;
 
 </content>
   </entry>
