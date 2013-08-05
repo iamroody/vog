@@ -1,0 +1,29 @@
+---
+title: 八月五日
+date: 2013-08-05 12:26 UTC
+tags: jquery, scala, reflection in c#, lisp, java 新知识
+authors: [{"name": "占红", "about": "http://blog.csdn.net/sonlyf5020"},
+		  {"name": "李建", "about": "http://1.jakimli.sinaapp.com"},
+		  {"name": "禚娴静", "about": "http://xianjing.github.io"},
+		  {"name": "邱俊涛", "about": "http://icodeit.org"},
+		  {"name": "刘先宁", "about": "http://ningandjiao.iteye.com"} ]
+---
+时间进入8月，天气依然闷热，但立秋将近，凉爽还会远吗？
+
+### JQuery
+JQuery几乎已经前端开发的标配了，大多数开发人员对JQuery的运用也已经驾轻就熟。但你是否知道，耳熟能详的bind、live、on几种事件绑定方式有何区别。请跟着成都的毕业生占红来一探究竟 [.bind .live .on](http://blog.csdn.net/sonlyf5020/article/details/9674099)。
+
+
+### Scala
+Scala这门程序设计语言试图通过自己的努力打破面向对象程序设计和函数式编程的疆界，对习惯了面向对象程序设计的人，怎样一步步迈向函数式风格还是有些规律可循的。成都办公室有一个新来的腼腆大男孩李建，但他却对Scala有着自己的热情，让我们跟着他一起探究Scala的奥秘吧！ [Scala中的尾递归](http://1.jakimli.sinaapp.com/?p=10)
+
+
+### Reflection in C#
+反射，让人又爱又恨。一种由于过于强大而禁止在日常开发中使用的技术，同时也是一种可以在消除重复这件事上走得更远的技术。让架构师又爱又恨的语言特性，听起来这就是典型的只许州官放火不许百姓点灯的技术：哪个架构师不用反射呢？可惜架构师往往还不得不禁止普通程序员使用反射，以免滥用造成无法收拾的混乱。危险而又迷人的强大技术，不会有哪个Geek控制的住自己的欲望不去了解它。那位少年，我看你筋骨奇特，这本北京办公室禚娴静女侠的《Reflection in C#》就送给你了，以后维护软件世界远离混沌的任务就交给你了，收下吧：[Reflection in C#](http://xianjing.github.io/blog/2013/05/07/reflection-in-c-sharp/)
+
+### Lisp
+很多人都知道西安办公室邱俊涛是JavaScript方面的专家，但你不知道，最近邱俊涛的努力方向在Lisp上。如何搭建一个Lisp开发环境，Lisp有哪些特性，以及Lisp让许多人痴迷不已的宏到底是怎样的，请听邱俊涛一一道来：[在Mac下搭建Common Lisp开发环境](http://icodeit.org/2013/06/setup-lisp-development-env-on-mac/) [Common Lisp 里的一些基本概念](http://icodeit.org/2013/06/common-lisp-basic/) [Common Lisp中的宏(Macro)](http://icodeit.org/2013/06/macro-in-common-lisp/)
+
+### Java 新知识
+如果你两耳不闻窗外事十年，出山之后，你会发现自己的Java开发知识大多还是适用的，找一份Java开发的工作还是可能的。但是，你要知道Java世界也在变化，没有丝毫停歇，所以，不要抱残守缺，拥着十年前的Java开发知识不放吧！Java开发还在前进，听听成都办公室的刘先宁给你介绍一下Java新知识：[进击的Java开发](http://ningandjiao.iteye.com/blog/1905882)
+
