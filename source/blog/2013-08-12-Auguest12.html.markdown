@@ -1,0 +1,33 @@
+---
+title: 八月十二日
+date: 2013-08-12 06:53 UTC
+tags: 技术雷达, Jenkins, Selenium, 现代浏览器, Python, 环境配置, Scala
+authors: [{"name": "胡凯", "about": "http://www.iamhukai.com"},
+		  {"name": "冯尔东", "about": "http://fedcuit.github.io"},
+		  {"name": "贺亮", "about": "http://hebuliang.github.io"},
+		  {"name": "颛清山", "about": "http://killera.github.io"},
+		  {"name": "冯英睿", "about": "http://yingrui.github.io"} ]
+---
+
+秋已立，抢了秋膘，早晚已有一丝凉意。
+
+### ThoughtWorks技术雷达阅读笔记
+
+ThoughtWorks中国区前不久刚刚经历了重大的人事变动，郭晓从中国区总经理变成了全球的CEO，胡凯和张松现在结对担任中国区总经理。郭晓和胡凯有一个共同的特质，他们的ThoughtWorks职业生涯都是从开发人员开始的。胡凯新近一篇[《ThoughtWorks技术雷达阅读笔记》](http://www.iamhukai.com/?p=1132)仍然在向其他人宣告着，他对技术的念念不忘。
+
+
+### Run Headless Selenium in Jenkins
+冯尔东，算是成都办公室的新人，虽然他加入ThoughtWorks已有一段时日，到处跑来跑去也颇有ThoughtWorker气质。他的blog没有那么多华丽的文字，更多的是一篇篇小技巧的集合。这次我们选择了他的[《Run Headless Selenium in Jenkins》](http://fedcuit.github.io/blog/2013/07/10/run-headless-selenium-in-jenkins/)。
+
+
+### 为什么要使用现代浏览器
+作为一个程序员，尤其是牵扯到Web开发，你一定恨死了一个叫IE的浏览器，尤其让人牙根痒痒的IE 6，那个石器时代的产物。现在，有人喊出了我们的心声，[《为什么要使用现代浏览器》](http://hebuliang.github.io/blog/2013/08/06/about-browser/)，它来自西安办公室的贺亮。
+
+
+### Python开发环境配置
+ThoughtWorks各种程序设计语言的粉丝都有，在前面的推荐中，我们见过Java、Ruby、C#、Scala，这次我们来看个Python的。国内喜欢Python的人不在少数，但如果想踏上Python开发的康庄大道，一定少不了占用。但第一步该迈哪只脚呢？看看北京办公室的颛清山[《Python开发环境配置》](http://killera.github.io/python/2013/05/04/python_%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)便一目了然了。
+
+
+
+### 一次用Scala重写Java的经验
+又见Scala，在Scala粉心中Scala就是用来代替Java的，但你尝试过替换吗？北京办公室的冯英睿就做了一次这样的工作，把自己的一个Java程序替换成Scala，自然他也有自己的经验总结，我们一起来看[《一次用Scala重写Java的经验》](http://yingrui.github.io/programming/2013/03/31/My-Expirence-About-Rewrite-Java-in-Scala/)
