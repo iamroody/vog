@@ -2,11 +2,11 @@
 title: 八月五日
 date: 2013-08-05 12:26 UTC
 tags: jquery, scala, reflection in c#, lisp, java 新知识
-authors: [{"name": "占红", "about": "http://blog.csdn.net/sonlyf5020"},
+authors: [{"name": "占红来", "about": "http://blog.csdn.net/sonlyf5020"},
 		  {"name": "李建", "about": "http://1.jakimli.sinaapp.com"},
 		  {"name": "禚娴静", "about": "http://xianjing.github.io"},
-		  {"name": "邱俊涛", "about": "http://icodeit.org"},
-		  {"name": "刘先宁", "about": "http://ningandjiao.iteye.com"} ]
+		  {"name": "邱俊涛", "about": "http://weibo.com/juntaoq"},
+		  {"name": "刘先宁", "about": "http://weibo.com/u/1175813114"} ]
 ---
 时间进入8月，天气依然闷热，但立秋将近，凉爽还会远吗？
 
