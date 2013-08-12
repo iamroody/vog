@@ -5,10 +5,38 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-08-05T12:26:00Z</updated>
+  <updated>2013-08-12T06:53:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>八月十二日</title>
+    <link rel="alternate" href="/blog/Auguest12.html"/>
+    <id>/blog/Auguest12.html</id>
+    <published>2013-08-12T06:53:00Z</published>
+    <updated>2013-08-12T06:53:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;秋已立，抢了秋膘，早晚已有一丝凉意。&lt;/p&gt;
+
+&lt;h3 id="thoughtworks"&gt;ThoughtWorks技术雷达阅读笔记&lt;/h3&gt;
+
+&lt;p&gt;ThoughtWorks中国区前不久刚刚经历了重大的人事变动，郭晓从中国区总经理变成了全球的CEO，胡凯和张松现在结对担任中国区总经理。郭晓和胡凯有一个共同的特质，他们的ThoughtWorks职业生涯都是从开发人员开始的。胡凯新近一篇&lt;a href="http://www.iamhukai.com/?p=1132"&gt;《ThoughtWorks技术雷达阅读笔记》&lt;/a&gt;仍然在向其他人宣告着，他对技术的念念不忘。&lt;/p&gt;
+
+&lt;h3 id="run-headless-selenium-in-jenkins"&gt;Run Headless Selenium in Jenkins&lt;/h3&gt;
+&lt;p&gt;冯尔东，算是成都办公室的新人，虽然他加入ThoughtWorks已有一段时日，到处跑来跑去也颇有ThoughtWorker气质。他的blog没有那么多华丽的文字，更多的是一篇篇小技巧的集合。这次我们选择了他的&lt;a href="http://fedcuit.github.io/blog/2013/07/10/run-headless-selenium-in-jenkins/"&gt;《Run Headless Selenium in Jenkins》&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;为什么要使用现代浏览器&lt;/h3&gt;
+&lt;p&gt;作为一个程序员，尤其是牵扯到Web开发，你一定恨死了一个叫IE的浏览器，尤其让人牙根痒痒的IE 6，那个石器时代的产物。现在，有人喊出了我们的心声，&lt;a href="http://hebuliang.github.io/blog/2013/08/06/about-browser/"&gt;《为什么要使用现代浏览器》&lt;/a&gt;，它来自西安办公室的贺亮。&lt;/p&gt;
+
+&lt;h3 id="python"&gt;Python开发环境配置&lt;/h3&gt;
+&lt;p&gt;ThoughtWorks各种程序设计语言的粉丝都有，在前面的推荐中，我们见过Java、Ruby、C#、Scala，这次我们来看个Python的。国内喜欢Python的人不在少数，但如果想踏上Python开发的康庄大道，一定少不了占用。但第一步该迈哪只脚呢？看看北京办公室的颛清山&lt;a href="http://killera.github.io/python/2013/05/04/python_%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"&gt;《Python开发环境配置》&lt;/a&gt;便一目了然了。&lt;/p&gt;
+
+&lt;h3 id="scalajava"&gt;一次用Scala重写Java的经验&lt;/h3&gt;
+&lt;p&gt;又见Scala，在Scala粉心中Scala就是用来代替Java的，但你尝试过替换吗？北京办公室的冯英睿就做了一次这样的工作，把自己的一个Java程序替换成Scala，自然他也有自己的经验总结，我们一起来看&lt;a href="http://yingrui.github.io/programming/2013/03/31/My-Expirence-About-Rewrite-Java-in-Scala/"&gt;《一次用Scala重写Java的经验》&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>八月五日</title>
     <link rel="alternate" href="/blog/August05.html"/>
@@ -151,37 +179,6 @@
 
 &lt;h3 id="scala"&gt;scala的类型系统居然可以解题&lt;/h3&gt;
 &lt;p&gt;对于许多年轻的程序员而言，或许你错过了C++泛型初临之际的各种折腾，比如，用C++泛型参数求阶乘。但只要是内心有所追求的程序员，便无法停止对技术狂热，请看上海办公室李鹏的发现&lt;a href="http://freewind.me/blog/20130612/2153.html"&gt;《scala的类型系统居然可以解题》&lt;/a&gt;：&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>六月二十四日</title>
-    <link rel="alternate" href="/blog/June24.html"/>
-    <id>/blog/June24.html</id>
-    <published>2013-06-24T15:52:00Z</published>
-    <updated>2013-06-24T15:52:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;这次的成都推荐来自两个毕业生，准确地说，实习生，还没毕业。虽然他们的文字还略显稚嫩，但从中我们已经可以看到未来之星正在冉冉升起。&lt;/p&gt;
-
-&lt;h3 id="moco"&gt;Moco使用心得分享&lt;/h3&gt;
-&lt;p&gt;首先是赵峻伟，它写了一篇&lt;a href="http://toozhao.com/blog/2013/06/13/moco/"&gt;《Moco使用心得分享》&lt;/a&gt;，他所在的项目是第一将Moco应用于实践的商业项目，从中孵化出许多Moco的新用法，也探索出企业集成测试的新方式。我们不妨看看在峻伟眼中，Moco如何助力其开发企业开发的。&lt;/p&gt;
-
-&lt;h3 id="expressjssocketio"&gt;让expressjs和socket.io分享同一个路由&lt;/h3&gt;
-&lt;p&gt;另一个是郑泽楷，他算是一名特长生，特长是前端开发，所以，他的blog对前端开发相关的技术关注很多，而来自JavaScript世界的Node.js自然也纳入了他的兴趣范畴。&lt;a href="http://www.closure.pro/index.html#/article/51c2e064e742b80000000001"&gt;《让expressjs和socket.io分享同一个路由》&lt;/a&gt;让我们看到ThoughtWorker身上应有的那种爱折腾劲。&lt;/p&gt;
-
-&lt;h3 id="gradle"&gt;Gradle基础教程&lt;/h3&gt;
-&lt;p&gt;如果你在做一个Java项目，请问你的构建工具是什么？如果你的答案是Ant，只有一个字形容“土”，如果是Maven，那么恭喜你，你out了。君不见在新版技术雷达里，Maven已经On Hold了吗？也就是说，老项目不得已，新项目就别用了。那用什么呢？Gradle和Buildr是新时代的选择。西安办公室的王磊为我们提供了一个Gradle的基础教程(&lt;a href="http://wldandan.github.io/blog/2013/01/23/gradle-learning-one/"&gt;一&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/23/gradle-learning-two/"&gt;二&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/24/gradle-learning-three/"&gt;三&lt;/a&gt;,&lt;a href="http://wldandan.github.io/blog/2013/01/25/gradle-learning-four/"&gt;四&lt;/a&gt;)，帮助我们走上Gradle的康庄大道，从此告别恼人的XML！&lt;/p&gt;
-
-&lt;h3 id="inside-coffeescript"&gt;Inside CoffeeScript&lt;/h3&gt;
-&lt;p&gt;西安办公室的姜鹏是米糕产品团队的一员干将，要知道，以米糕的不安好心，他从开发团队里带走的都是些精明强干之辈。这里分享的是姜鹏对于CoffeeScript的理解，鉴于许多人都知道JavaScript的水有多深，有机会跳脱出来，换个方式写代码，你会如春风拂面搬清爽，话不多说，请看 &lt;a href="http://jiangpeng.info/blogs/2012/05/26/inside-coffeescript-1.html"&gt;Inside CoffeeScript: 语法强大&lt;/a&gt;, &lt;a href="http://jiangpeng.info/blogs/2012/05/26/inside-coffeescript-2.html"&gt;Inside CoffeeScript: 语法强壮&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="groovy-beginner"&gt;Groovy Beginner&lt;/h3&gt;
-&lt;p&gt;北京有一个被许多人奉为偶像的人，因为他从来都是言简意赅，直中要害。所以，他一旦发言，大家通常的选择，就是好好听着。他叫李光磊，他最近对Groovy有了兴趣，所以，我们有了一系列Groovy文章可以看，猛击查看：
-&lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;《Closure, ExpandoMetaClass, delegate, they don’t like each other?》&lt;/a&gt; 
-&lt;a href="http://liguanglei.name/blogs/2013/06/05/groovy-beginner-collections-vs-linq-and-stl/"&gt;Collections (vs. LINQ and STL)&lt;/a&gt;
-&lt;a href="http://liguanglei.name/blogs/2013/06/06/groovy-beginner-a-brief-summary/"&gt;A Brief Summary&lt;/a&gt;&lt;/p&gt;
-
 </content>
   </entry>
 </feed>
