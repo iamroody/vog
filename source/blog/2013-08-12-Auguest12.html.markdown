@@ -2,7 +2,7 @@
 title: 八月十二日
 date: 2013-08-12 06:53 UTC
 tags: 技术雷达, Jenkins, Selenium, 现代浏览器, Python, 环境配置, Scala
-authors: [{"name": "胡凯", "about": "http://www.iamhukai.com"},
+authors: [{"name": "胡凯", "about": "http://weibo.com/iamhukai"},
 		  {"name": "冯尔东", "about": "http://fedcuit.github.io"},
 		  {"name": "贺亮", "about": "http://hebuliang.github.io"},
 		  {"name": "颛清山", "about": "http://killera.github.io"},
