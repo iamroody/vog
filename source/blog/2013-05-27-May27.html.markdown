@@ -2,7 +2,11 @@
 title: 五月二十七日
 date: 2013-05-27 16:27 UTC
 tags: 系统继承, 测试策略, Y Combinator, 自动化测试, 前端开发流程, Java事务全解析, 而立之年
-authors: [熊节, 崔鹏飞, 刘旸, 腾云, 银大伟]
+authors: [{"name": "熊节", "about": "http://weibo.com/gigix"},
+          {"name": "崔鹏飞", "about": "http://weibo.com/u/2334051882"},
+          {"name": "刘旸", "about": "http://weibo.com/zation1"},
+          {"name": "腾云", "about": "http://www.davenkin.me"},
+          {"name": "银大伟", "about": "http://weibo.com/davidsilver"}]
 ---
 ### 企业系统集成点测试策略
 众所周知，在企业开发中，集成是一个绕不开的话题，谈到集成，通常意味着实现麻烦，难以测试。熊节的[《企业系统集成点测试策略》](http://www.infoq.com/cn/articles/enterprise-systems-integration-points)分享了他在集成方面的新思考，希望可以拉出挣扎在集成泥潭中的人。
