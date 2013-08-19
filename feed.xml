@@ -5,10 +5,38 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-08-12T06:53:00Z</updated>
+  <updated>2013-08-19T07:03:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>八月十九日</title>
+    <link rel="alternate" href="/blog/Auguest19.html"/>
+    <id>/blog/Auguest19.html</id>
+    <published>2013-08-19T07:03:00Z</published>
+    <updated>2013-08-19T07:03:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;秋老虎依然凶猛，热意还不肯随着夏日离去，当然，我们谈论技术的热情也不曾有一丝减退。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;技术雷达&lt;/h3&gt;
+&lt;p&gt;ThoughtWorks技术战略委员会，会定期发布技术雷达，根据我们在实际项目的观察，总结一些技术发展趋势。最新的一期&lt;a href="http://www.infoq.com/cn/articles/thoughtWorks-technology-radar"&gt;技术雷达&lt;/a&gt;发布在今年五月，后面还有人根据技术雷达总结了一些&lt;a href="http://www.infoq.com/cn/news/2013/08/latest-technology-trends-radar"&gt;技术发展趋势&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="android-ci"&gt;Android CI&lt;/h3&gt;
+&lt;p&gt;在ThoughtWorks技术雷达上，有一个很重要的趋势，就是把在传统技术领域已经成熟的技术实践，比如持续集成，推广到新兴技术领域，比如移动开发，比如前端开发。北京办公室的朱傲这次用自己的实践告诉我们如何在Android这个平台实现CI，且看&lt;a href="http://www.infoq.com/cn/articles/realize-android-ci"&gt;Android CI&lt;/a&gt;：&lt;/p&gt;
+
+&lt;h3 id="spring-mvc"&gt;Spring MVC静态资源访问&lt;/h3&gt;
+&lt;p&gt;谈技术，不只有新技术，不只高深的技术，还有一些貌似简单的，却少有人问津的东西。但如果一个初涉职场的毕业生能够深入其中，我们是不是应该看好其前景呢？在Java Web开发中，Spring MVC已经占据了重要的位置。在Spring MVC中，访问静态资源的方式有哪些？成都办公室的毕业生杨柳用自己学习做出了一些整理，请看&lt;a href="http://alex-yang.blogbus.com/logs/235101201.html"&gt;Spring MVC静态资源访问&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="ios-category-in-action"&gt;iOS Category in Action&lt;/h3&gt;
+&lt;p&gt;成都办公室王兴驰的专长是移动开发，但我们这次推荐的并不是他在移动开发上的一些见解，而是他对iOS开发语言Objective-C的一些深入理解，让我们看看他是如何用Category扩展已经存在的类, &lt;a href="http://regrecall.github.io/blog/2013/08/08/ios-category-in-action/"&gt;iOS Category in Action&lt;/a&gt; &lt;/p&gt;
+
+&lt;h3 id="gatling"&gt;Gatling的世界&lt;/h3&gt;
+&lt;p&gt;关于性能测试工具，如果听到这个词，你脑子里想的都是JMeter、LoadRunner，没别的，形容你生活在十年前，一点都不过分。现如今，性能测试已经迈向了Gatling时代。Vaikuntham Jagannath是我们一个印度同事，现在工作在成都办公室。他会带我们进入&lt;a href="http://simply-jags.blogspot.in/2013/08/diy-tutorial-for-gatling-stress-tool.html"&gt;Gatling的世界&lt;/a&gt;。&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>八月十二日</title>
     <link rel="alternate" href="/blog/Auguest12.html"/>
@@ -147,38 +175,6 @@
 
 &lt;h3 id="chocolatey-"&gt;Chocolatey, 我爱你&lt;/h3&gt;
 &lt;p&gt;在程序员的眼里，一切都要尽可能自动化，这也是Windows之前如此不受待见的重要原因。Windows程序员别提多羡慕其它世界程序员用包管理器安装软件的过程了。好在世界有了一些改变，有个Chocolatey的东西出现了。北京办公室的韩锴高声疾呼&lt;a href="http://isaachan.github.io/blog/2013/02/07/chocolatey-i-love-you/"&gt;《Chocolatey, 我爱你》&lt;/a&gt;，让我们共同赏析这份炽烈的爱：&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>七月一日</title>
-    <link rel="alternate" href="/blog/July01.html"/>
-    <id>/blog/July01.html</id>
-    <published>2013-07-01T15:11:00Z</published>
-    <updated>2013-07-01T15:11:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;时间来到2013年下半年，《The Voice Of ThoughtWorkers》也已经运行超过了一个月。
-在这样一个历史阶段，我们终于实现了四个办公室同台演出，希望以后这样的场面可以经常出现！&lt;/p&gt;
-
-&lt;h3 id="javascriptreplace"&gt;JavaScript函数replace揭秘&lt;/h3&gt;
-&lt;p&gt;成都办公室里有个JavaScript粉，恨不得用JavaScript写所有的代码，虽然他不是专职的UI；也许，更多人知道因为他的民族，他是中国区的第一个藏族同胞；但他真正赢得大家尊敬的是他的技术能力。&lt;a href="http://www.cnblogs.com/whitewolf/archive/2013/03/14/2958720.html"&gt;《JavaScript函数replace揭秘》&lt;/a&gt;让我们得以初窥格荣扎西的技术功底：&lt;/p&gt;
-
-&lt;h3 id="test-tips"&gt;2 Test Tips&lt;/h3&gt;
-&lt;p&gt;西安办公室的张久坤为我们带来了&lt;a href="http://xuwugui.github.io/blog/2013/06/21/2-test-tips/"&gt;《2 Test Tips》&lt;/a&gt;，两个非常实用的小技巧，却很好地解决了在Java开发中常见的两个问题：使用Joda Time函数模拟当前时间，以及编写自己的Matcher。顺便说一下，如果你用的JUnit版本大于4.11，用FeatureMatcher定制Matcher会更容易：&lt;/p&gt;
-
-&lt;h3 id="angularjs"&gt;AngularJS&lt;/h3&gt;
-&lt;p&gt;用各种JavaScript库，通过各种方式找出想要修改的元素，然后应用一些脚本来动态化页面？或者使用前端的各种MVC框架，更好地组织庞大的JavaScript代码？何不尝试扩展HTML本身，使其更容易展现动态的内容呢！ 这就是AngularJS的设计初衷，北京办公室张霄翀分享了AngularJS的一些有趣的特性（比如scope，data-binding，service/provider/factory），轻击查看 
-&lt;a href="http://hellobug.github.io/blog/angularjs-introduction/"&gt;感受篇&lt;/a&gt; 
-&lt;a href="http://hellobug.github.io/blog/angularjs-scope/"&gt;Scope&lt;/a&gt; 
-&lt;a href="http://hellobug.github.io/blog/angularjs-two-ways-binding/"&gt;View-Model双向绑定背后的故事&lt;/a&gt; 
-&lt;a href="http://hellobug.github.io/blog/angularjs-providers/"&gt;伤不起的provider们&lt;/a&gt;：&lt;/p&gt;
-
-&lt;h3 id="java"&gt;Java常见分布式协议比较系列&lt;/h3&gt;
-&lt;p&gt;如果你们觉得只有追求新的技术才是Geek，那只能说你们，too young，too naive。所谓Geek就是把一件平淡至极的事情做到让人惊叹的地步。所以做为一个靠谱的Geek，必须要面对那些真实被使用的技术，哪怕它们很陈旧。有请北京办公室的张晓庆同学送上《Java常见分布式协议比较系列》，在这里你会看到&lt;a href="http://xiaoqing.me/2012/12/19/protocols-ejb/"&gt;EJB&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/21/protocols-rmi/"&gt;RMI&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/25/protocols-rpc/"&gt;RPC&lt;/a&gt;、&lt;a href="http://xiaoqing.me/2012/12/28/protocols-corba/"&gt;CORBA&lt;/a&gt;和&lt;a href="http://xiaoqing.me/2013/01/08/protocols-jms/"&gt;JMS&lt;/a&gt;等。&lt;/p&gt;
-
-&lt;h3 id="scala"&gt;scala的类型系统居然可以解题&lt;/h3&gt;
-&lt;p&gt;对于许多年轻的程序员而言，或许你错过了C++泛型初临之际的各种折腾，比如，用C++泛型参数求阶乘。但只要是内心有所追求的程序员，便无法停止对技术狂热，请看上海办公室李鹏的发现&lt;a href="http://freewind.me/blog/20130612/2153.html"&gt;《scala的类型系统居然可以解题》&lt;/a&gt;：&lt;/p&gt;
 </content>
   </entry>
 </feed>
