@@ -2,10 +2,10 @@
 title: 八月十九日
 date: 2013-08-19 07:03 UTC
 tags: 技术雷达, Android CI, Spring MVC, iOS, Gatling
-authors: [{"name": "infoq", "about": "http://www.infoq.com"},
+authors: [{"name": "ThoughtWorks技术战略委员会", "about": "http://www.thoughtworks.com/radar"},
 		  {"name": "朱傲", "about": "http://www.infoq.com"},
 		  {"name": "杨柳", "about": "http://alex-yang.blogbus.com"},
-		  {"name": "王兴驰", "about": "http://regrecall.github.io"},
+		  {"name": "王兴驰", "about": "http://weibo.com/u/2279238670"},
 		  {"name": "Jagannath", "about": "http://simply-jags.blogspot.in"} ]
 ---
 
