@@ -2,7 +2,7 @@
 title: 八月十九日
 date: 2013-08-19 07:03 UTC
 tags: 技术雷达, Android CI, Spring MVC, iOS, Gatling
-authors: [{"name": "ThoughtWorks技术战略委员会", "about": "http://www.thoughtworks.com/radar"},
+authors: [{"name": "TW技术战略委员会", "about": "http://www.thoughtworks.com/radar"},
 		  {"name": "朱傲", "about": "http://www.infoq.com"},
 		  {"name": "杨柳", "about": "http://alex-yang.blogbus.com"},
 		  {"name": "王兴驰", "about": "http://weibo.com/u/2279238670"},
@@ -15,14 +15,14 @@ authors: [{"name": "ThoughtWorks技术战略委员会", "about": "http://www.tho
 ThoughtWorks技术战略委员会，会定期发布技术雷达，根据我们在实际项目的观察，总结一些技术发展趋势。最新的一期[技术雷达](http://www.infoq.com/cn/articles/thoughtWorks-technology-radar)发布在今年五月，后面还有人根据技术雷达总结了一些[技术发展趋势](http://www.infoq.com/cn/news/2013/08/latest-technology-trends-radar)。
 
 ### Android CI
-在ThoughtWorks技术雷达上，有一个很重要的趋势，就是把在传统技术领域已经成熟的技术实践，比如持续集成，推广到新兴技术领域，比如移动开发，比如前端开发。北京办公室的朱傲这次用自己的实践告诉我们如何在Android这个平台实现CI，且看[Android CI](http://www.infoq.com/cn/articles/realize-android-ci)：
+在ThoughtWorks技术雷达上，有一个很重要的趋势，就是把在传统技术领域已经成熟的技术实践，比如持续集成，推广到新兴技术领域，比如移动开发，比如前端开发。北京办公室的朱傲这次用自己的实践告诉我们如何在Android这个平台实现CI，且看[Android CI](http://www.infoq.com/cn/articles/realize-android-ci)。
 
 ### Spring MVC静态资源访问
 谈技术，不只有新技术，不只高深的技术，还有一些貌似简单的，却少有人问津的东西。但如果一个初涉职场的毕业生能够深入其中，我们是不是应该看好其前景呢？在Java Web开发中，Spring MVC已经占据了重要的位置。在Spring MVC中，访问静态资源的方式有哪些？成都办公室的毕业生杨柳用自己学习做出了一些整理，请看[Spring MVC静态资源访问](http://alex-yang.blogbus.com/logs/235101201.html)。
 
 
 ### iOS Category in Action
-成都办公室王兴驰的专长是移动开发，但我们这次推荐的并不是他在移动开发上的一些见解，而是他对iOS开发语言Objective-C的一些深入理解，让我们看看他是如何用Category扩展已经存在的类, [iOS Category in Action](http://regrecall.github.io/blog/2013/08/08/ios-category-in-action/) 
+成都办公室王兴驰的专长是移动开发，但我们这次推荐的并不是他在移动开发上的一些见解，而是他对iOS开发语言Objective-C的一些深入理解，让我们看看他是如何用Category扩展已经存在的类, [iOS Category in Action](http://regrecall.github.io/blog/2013/08/08/ios-category-in-action/) 。
 
 
 ### Gatling的世界

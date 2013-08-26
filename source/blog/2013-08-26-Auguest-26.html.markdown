@@ -12,16 +12,16 @@ Away Day来了，一年一度的狂欢将近。ThoughtWorker们，你们准备�
 
 ### 设计反思 From Waterfall to Agile
 ThoughtWorks中国区打造了一个产品，叫金数据。在产品团队中，有一个人专门负责用户体验设计，他叫朱晨，在网络上，他喜欢称自己雪鸮。作为一个以UX为自己职业选择的人，比对今昔的工作，他对这个怎样做UX工作有了自己的新思考。请看他写的系列文章[《设计反思 From Waterfall to Agile》](http://xuexiao.me/2013/07/%E6%88%91%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D%EF%BC%9Afrom-water-flow-to-agile%EF%BC%88%E4%B8%80%EF%BC%89/
-)：
+)。
 
 ### 使用spring提高rails开发效率
-Spring是什么？我知道，如果你是个Java程序员，思绪已经飞向那个DI容器。但我这里想说，在Ruby的世界里，它别有含义。跟着西安办公室的任晓君一起看看怎样[《使用spring提高rails开发效率》](http://nicholasren.github.io/2013/04/27/make-your-rails-faster.html)
+Spring是什么？我知道，如果你是个Java程序员，思绪已经飞向那个DI容器。但我这里想说，在Ruby的世界里，它别有含义。跟着西安办公室的任晓君一起看看怎样[《使用spring提高rails开发效率》](http://nicholasren.github.io/2013/04/27/make-your-rails-faster.html)。
 
 ### Struts2漏洞事件引发的反思
 还记得前不久Java界发生了件大事吗？就是Struts 2漏洞的事。对于使用SSH作为基础架构的公司来说，那真是一件腥风血雨的大事。发生了这样的事情，马伟，作为成都办公室对于Web安全关注最多的人，自然是有话要说。那就一起来看看马伟的[《Struts2漏洞事件引发的反思》](http://webappsecuritylab.com/?p=27)。
 
 ### Slideshow
-什么叫Geek？就是写幻灯片都用文本格式，更Geek的做法是，用Scheme这种Lisp方言写幻灯片。有人这么干吗？是的，北京办公室的韩锴就是这么干的。他使用的是一个叫做Slideshow的工具，韩老师已经迫不及待地给我们介绍它了, 请看[这里](http://isaachan.github.io/blog/2013/08/17/slide-textuality/)，
+什么叫Geek？就是写幻灯片都用文本格式，更Geek的做法是，用Scheme这种Lisp方言写幻灯片。有人这么干吗？是的，北京办公室的韩锴就是这么干的。他使用的是一个叫做Slideshow的工具，韩老师已经迫不及待地给我们介绍它了, 请看[这里](http://isaachan.github.io/blog/2013/08/17/slide-textuality/)。
 
 ### 打造离线使用的Mobile Web App
 ThoughtWorks今年举办了一次技术大赛，你可以想见，一群对技术有着无限追求的人面对技术大赛，那种两眼放光的样子。作为以前端开发为特长的刘旸，自然不会放过这样的机会。他和几个同事打造10Hours受到了大家的好评，这是一个离线的移动Web App。如果你对它的技术实现有兴趣，请看[《打造离线使用的Mobile Web App》](http://www.zation.me/2013/05/28/build_offline_mobile_web_app.html)。
