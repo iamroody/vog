@@ -2,7 +2,7 @@
 title: 六月三日
 date: 2013-06-03 16:20 UTC
 tags: 防御XSS, 跨域, 网站安全, 持续集成, Travis CI, CSS, before after, 伪元素, 测试金字塔
-authors: [{"name": "马伟", "about": "http://webappsecuritylab.com"},
+authors: [{"name": "马伟", "about": "http://weibo.com/shineforyou"},
           {"name": "王秋", "about": "http://weibo.com/u/1693116232"},
           {"name": "黄博文", "about": "http://weibo.com/zation1"},
           {"name": "邱俊涛", "about": "http://weibo.com/juntaoq"},
