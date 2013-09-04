@@ -2,12 +2,16 @@
 title: 六月十七日
 date: 2013-06-17 16:18 UTC
 tags: Javascript, 变量作用域, Ruby, Css 技巧, Vagrant, Grunt
-authors: [喻杨, 刘先宁, 冯志超, 吴少博, 禚娴静]
+authors: [{"name": "喻杨", "about": "http://weibo.com/870210121"},
+          {"name": "刘先宁", "about": "http://weibo.com/u/1175813114"},
+          {"name": "冯志超", "about": "http://weibo.com/flankerfc"},
+          {"name": "吴少博", "about": "http://weibo.com/u/2181970783"},
+          {"name": "禚娴静", "about": "http://xianjing.github.io"}]
 ---
 感谢屈原，让大家多休息了一天，我们也因此休息了一次。休息好，我们重装上阵，好消息是，现在已经有人开始主动投稿了，但我们不会告诉你哪篇是投稿的，哈哈！
 
 ### JavaScript变量作用域之殇
-不管你愿不愿意，JavaScript已经成为了一门重要的程序设计语言，所以，那些隐藏在角落里的JavaScript特征也慢慢被人挖掘了出来。成都办公室的喻杨给我们讲述了[《JavaScript变量作用域之殇》](http://cloveryu.github.io/blog/the-war-of-JavaScript-vaiiable-scope/)，让我们得以更好地了解JavaScript中的变量作用域。
+不管你愿不愿意，JavaScript已经成为了一门重要的程序设计语言，所以，那些隐藏在角落里的JavaScript特征也慢慢被人挖掘了出来。成都办公室的喻杨给我们讲述了[《JavaScript变量作用域之殇》](http://cloveryu.github.io/blog/the-war-of-JavaScript-vaiiable-scope/)，让我们得以更好地了解JavaScript中的变量作用域。
 
 
 ### Ruby背后的那些事
