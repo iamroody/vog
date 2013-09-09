@@ -2,11 +2,11 @@
 title: 八月二十六日
 date: 2013-08-26 12:30 UTC
 tags: 设计反思，Waterfall，Agile，Spring，Rails，Struts2漏洞，Slideshow，Mobile web APP
-authors: [{"name": "朱晨", "about": "http://xuexiao.me"},
-		  {"name": "任晓君", "about": "http://nicholasren.github.io"},
-		  {"name": "马伟", "about": "http://webappsecuritylab.com"},
-		  {"name": "韩锴", "about": "http://isaachan.github.io"},
-		  {"name": "刘旸", "about": "http://www.zation.me"} ]
+authors: [{"name": "朱晨", "about": "http://weibo.com/totry"},
+		  {"name": "任晓君", "about": "http://weibo.com/u/1815229162"},
+		  {"name": "马伟", "about": "http://weibo.com/shineforyou"},
+		  {"name": "韩锴", "about": "http://weibo.com/isaachan"},
+		  {"name": "刘旸", "about": "http://weibo.com/zation1"} ]
 ---
 Away Day来了，一年一度的狂欢将近。ThoughtWorker们，你们准备好了吗？
 
