@@ -1,0 +1,34 @@
+---
+title: Sep09th
+date: 2013-09-09 12:46 UTC
+tags: workshop, ux, feature toggle, Gatling, 数据迁移, bash profile
+authors: [{"name": "熊子川", "about": "http://weibo.com/u/1665809684"},
+		  {"name": "崔立强", "about": "http://weibo.com/cuiliqiang"},
+		  {"name": "Jagannath"},
+		  {"name": "张耀丹", "about": "http://yaodanzhang.com"},
+		  {"name": "王磊", "about": "http://wldandan.github.io"} ]
+---
+Away Day大家玩得很Happy，也很辛苦，所以，我们稍事休息。本周，我们继续。
+
+### 什么是Workshop
+UX现在已经软件开发中不可或缺的一部分，可你是否知道，几年前，我们根本没有人顶着UX的帽子。熊子川，中国区的UX Lead，几乎以一己之力从无到有地建设出中国的UX团队。我们这里分享一篇他的[《什么是Workshop》](http://www.tuzei8.com/2013/07/what-is-workshop/)，看看他是如何利用Workshop带着大家思考的。
+
+
+
+### 在项目中透明地引入特性开关
+之前曾经推荐过崔立强的《使用功能开关更好地实现持续部署》，介绍Feature Toggle的实践。北京办公室的孟宇现在对这个问题有了新的思考，当我们抛却Spring，Feature Toggle又该如何实践呢？于是，他写了一篇新的文章，[《在项目中透明地引入特性开关》](http://www.infoq.com/cn/articles/introducing-characteristics-switch-in-project-transparently)。
+
+
+
+### 新一代服务器性能测试工具Gatling
+现在的性能测试，已经是新贵Gatling的天下。我们前面也介绍过我们的印度同事Vaikuntham Jagannath写的一篇入门介绍，如果你想更全面地了解Gatling，成都办公室的刘冉又呈上了一篇[《新一代服务器性能测试工具Gatling》](http://www.infoq.com/cn/articles/new-generation-server-testing-tool-gatling)。顺便说一下，Vaikuntham Jagannath和刘冉都是QA，现在你知道了，测试也是一个技术活。
+
+
+
+### 在线系统数据&服务的迁移策略
+成都办公室的张耀丹是个毕业生，只是他的职业生涯一开始就面对一个复杂的遗留系统。好在遗留系统的复杂并没有让他退却，而是从中学习到了解决遗留系统的思考之道。他写了篇[《在线系统数据&服务的迁移策略》](http://yaodanzhang.com/blog/2013/08/19/migration-strategy-for-online-system/)。如果不说，还真看不出这个内容出自一个毕业生的文笔。
+
+
+
+### Understanding *nix Bash Profile
+作为一个ThoughtWorker，不熟悉命令行几乎是一件被人嘲笑的事，而Bash又几乎是每个人的入门shell。但你对Bash了解多少呢？你知道究竟应该配置Bash才能使其正确地运作。西安办公室的王磊用一篇[《Understanding *nix Bash Profile》](http://wldandan.github.io/blog/2013/05/23/understanding-unix-bash/)详细解释了Bash的配置。
