@@ -5,10 +5,37 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-08-26T12:30:00Z</updated>
+  <updated>2013-09-09T12:46:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Sep09th</title>
+    <link rel="alternate" href="/blog/Sep09th.html"/>
+    <id>/blog/Sep09th.html</id>
+    <published>2013-09-09T12:46:00Z</published>
+    <updated>2013-09-09T12:46:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Away Day大家玩得很Happy，也很辛苦，所以，我们稍事休息。本周，我们继续。&lt;/p&gt;
+
+&lt;h3 id="workshop"&gt;什么是Workshop&lt;/h3&gt;
+&lt;p&gt;UX现在已经软件开发中不可或缺的一部分，可你是否知道，几年前，我们根本没有人顶着UX的帽子。熊子川，中国区的UX Lead，几乎以一己之力从无到有地建设出中国的UX团队。我们这里分享一篇他的&lt;a href="http://www.tuzei8.com/2013/07/what-is-workshop/"&gt;《什么是Workshop》&lt;/a&gt;，看看他是如何利用Workshop带着大家思考的。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;在项目中透明地引入特性开关&lt;/h3&gt;
+&lt;p&gt;之前曾经推荐过崔立强的《使用功能开关更好地实现持续部署》，介绍Feature Toggle的实践。北京办公室的孟宇现在对这个问题有了新的思考，当我们抛却Spring，Feature Toggle又该如何实践呢？于是，他写了一篇新的文章，&lt;a href="http://www.infoq.com/cn/articles/introducing-characteristics-switch-in-project-transparently"&gt;《在项目中透明地引入特性开关》&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="gatling"&gt;新一代服务器性能测试工具Gatling&lt;/h3&gt;
+&lt;p&gt;现在的性能测试，已经是新贵Gatling的天下。我们前面也介绍过我们的印度同事Vaikuntham Jagannath写的一篇入门介绍，如果你想更全面地了解Gatling，成都办公室的刘冉又呈上了一篇&lt;a href="http://www.infoq.com/cn/articles/new-generation-server-testing-tool-gatling"&gt;《新一代服务器性能测试工具Gatling》&lt;/a&gt;。顺便说一下，Vaikuntham Jagannath和刘冉都是QA，现在你知道了，测试也是一个技术活。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;在线系统数据&amp;amp;服务的迁移策略&lt;/h3&gt;
+&lt;p&gt;成都办公室的张耀丹是个毕业生，只是他的职业生涯一开始就面对一个复杂的遗留系统。好在遗留系统的复杂并没有让他退却，而是从中学习到了解决遗留系统的思考之道。他写了篇&lt;a href="http://yaodanzhang.com/blog/2013/08/19/migration-strategy-for-online-system/"&gt;《在线系统数据&amp;amp;服务的迁移策略》&lt;/a&gt;。如果不说，还真看不出这个内容出自一个毕业生的文笔。&lt;/p&gt;
+
+&lt;h3 id="understanding-nix-bash-profile"&gt;Understanding *nix Bash Profile&lt;/h3&gt;
+&lt;p&gt;作为一个ThoughtWorker，不熟悉命令行几乎是一件被人嘲笑的事，而Bash又几乎是每个人的入门shell。但你对Bash了解多少呢？你知道究竟应该配置Bash才能使其正确地运作。西安办公室的王磊用一篇&lt;a href="http://wldandan.github.io/blog/2013/05/23/understanding-unix-bash/"&gt;《Understanding *nix Bash Profile》&lt;/a&gt;详细解释了Bash的配置。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>八月二十六日</title>
     <link rel="alternate" href="/blog/Auguest26.html"/>
@@ -147,33 +174,6 @@
 &lt;h3 id="git-"&gt;git 小技巧&lt;/h3&gt;
 &lt;p&gt;想没想过这样的情形，我们在别人的机器上或是结对的机器上提交代码，却希望把自己的名字放到提交信息上。西安办公室的马博文用一个&lt;a href="http://iambowen.github.io/git/2013/06/19/reset-commit-author/"&gt;git小技巧&lt;/a&gt;修改提交的作者信息。&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>七月十五日</title>
-    <link rel="alternate" href="/blog/July15.html"/>
-    <id>/blog/July15.html</id>
-    <published>2013-07-15T12:33:00Z</published>
-    <updated>2013-07-15T12:33:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;又一季的中国好声音开唱了，希望我们的The Voice Of ThoughtWorkers也能越来越精彩。&lt;/p&gt;
-
-&lt;h3 id="section"&gt;从持续设计到持续交付：完善循环&lt;/h3&gt;
-&lt;p&gt;在你脑中，软件开发意味着什么？如果只是写代码，只能说你是个目光短浅的程序员；如果有需求、设计、编码、测试、维护，那说明你在团队里干过，但依然思路有限；现在说起软件开发，要从一个构思开始，一直到发布上线，验证构思的可行性，并不断进行这样的循环，这里面包含的东西太多了。为了让大家打开眼界，我们的CTO Rebecca Parsons写了篇文章&lt;a href="http://www.infoq.com/cn/articles/continuous-delivery-continuous-design"&gt;《从持续设计到持续交付：完善循环》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="linux"&gt;Linux终端中使用上一命令减少键盘输入&lt;/h3&gt;
-&lt;p&gt;在成都，郑大晔校有一个著名的复读生，他读了两年郑大晔校，因为他提前一年应聘ThoughtWorks，居然还成功了。他的blog上有一些有趣的内容，如今他终于入职了，我们终于可以光明正大地把他的内容放到这里了。他叫小白，因为长地很白，哦，其实他叫文竞成，请看&lt;a href="http://blog.csdn.net/kiwi_coder/article/details/9229913"&gt;《Linux终端中使用上一命令减少键盘输入》&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="vagrant"&gt;Vagrant初窥&lt;/h3&gt;
-&lt;p&gt;ThoughtWorks有个人，曾经在自我介绍时，当着全办公室的人面做了首诗，于是，诗人的名号也就传了开来。当然，后来人们知道，他的技术能力也是很不错的，在对外方面，翻译、演讲的事也做了很多。如今，他的更多注意力放在了虚拟化和云上，我们不妨领略一下金明的《Vagrant初窥》（&lt;a href="http://mingjin.thoughtworkers.org/?p=155"&gt;一&lt;/a&gt;）、（&lt;a href="http://mingjin.thoughtworkers.org/?p=170"&gt;二&lt;/a&gt;）、&lt;a href="http://mingjin.thoughtworkers.org/?p=176"&gt;OVA（VMX）化Vagrant box&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="some-tricky-ways-to-calculate-integer-in-javascript"&gt;Some Tricky Ways to Calculate Integer in Javascript&lt;/h3&gt;
-&lt;p&gt;北京办公室有个长发飘飘的男人颇有geek范，在前不久举办的ThoughtWorks内部技术大赛上，他拿出了两个颇有新意的小东西参赛。让我们看看这个文迪用&lt;a href="http://timnew.github.io/blog/2013/02/24/some-tricky-ways-to-calculate-integer-in-javascript/"&gt;《Some Tricky Ways to Calculate Integer in Javascript》&lt;/a&gt;：&lt;/p&gt;
-
-&lt;h3 id="evernote-with-orgmode"&gt;Evernote With Orgmode&lt;/h3&gt;
-&lt;p&gt;这个世界上有三种程序员，玩Vi的，玩Emacs的，你想过怎么把年代久远的Emacs和新时代利器Evernote放在一起怎么玩吗？那就看看看看&lt;a href="http://oyanglul.us/blog/2013/06/25/evernote-with-orgmode/"&gt;《Evernote With Orgmode》&lt;/a&gt;，它来自西安办公室的毕业生Geek欧阳继超：&lt;/p&gt;
 </content>
   </entry>
 </feed>
