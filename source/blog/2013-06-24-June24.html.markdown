@@ -2,7 +2,12 @@
 title: 六月二十四日
 date: 2013-06-24 15:52 UTC
 tags: Moco, Node js, Gradle, buildr, CoffeeScript, Groovy, 继承测试, 企业开发, 前端技术
-authors: [赵峻伟, 郑泽楷, 王磊, 姜鹏, 李光磊]
+authors: [{"name": "赵峻伟", "about": "http://weibo.com/wahyd4"},
+          {"name": "郑泽楷", "about": "http://weibo.com/kiddkai"},
+          {"name": "王磊", "about": "http://weibo.com/u/1889327273"},
+          {"name": "姜鹏", "about": "http://weibo.com/u/1675778455"},
+          {"name": "李光磊", "about": "http://weibo.com/ajaxchelsea"}]
+
 ---
 这次的成都推荐来自两个毕业生，准确地说，实习生，还没毕业。虽然他们的文字还略显稚嫩，但从中我们已经可以看到未来之星正在冉冉升起。
 

@@ -4,9 +4,9 @@ date: 2013-09-09 12:46 UTC
 tags: workshop, ux, feature toggle, Gatling, 数据迁移, bash profile
 authors: [{"name": "熊子川", "about": "http://weibo.com/u/1665809684"},
 		  {"name": "孟宇", "about": "http://join.thoughtworks.com/"},
-		  {"name": "刘冉", "about": "http://join.thoughtworks.com/"},
+		  {"name": "刘冉", "about": "http://weibo.com/u/3594216595"},
 		  {"name": "张耀丹", "about": "http://weibo.com/u/1566313885"},
-		  {"name": "王磊", "about": "http://wldandan.github.io"} ]
+		  {"name": "王磊", "about": "http://weibo.com/u/1889327273"} ]
 ---
 Away Day大家玩得很Happy，也很辛苦，所以，我们稍事休息。本周，我们继续。
 
