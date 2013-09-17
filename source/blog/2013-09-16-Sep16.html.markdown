@@ -1,0 +1,28 @@
+---
+title: 九月十六
+date: 2013-09-16 23:51 UTC
+tags: web页面测试, Viff, WebP, 函数式编程, 闭包, 替换文本, JAVA 枚举, Pitfall
+authors: [{"name": "王秋", "about": "http://ishouldbeageek.me"},
+		  {"name": "陈嘉", "about": "http://www.btorange.com"},
+		  {"name": "刘夏", "about": "http://www.cnblogs.com/lxconan"},
+		  {"name": "冯智超", "about": "http://www.chaojiwudi.com"},
+		  {"name": "文迪", "about": "http://timnew.github.io"} ]
+---
+中秋将至，赏月时勿忘团圆，能回家的回家陪陪家人，不能回家的别忘了给家人打个电话。
+
+### Viff
+我们都知道Selenium的出现开启Web测试的历程，但那种测试大多集中在功能上，但你可曾想过Web页面样式的测试又该如何着手呢？成都办公室的王秋最近就在进行这方面的探索，他打造一个工具叫Viff，写了篇[文章](http://ishouldbeageek.me/2013/09/09/viff-introduction/)介绍它。作为一个刚起步的项目，王秋希望这个项目得到更多的关注，如果你是Github的用户，不妨Star一下，地址在此 https://github.com/winsonwq/viff 。
+
+### WebP
+你知道是什么是WebP吗？它是Google出品的新图像格式，这是一个Web开发者需要扩充的新知。成都办公室最近新来了一个UI开发人员，面试的时候，用自己开发JavaScript体感游戏震惊了大家，他叫陈嘉，请看他为大家带来的关于[WebP的介绍](http://www.btorange.com/2013/06/14/webp.html)。
+
+### fun with closure
+这是一个函数式编程越来越重要的年代，所以，如果你到现在还没听说过闭包，那实在要去补课。知道闭包不算什么，有Geek范的人就要折腾的深入一点。让我们看看北京办公室的刘夏是[如何折腾闭包](http://www.cnblogs.com/lxconan/archive/2012/11/23/fun_with_closure.html)的。
+
+### 前端页面替换文本的方法和技巧
+在前端页面替换文本有几种做法，不假思索的答案通常是直接用JavaScript。但你有没有想过这完全可以用CSS实现呢？让我们跟着西安办公室的冯智超一起跳出常规，探索一下技术的极限, [前端页面替换文本的方法和一些小技巧](http://www.chaojiwudi.com/2013/07/swapping-out-text-and-more/)。
+
+### Pitfall in isEnum Method in Java
+所谓有经验的程序员，无非是你掉到坑里的次数比其他人多。放眼望去，软件开发的坑无处不在，即便是人们熟悉得已经不能再熟悉的Java，依然有让人吃惊的地方。北京办公室的文迪从一个Java的枚举坑里爬了出来，写了一篇文章。让我们一起看一下，为了将来绕开这个坑，[Pitfall in isEnum Method in Java](http://timnew.github.io/blog/2013/07/19/pitfall-in-java-enumeration-reflection/) 。
+
+
