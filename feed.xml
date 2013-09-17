@@ -5,10 +5,38 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-09-09T12:46:00Z</updated>
+  <updated>2013-09-16T23:51:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>九月十六</title>
+    <link rel="alternate" href="/blog/Sep16.html"/>
+    <id>/blog/Sep16.html</id>
+    <published>2013-09-16T23:51:00Z</published>
+    <updated>2013-09-16T23:51:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;中秋将至，赏月时勿忘团圆，能回家的回家陪陪家人，不能回家的别忘了给家人打个电话。&lt;/p&gt;
+
+&lt;h3 id="viff"&gt;Viff&lt;/h3&gt;
+&lt;p&gt;我们都知道Selenium的出现开启Web测试的历程，但那种测试大多集中在功能上，但你可曾想过Web页面样式的测试又该如何着手呢？成都办公室的王秋最近就在进行这方面的探索，他打造一个工具叫Viff，写了篇&lt;a href="http://ishouldbeageek.me/2013/09/09/viff-introduction/"&gt;文章&lt;/a&gt;介绍它。作为一个刚起步的项目，王秋希望这个项目得到更多的关注，如果你是Github的用户，不妨Star一下，地址在此 https://github.com/winsonwq/viff 。&lt;/p&gt;
+
+&lt;h3 id="webp"&gt;WebP&lt;/h3&gt;
+&lt;p&gt;你知道是什么是WebP吗？它是Google出品的新图像格式，这是一个Web开发者需要扩充的新知。成都办公室最近新来了一个UI开发人员，面试的时候，用自己开发JavaScript体感游戏震惊了大家，他叫陈嘉，请看他为大家带来的关于&lt;a href="http://www.btorange.com/2013/06/14/webp.html"&gt;WebP的介绍&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="fun-with-closure"&gt;fun with closure&lt;/h3&gt;
+&lt;p&gt;这是一个函数式编程越来越重要的年代，所以，如果你到现在还没听说过闭包，那实在要去补课。知道闭包不算什么，有Geek范的人就要折腾的深入一点。让我们看看北京办公室的刘夏是&lt;a href="http://www.cnblogs.com/lxconan/archive/2012/11/23/fun_with_closure.html"&gt;如何折腾闭包&lt;/a&gt;的。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;前端页面替换文本的方法和技巧&lt;/h3&gt;
+&lt;p&gt;在前端页面替换文本有几种做法，不假思索的答案通常是直接用JavaScript。但你有没有想过这完全可以用CSS实现呢？让我们跟着西安办公室的冯智超一起跳出常规，探索一下技术的极限, &lt;a href="http://www.chaojiwudi.com/2013/07/swapping-out-text-and-more/"&gt;前端页面替换文本的方法和一些小技巧&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="pitfall-in-isenum-method-in-java"&gt;Pitfall in isEnum Method in Java&lt;/h3&gt;
+&lt;p&gt;所谓有经验的程序员，无非是你掉到坑里的次数比其他人多。放眼望去，软件开发的坑无处不在，即便是人们熟悉得已经不能再熟悉的Java，依然有让人吃惊的地方。北京办公室的文迪从一个Java的枚举坑里爬了出来，写了一篇文章。让我们一起看一下，为了将来绕开这个坑，&lt;a href="http://timnew.github.io/blog/2013/07/19/pitfall-in-java-enumeration-reflection/"&gt;Pitfall in isEnum Method in Java&lt;/a&gt; 。&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>九月九日</title>
     <link rel="alternate" href="/blog/Sep09.html"/>
@@ -145,34 +173,6 @@
 
 &lt;h3 id="java-"&gt;Java 新知识&lt;/h3&gt;
 &lt;p&gt;如果你两耳不闻窗外事十年，出山之后，你会发现自己的Java开发知识大多还是适用的，找一份Java开发的工作还是可能的。但是，你要知道Java世界也在变化，没有丝毫停歇，所以，不要抱残守缺，拥着十年前的Java开发知识不放吧！Java开发还在前进，听听成都办公室的刘先宁给你介绍一下Java新知识：&lt;a href="http://ningandjiao.iteye.com/blog/1905882"&gt;进击的Java开发&lt;/a&gt;&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>七月二十九日</title>
-    <link rel="alternate" href="/blog/July29.html"/>
-    <id>/blog/July29.html</id>
-    <published>2013-07-31T14:29:00Z</published>
-    <updated>2013-07-31T14:29:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;上周我们稍做休息，但并不妨碍ThoughtWorker们发出好声音，本周，我们继续前行。&lt;/p&gt;
-
-&lt;h3 id="section"&gt;函数式编程&lt;/h3&gt;
-&lt;p&gt;如果给追求卓越的软件开发者推荐一本书，且只能推荐一本，Neal Ford的《The Productive Programmer》（卓有成效的程序员）当之无愧。Neal Ford是ThoughtWorks公司里的P2的卓越代表之一，这次我们共同品味Neal Ford为解读的函数式编程： &lt;a href="http://www.infoq.com/cn/news/2013/07/functional-programming"&gt;函数式编程为何越来越受到重视&lt;/a&gt;  &lt;a href="http://www.ibm.com/developerworks/cn/java/j-ft20/"&gt;函数式思维&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="moco"&gt;Moco背后的故事&lt;/h3&gt;
-&lt;p&gt;关于P2，最近有一个好消息是，郑晔写的Moco拿到2013年的Duke选择奖，Moco是救集成于水深火热的一个框架/工具。让我们一起跟着InfoQ的访谈一起了解一下 &lt;a href="http://www.infoq.com/cn/news/2013/07/zhengye-on-moco"&gt;Moco背后的故事&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="section-1"&gt;代码腐化和救赎&lt;/h3&gt;
-&lt;p&gt;代码的腐化少有是一蹴而就的，多半是每个人改动一点点累积出来的。如果我们没有良好的嗅觉，无法闻到坏味道，那便是滑向腐坏深渊的开始。我们不妨追随着成都办公室的张逸，一个工作超过十五年的文艺“老人家”，一起用一个例子看看&lt;a href="http://agiledon.github.io/blog/2013/07/05/corrupt-code/"&gt;代码腐化和救赎&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="section-2"&gt;遗留代码&lt;/h3&gt;
-&lt;p&gt;遗留代码到处都有，不管它来自十年前，还是昨天写的，只要有腐朽的味道，它就是遗留代码。遗留代码不可怕，我们总要有些办法对付它。我们来看看成都办公室的贺思聪对一段&lt;a href="http://blog.april1985.com/index.php/2013/07/yi_ge_yi_liu_dai_ma_de_zhong_gou_de_tao_lun/"&gt;遗留代码的讨论&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="git-"&gt;git 小技巧&lt;/h3&gt;
-&lt;p&gt;想没想过这样的情形，我们在别人的机器上或是结对的机器上提交代码，却希望把自己的名字放到提交信息上。西安办公室的马博文用一个&lt;a href="http://iambowen.github.io/git/2013/06/19/reset-commit-author/"&gt;git小技巧&lt;/a&gt;修改提交的作者信息。&lt;/p&gt;
 
 </content>
   </entry>
