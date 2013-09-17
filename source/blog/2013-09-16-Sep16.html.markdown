@@ -3,7 +3,7 @@ title: 九月十六
 date: 2013-09-16 23:51 UTC
 tags: web页面测试, Viff, WebP, 函数式编程, 闭包, 替换文本, JAVA 枚举, Pitfall
 authors: [{"name": "王秋", "about": "http://weibo.com/u/1693116232"},
-		  {"name": "陈嘉", "about": "http://www.btorange.com"},
+		  {"name": "陈嘉", "about": "http://weibo.com/areschen"},
 		  {"name": "刘夏", "about": "http://www.cnblogs.com/lxconan"},
 		  {"name": "冯智超", "about": "http://weibo.com/flankerfc"},
 		  {"name": "文迪", "about": "http://timnew.github.io"} ]
