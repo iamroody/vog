@@ -21,7 +21,7 @@
     <content type="html">&lt;p&gt;中秋将至，赏月时勿忘团圆，能回家的回家陪陪家人，不能回家的别忘了给家人打个电话。&lt;/p&gt;
 
 &lt;h3 id="viff"&gt;Viff&lt;/h3&gt;
-&lt;p&gt;我们都知道Selenium的出现开启Web测试的历程，但那种测试大多集中在功能上，但你可曾想过Web页面样式的测试又该如何着手呢？成都办公室的王秋最近就在进行这方面的探索，他打造一个工具叫Viff，写了篇&lt;a href="http://ishouldbeageek.me/2013/09/09/viff-introduction/"&gt;文章&lt;/a&gt;介绍它。作为一个刚起步的项目，王秋希望这个项目得到更多的关注，如果你是Github的用户，不妨Star一下，地址在此 https://github.com/winsonwq/viff 。&lt;/p&gt;
+&lt;p&gt;我们都知道Selenium的出现开启Web测试的历程，但那种测试大多集中在功能上，但你可曾想过Web页面样式的测试又该如何着手呢？成都办公室的王秋最近就在进行这方面的探索，他打造一个工具叫Viff，写了篇&lt;a href="http://ishouldbeageek.me/2013/09/09/viff-introduction/"&gt;文章&lt;/a&gt;介绍它。作为一个刚起步的项目，王秋希望这个项目得到更多的关注，如果你是Github的用户，不妨Star一下，地址&lt;a href="https://github.com/winsonwq/viff"&gt;在此&lt;/a&gt;。&lt;/p&gt;
 
 &lt;h3 id="webp"&gt;WebP&lt;/h3&gt;
 &lt;p&gt;你知道是什么是WebP吗？它是Google出品的新图像格式，这是一个Web开发者需要扩充的新知。成都办公室最近新来了一个UI开发人员，面试的时候，用自己开发JavaScript体感游戏震惊了大家，他叫陈嘉，请看他为大家带来的关于&lt;a href="http://www.btorange.com/2013/06/14/webp.html"&gt;WebP的介绍&lt;/a&gt;。&lt;/p&gt;
