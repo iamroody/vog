@@ -2,11 +2,11 @@
 title: 九月二十三日
 date: 2013-09-23 05:55 UTC
 tags: 图片叠放，浏览器默认行为，Gradle，TestNGPP，MockCpp，RESTful API
-authors: [{"name": "冯佳", "about": "http://justinfeng.github.io"},
+authors: [{"name": "冯佳", "about": "http://weibo.com/u/2936869263"},
 		  {"name": "陈致豪", "about": "http://chenzhihao.github.io"},
-		  {"name": "黄博文", "about": "http://huangbowen.net"},
-		  {"name": "赵喜鸿", "about": "http://blog.sina.com.cn/xihongzhao"},
-		  {"name": "任晓君", "about": "http://nicholasren.github.io"} ]
+		  {"name": "黄博文", "about": "http://weibo.com/hbw0925"},
+		  {"name": "赵喜鸿", "about": "http://weibo.com/zhaoxihong"},
+		  {"name": "任晓君", "about": "http://weibo.com/u/1815229162"} ]
 ---
 
 中秋过了，三天休息可好，再坚持一下，又是长假！
