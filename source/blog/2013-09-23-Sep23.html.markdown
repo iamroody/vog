@@ -1,0 +1,32 @@
+---
+title: 九月二十三日
+date: 2013-09-23 05:55 UTC
+tags: 图片叠放，浏览器默认行为，Gradle，TestNGPP，MockCpp，RESTful API
+authors: [{"name": "冯佳", "about": "http://justinfeng.github.io"},
+		  {"name": "陈致豪", "about": "http://chenzhihao.github.io"},
+		  {"name": "黄博文", "about": "http://huangbowen.net"},
+		  {"name": "赵喜鸿", "about": "http://blog.sina.com.cn/xihongzhao"},
+		  {"name": "任晓君", "about": "http://nicholasren.github.io"} ]
+---
+
+中秋过了，三天休息可好，再坚持一下，又是长假！
+
+### Email 中的图片叠放
+
+在 Web 网站中，我们经常会一张图片叠在另一张图片上面，解决方案有很多。但当你面对的不再是网页，而是 Email，常规的解决方案通通失效了，因为很多样式样式是不支持的。是不是有些手足无措了？不要紧，西安办公室的冯佳会[救你于水深火热](http://justinfeng.github.io/blog/2013/04/25/overlap-image-in-email/)。
+
+### 浏览器默认行为执行与阻止分析
+
+有些东西称为基本功，对于 Web 开发而言，事件处理模型便是其中的一个，我们经常会在代码里遇到阻止浏览器默认行为的做法。成都办公室的陈致豪花了时间，把事件处理模型整理清楚，做了一次[《浏览器默认行为执行与阻止分析》](http://chenzhihao.github.io/blog/prevent-browser-default-behavior/)，帮我们更好地理解发生的一切。
+
+### Gradle 命令行黑魔法
+
+关于 Gradle ，我们常常会想到的是如何编写一个 Task ，怎么写一个 Plugin ，但是对于 Gradle 命令行本身怎么用却探究不多。还好成都办公室的黄博文注意到了这个让人遗忘的角落，写了一篇文章，揭秘鲜为人知的[《Gradle命令行黑魔法》](http://huangbowen.net/blog/2013/09/01/command-line-of-gradle/)。
+
+### Linux 上安装 C/C++ 单元测试框架之 TestNGPP + MockCpp
+
+在敏捷软件开发中， TDD 是不可或缺的，但同样是 TDD ，在 Java/C# 等现代开发语言轻而易举的事情，对于 C/C++ 这样的“老”语言来说，却总有些步履蹒跚，这是由 C/C++ 自身的编译模型造成的。其实，在这方面的探索已经有很多了，上海办公室的赵喜鸿给我们介绍[《 Linux 上安装 C/C++ 单元测试框架之 TestNGPP + MockCpp 》](http://blog.sina.com.cn/s/blog_792d2ad701011rnh.html)，如果你是一个 C/C++ 开发人员，不妨试一下。
+
+### Thoughts on design a RESTful API on RoR stack
+
+在如今的架构选型中， REST 几乎成为无可争议的主流。当我们开始一个 REST 架构的项目时，摆在我们的框架选择着实不少，这会让有选择困难的人们头疼不已。西安办公室的任晓君在完成了一次新项目架构选型之后，对这个问题有了属于[自己的思考](http://nicholasren.github.io/2013/09/04/thoughts-on-design-a-restful-api-on-ror-stack.html)，至少它可以帮助我们在下一个 Ruby 的 REST 项目选型做一个参考。
