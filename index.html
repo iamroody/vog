@@ -17,13 +17,13 @@
 			
 
 <nav class="paginate">
-    <a rel="next" href="/blog/Sep16.html" class="next">▶</a>
+    <a rel="next" href="/blog/Sep23.html" class="next">▶</a>
 </nav>
 
 <div class="container">
   <section class="table-of-contents">
     <header class="cover">
-      <img src="images/cover.jpg" style="width:100%; height: 100%"/>
+      <img style="width:100%; height: 100%"/>
     </header>
   <div class="logo">
     <span class="the">the</span>
@@ -35,7 +35,7 @@
       <ul class="clearfix">
         <li class="active"><a href="#">The Voice Of ThoughtWorkers</a>
         <!-- <li class="pull-right"><a href="#">Older Issues</a>-->
-        <li id="start-reading" class="pull-right"><a href="/blog/Sep16.html">开始阅读 &raquo;</a></li>
+        <li id="start-reading" class="pull-right"><a href="/blog/Sep23.html">开始阅读 &raquo;</a></li>
       </ul>
     </nav>
     <section class="issue-notes">
@@ -50,7 +50,7 @@
       <br>
     </section>
     <section class="issue-notes">
-      <h3><a href="/blog/Sep16.html">开始阅读 &raquo;</a></h3>
+      <h3><a href="/blog/Sep23.html">开始阅读 &raquo;</a></h3>
     </section>
 
     <section class="about-us">
@@ -76,6 +76,11 @@
   ga('create', 'UA-42479123-1', 'voice.thoughtworkers.org');
   ga('send', 'pageview');
 
+</script>
+
+<script type="text/javascript">
+  var number = Math.floor((Math.random()*8)+1);
+  document.querySelector(".cover img").setAttribute("src", "images/cover" + number + ".jpg");
 </script>
 	</body>
 </html>

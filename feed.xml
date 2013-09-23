@@ -5,10 +5,42 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-09-16T23:51:00Z</updated>
+  <updated>2013-09-23T05:55:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>九月二十三日</title>
+    <link rel="alternate" href="/blog/Sep23.html"/>
+    <id>/blog/Sep23.html</id>
+    <published>2013-09-23T05:55:00Z</published>
+    <updated>2013-09-23T05:55:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;中秋过了，三天休息可好，再坚持一下，又是长假！&lt;/p&gt;
+
+&lt;h3 id="email-"&gt;Email 中的图片叠放&lt;/h3&gt;
+
+&lt;p&gt;在 Web 网站中，我们经常会一张图片叠在另一张图片上面，解决方案有很多。但当你面对的不再是网页，而是 Email，常规的解决方案通通失效了，因为很多样式样式是不支持的。是不是有些手足无措了？不要紧，西安办公室的冯佳会&lt;a href="http://justinfeng.github.io/blog/2013/04/25/overlap-image-in-email/"&gt;救你于水深火热&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;浏览器默认行为执行与阻止分析&lt;/h3&gt;
+
+&lt;p&gt;有些东西称为基本功，对于 Web 开发而言，事件处理模型便是其中的一个，我们经常会在代码里遇到阻止浏览器默认行为的做法。成都办公室的陈致豪花了时间，把事件处理模型整理清楚，做了一次&lt;a href="http://chenzhihao.github.io/blog/prevent-browser-default-behavior/"&gt;《浏览器默认行为执行与阻止分析》&lt;/a&gt;，帮我们更好地理解发生的一切。&lt;/p&gt;
+
+&lt;h3 id="gradle-"&gt;Gradle 命令行黑魔法&lt;/h3&gt;
+
+&lt;p&gt;关于 Gradle ，我们常常会想到的是如何编写一个 Task ，怎么写一个 Plugin ，但是对于 Gradle 命令行本身怎么用却探究不多。还好成都办公室的黄博文注意到了这个让人遗忘的角落，写了一篇文章，揭秘鲜为人知的&lt;a href="http://huangbowen.net/blog/2013/09/01/command-line-of-gradle/"&gt;《Gradle命令行黑魔法》&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="linux--cc--testngpp--mockcpp"&gt;Linux 上安装 C/C++ 单元测试框架之 TestNGPP + MockCpp&lt;/h3&gt;
+
+&lt;p&gt;在敏捷软件开发中， TDD 是不可或缺的，但同样是 TDD ，在 Java/C# 等现代开发语言轻而易举的事情，对于 C/C++ 这样的“老”语言来说，却总有些步履蹒跚，这是由 C/C++ 自身的编译模型造成的。其实，在这方面的探索已经有很多了，上海办公室的赵喜鸿给我们介绍&lt;a href="http://blog.sina.com.cn/s/blog_792d2ad701011rnh.html"&gt;《 Linux 上安装 C/C++ 单元测试框架之 TestNGPP + MockCpp 》&lt;/a&gt;，如果你是一个 C/C++ 开发人员，不妨试一下。&lt;/p&gt;
+
+&lt;h3 id="thoughts-on-design-a-restful-api-on-ror-stack"&gt;Thoughts on design a RESTful API on RoR stack&lt;/h3&gt;
+
+&lt;p&gt;在如今的架构选型中， REST 几乎成为无可争议的主流。当我们开始一个 REST 架构的项目时，摆在我们的框架选择着实不少，这会让有选择困难的人们头疼不已。西安办公室的任晓君在完成了一次新项目架构选型之后，对这个问题有了属于&lt;a href="http://nicholasren.github.io/2013/09/04/thoughts-on-design-a-restful-api-on-ror-stack.html"&gt;自己的思考&lt;/a&gt;，至少它可以帮助我们在下一个 Ruby 的 REST 项目选型做一个参考。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>九月十六</title>
     <link rel="alternate" href="/blog/Sep16.html"/>
@@ -146,34 +178,6 @@
 
 &lt;h3 id="scalajava"&gt;一次用Scala重写Java的经验&lt;/h3&gt;
 &lt;p&gt;又见Scala，在Scala粉心中Scala就是用来代替Java的，但你尝试过替换吗？北京办公室的冯英睿就做了一次这样的工作，把自己的一个Java程序替换成Scala，自然他也有自己的经验总结，我们一起来看&lt;a href="http://yingrui.github.io/programming/2013/03/31/My-Expirence-About-Rewrite-Java-in-Scala/"&gt;《一次用Scala重写Java的经验》&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>八月五日</title>
-    <link rel="alternate" href="/blog/August05.html"/>
-    <id>/blog/August05.html</id>
-    <published>2013-08-05T12:26:00Z</published>
-    <updated>2013-08-05T12:26:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;时间进入8月，天气依然闷热，但立秋将近，凉爽还会远吗？&lt;/p&gt;
-
-&lt;h3 id="jquery"&gt;JQuery&lt;/h3&gt;
-&lt;p&gt;JQuery几乎已经前端开发的标配了，大多数开发人员对JQuery的运用也已经驾轻就熟。但你是否知道，耳熟能详的bind、live、on几种事件绑定方式有何区别。请跟着成都的毕业生占红来一探究竟 &lt;a href="http://blog.csdn.net/sonlyf5020/article/details/9674099"&gt;.bind .live .on&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="scala"&gt;Scala&lt;/h3&gt;
-&lt;p&gt;Scala这门程序设计语言试图通过自己的努力打破面向对象程序设计和函数式编程的疆界，对习惯了面向对象程序设计的人，怎样一步步迈向函数式风格还是有些规律可循的。成都办公室有一个新来的腼腆大男孩李建，但他却对Scala有着自己的热情，让我们跟着他一起探究Scala的奥秘吧！ &lt;a href="http://1.jakimli.sinaapp.com/?p=10"&gt;Scala中的尾递归&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="reflection-in-c"&gt;Reflection in C&lt;/h3&gt;
-&lt;p&gt;反射，让人又爱又恨。一种由于过于强大而禁止在日常开发中使用的技术，同时也是一种可以在消除重复这件事上走得更远的技术。让架构师又爱又恨的语言特性，听起来这就是典型的只许州官放火不许百姓点灯的技术：哪个架构师不用反射呢？可惜架构师往往还不得不禁止普通程序员使用反射，以免滥用造成无法收拾的混乱。危险而又迷人的强大技术，不会有哪个Geek控制的住自己的欲望不去了解它。那位少年，我看你筋骨奇特，这本北京办公室禚娴静女侠的《Reflection in C#》就送给你了，以后维护软件世界远离混沌的任务就交给你了，收下吧：&lt;a href="http://xianjing.github.io/blog/2013/05/07/reflection-in-c-sharp/"&gt;Reflection in C#&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-&lt;p&gt;很多人都知道西安办公室邱俊涛是JavaScript方面的专家，但你不知道，最近邱俊涛的努力方向在Lisp上。如何搭建一个Lisp开发环境，Lisp有哪些特性，以及Lisp让许多人痴迷不已的宏到底是怎样的，请听邱俊涛一一道来：&lt;a href="http://icodeit.org/2013/06/setup-lisp-development-env-on-mac/"&gt;在Mac下搭建Common Lisp开发环境&lt;/a&gt; &lt;a href="http://icodeit.org/2013/06/common-lisp-basic/"&gt;Common Lisp 里的一些基本概念&lt;/a&gt; &lt;a href="http://icodeit.org/2013/06/macro-in-common-lisp/"&gt;Common Lisp中的宏(Macro)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="java-"&gt;Java 新知识&lt;/h3&gt;
-&lt;p&gt;如果你两耳不闻窗外事十年，出山之后，你会发现自己的Java开发知识大多还是适用的，找一份Java开发的工作还是可能的。但是，你要知道Java世界也在变化，没有丝毫停歇，所以，不要抱残守缺，拥着十年前的Java开发知识不放吧！Java开发还在前进，听听成都办公室的刘先宁给你介绍一下Java新知识：&lt;a href="http://ningandjiao.iteye.com/blog/1905882"&gt;进击的Java开发&lt;/a&gt;&lt;/p&gt;
-
 </content>
   </entry>
 </feed>
