@@ -1,0 +1,32 @@
+---
+title: Oct21
+date: 2013-10-21 14:36 UTC
+tags: 内嵌CSS，Vagrant，Guava，Bower，语言设计
+authors: [{"name": "陈嘉", "about": "http://www.btorange.com"},
+		  {"name": "袁晓峰", "about": "http://yxfilm.us"},
+		  {"name": "杨柳", "about": "http://www.cnblogs.com/Alex--Yang"},
+		  {"name": "邱俊涛", "about": "http://icodeit.org"},
+		  {"name": "扎西", "about": "http://www.cnblogs.com/whitewolf"} ]
+---
+又一周悄悄过去了，我们的好声音如约与大家见面。
+
+### 为什么要内嵌CSS？
+
+相信大家对内嵌CSS深恶痛绝，也能列出很多不要内嵌CSS的理由。成都办公室的陈嘉却要研究一下[《为什么要用内嵌CSS》](http://www.btorange.com/2010/05/11/embedded-css.html)以及什么情况下使用内嵌CSS，相信能给大家带来不同的视角。
+
+### 程序员的神兵利器－Vagrant
+
+虚拟化技术能够帮助我们快速搭建开发和产品环境，你不能不说Vagrant是虚拟化技术的神兵利器。让我们跟随袁晓峰的程序员的神兵利器－[《Vagrant为我们的兵器库添加新的利器》](http://yxfilm.us/blog/archives/2013/08/119)。
+
+### Guava增强for循环
+
+看过上期郑晔的需要更新的Java知识系列之后，相信大家已经知道了Guava。成都办公室的杨柳率先体验了一下[《Guava增强for循环》](http://www.cnblogs.com/Alex--Yang/p/3371282.html)，让糟糕的for与if，else的冗余组合变的简单易懂。另外如果使用FluentIterable的话，可读性更好。
+
+
+### Bower as Dependencies Manager
+
+大家还记的在Maven之前Java管理包依赖的痛苦吗？同样的痛苦会在新兴的Node.js里折磨大家吗？且看看在西安办公室里讲过说文解字的邱俊涛邱大师通过[《Bower as Dependencies Manager》](http://icodeit.org/2013/10/bower-as-dependencies-manager/)解释了如何使用Bower解决Node.js里的依赖痛苦。
+
+### 语言设计中的鸭子类型风格
+
+随着Ruby的流行谚语：“如果行鸭子一样走路，像鸭子一样呱呱叫，那它就是一只鸭子”也越来越流行，成都办公室的扎西扎爷通过[《语言设计中的鸭子类型风格》](http://www.cnblogs.com/whitewolf/p/3163358.html)从JavaScript、Go以及TypeScript三种不同的动态语言阐述了对这句谚语的理解。
