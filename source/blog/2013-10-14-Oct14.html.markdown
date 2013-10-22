@@ -1,12 +1,12 @@
 ---
-title: Oct14
+title: 十月十四日
 date: 2013-10-14 14:23 UTC
 tags: Junit,MapReduce,DocBook,AngularJs,Java系列知识
 authors: [{"name": "雷钰", "about": "http://www.cnblogs.com/harolei"},
 		  {"name": "卢珂", "about": "http://www.blogbus.com/ricklu-logs"},
 		  {"name": "杨锐", "about": "http://r00e.github.io/"},
 		  {"name": "蒋帆", "about": "http://wordpress.torchz.net"},
-		  {"name": "郑晔", "about": "http://dreamhead.blogbus.com"} ]
+		  {"name": "郑晔", "about": "http://weibo.com/dreamhead"} ]
 ---
 
 在那人潮汹涌的“黄金粥”，你是否想念我们的好声音。

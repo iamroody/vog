@@ -1,12 +1,12 @@
 ---
-title: Oct21
+title: 十月二十一日
 date: 2013-10-21 14:36 UTC
 tags: 内嵌CSS，Vagrant，Guava，Bower，语言设计
 authors: [{"name": "陈嘉", "about": "http://www.btorange.com"},
 		  {"name": "袁晓峰", "about": "http://yxfilm.us"},
 		  {"name": "杨柳", "about": "http://www.cnblogs.com/Alex--Yang"},
-		  {"name": "邱俊涛", "about": "http://icodeit.org"},
-		  {"name": "扎西", "about": "http://www.cnblogs.com/whitewolf"} ]
+		  {"name": "邱俊涛", "about": "http://weibo.com/juntaoq"},
+		  {"name": "格荣扎西", "about": "http://weibo.com/whitewolfhome"} ]
 ---
 又一周悄悄过去了，我们的好声音如约与大家见面。
 
