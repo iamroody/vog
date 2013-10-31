@@ -5,10 +5,42 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-10-21T14:36:00Z</updated>
+  <updated>2013-10-28T12:00:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>OCT28</title>
+    <link rel="alternate" href="/blog/oct28.html"/>
+    <id>/blog/oct28.html</id>
+    <published>2013-10-28T12:00:00Z</published>
+    <updated>2013-10-28T12:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;不知不觉，这已经是十月份最后一期好声音了。&lt;/p&gt;
+
+&lt;h3 id="maven"&gt;为什么要抛弃maven&lt;/h3&gt;
+
+&lt;p&gt;在Thoughtworks的Tech Radar里Maven已经On Hold了，但是大家知道曾经流行的Maven为什么被On Hold区吗？且看李鹏怎么低调的为大家解释&lt;a href="http://freewind.me/blog/20130803/2195.html"&gt;为什么要抛弃maven&lt;/a&gt;，看完之后相信大家会有把项目的构建工具换成Gradle的冲动。&lt;/p&gt;
+
+&lt;h3 id="phonegap"&gt;一起来玩PhoneGap&lt;/h3&gt;
+
+&lt;p&gt;一提到移动开发相信大家首先会想到iOS或者Android，但是当你想做一些原型设计的时候，你还有第三种选择——就是PhoneGap。今天就跟成都办公室的贺思聪同学&lt;a href="http://blog.april1985.com/index.php/2013/10/yi_qi_lai_wan_phonegap/"&gt;一起来玩PhoneGap&lt;/a&gt;吧，看看他遇见了什么坑。&lt;/p&gt;
+
+&lt;h3 id="mock"&gt;Mock，有人爱它我偏恨&lt;/h3&gt;
+
+&lt;p&gt;作为Thoughtworks你不TDD你不好意思跟人打招呼，那你写测试你不Mock你就更不好意思跟人打招呼了。西安办公室的吴少吴少博一次又一次地在项目中用Mock写测试之后，有了Mock，&lt;a href="http://wushaobo.info/?p=49"&gt;有人爱它我偏恨的感慨&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="build-android-environment-with-intellij-and-gradle"&gt;Build Android Environment With Intellij and Gradle&lt;/h3&gt;
+
+&lt;p&gt;Gradle已经不止一次被Thoughtworks好声音推荐了，但是大都在传统Java项目上如何使用Gradle。今天我们跟随西安办公室的张久坤的&lt;a href="http://jiukun.us/blog/2013/07/18/build-android-environmentwith-intellij-and-gradle/"&gt;Build Android Environment With Intellij and Gradle&lt;/a&gt;来看一下Gradle如何应用到Android项目上的。&lt;/p&gt;
+
+&lt;h3 id="scala"&gt;Scala中的语言特性是如何实现的&lt;/h3&gt;
+
+&lt;p&gt;我们学东西不止要知其然，还要知其所以然。成都办公室的崔鹏飞在学Scala的时候，不止学习如何使用Scala，也研究了Scala中的语言特性是如何实现的：&lt;a href="http://cuipengfei.me/blog/2013/05/05/how-are-scala-language-features-implemented/"&gt;一&lt;/a&gt;，&lt;a href="http://cuipengfei.me/blog/2013/05/11/scala-language-features-2/"&gt;二&lt;/a&gt;，&lt;a href="http://cuipengfei.me/blog/2013/10/13/scala-trait/"&gt;三&lt;/a&gt;。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>十月二十一日</title>
     <link rel="alternate" href="/blog/Oct21.html"/>
@@ -163,34 +195,6 @@
 
 &lt;h3 id="understanding-nix-bash-profile"&gt;Understanding *nix Bash Profile&lt;/h3&gt;
 &lt;p&gt;作为一个ThoughtWorker，不熟悉命令行几乎是一件被人嘲笑的事，而Bash又几乎是每个人的入门shell。但你对Bash了解多少呢？你知道究竟应该配置Bash才能使其正确地运作。西安办公室的王磊用一篇&lt;a href="http://wldandan.github.io/blog/2013/05/23/understanding-unix-bash/"&gt;《Understanding *nix Bash Profile》&lt;/a&gt;详细解释了Bash的配置。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>八月二十六日</title>
-    <link rel="alternate" href="/blog/Auguest26.html"/>
-    <id>/blog/Auguest26.html</id>
-    <published>2013-08-26T12:30:00Z</published>
-    <updated>2013-08-26T12:30:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Away Day来了，一年一度的狂欢将近。ThoughtWorker们，你们准备好了吗？&lt;/p&gt;
-
-&lt;h3 id="from-waterfall-to-agile"&gt;设计反思 From Waterfall to Agile&lt;/h3&gt;
-&lt;p&gt;ThoughtWorks中国区打造了一个产品，叫金数据。在产品团队中，有一个人专门负责用户体验设计，他叫朱晨，在网络上，他喜欢称自己雪鸮。作为一个以UX为自己职业选择的人，比对今昔的工作，他对这个怎样做UX工作有了自己的新思考。请看他写的系列文章&lt;a href="http://xuexiao.me/2013/07/%E6%88%91%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D%EF%BC%9Afrom-water-flow-to-agile%EF%BC%88%E4%B8%80%EF%BC%89/"&gt;《设计反思 From Waterfall to Agile》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="springrails"&gt;使用spring提高rails开发效率&lt;/h3&gt;
-&lt;p&gt;Spring是什么？我知道，如果你是个Java程序员，思绪已经飞向那个DI容器。但我这里想说，在Ruby的世界里，它别有含义。跟着西安办公室的任晓君一起看看怎样&lt;a href="http://nicholasren.github.io/2013/04/27/make-your-rails-faster.html"&gt;《使用spring提高rails开发效率》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="struts2"&gt;Struts2漏洞事件引发的反思&lt;/h3&gt;
-&lt;p&gt;还记得前不久Java界发生了件大事吗？就是Struts 2漏洞的事。对于使用SSH作为基础架构的公司来说，那真是一件腥风血雨的大事。发生了这样的事情，马伟，作为成都办公室对于Web安全关注最多的人，自然是有话要说。那就一起来看看马伟的&lt;a href="http://webappsecuritylab.com/?p=27"&gt;《Struts2漏洞事件引发的反思》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="slideshow"&gt;Slideshow&lt;/h3&gt;
-&lt;p&gt;什么叫Geek？就是写幻灯片都用文本格式，更Geek的做法是，用Scheme这种Lisp方言写幻灯片。有人这么干吗？是的，北京办公室的韩锴就是这么干的。他使用的是一个叫做Slideshow的工具，韩老师已经迫不及待地给我们介绍它了, 请看&lt;a href="http://isaachan.github.io/blog/2013/08/17/slide-textuality/"&gt;这里&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="mobile-web-app"&gt;打造离线使用的Mobile Web App&lt;/h3&gt;
-&lt;p&gt;ThoughtWorks今年举办了一次技术大赛，你可以想见，一群对技术有着无限追求的人面对技术大赛，那种两眼放光的样子。作为以前端开发为特长的刘旸，自然不会放过这样的机会。他和几个同事打造10Hours受到了大家的好评，这是一个离线的移动Web App。如果你对它的技术实现有兴趣，请看&lt;a href="http://www.zation.me/2013/05/28/build_offline_mobile_web_app.html"&gt;《打造离线使用的Mobile Web App》&lt;/a&gt;。&lt;/p&gt;
-
 </content>
   </entry>
 </feed>
