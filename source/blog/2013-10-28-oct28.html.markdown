@@ -1,5 +1,5 @@
 ---
-title: OCT28
+title: 十月二十八日
 date: 2013-10-28 12:00 UTC
 tags: maven, phoneGap, Mock, Android Intellij, Scala
 authors: [{"name": "李鹏", "about": "http://freewind.me"},
