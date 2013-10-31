@@ -1,0 +1,32 @@
+---
+title: OCT28
+date: 2013-10-28 12:00 UTC
+tags: maven, phoneGap, Mock, Android Intellij, Scala
+authors: [{"name": "李鹏", "about": "http://freewind.me"},
+		  {"name": "贺思聪", "about": "http://blog.april1985.com"},
+		  {"name": "吴少博", "about": "http://wushaobo.info"},
+		  {"name": "张久坤", "about": "http://jiukun.us"},
+		  {"name": "崔鹏飞", "about": "http://cuipengfei.me"} ]
+---
+
+不知不觉，这已经是十月份最后一期好声音了。
+
+### 为什么要抛弃maven
+
+在Thoughtworks的Tech Radar里Maven已经On Hold了，但是大家知道曾经流行的Maven为什么被On Hold区吗？且看李鹏怎么低调的为大家解释[为什么要抛弃maven](http://freewind.me/blog/20130803/2195.html)，看完之后相信大家会有把项目的构建工具换成Gradle的冲动。
+
+### 一起来玩PhoneGap
+
+一提到移动开发相信大家首先会想到iOS或者Android，但是当你想做一些原型设计的时候，你还有第三种选择——就是PhoneGap。今天就跟成都办公室的贺思聪同学[一起来玩PhoneGap](http://blog.april1985.com/index.php/2013/10/yi_qi_lai_wan_phonegap/)吧，看看他遇见了什么坑。
+
+### Mock，有人爱它我偏恨
+
+作为Thoughtworks你不TDD你不好意思跟人打招呼，那你写测试你不Mock你就更不好意思跟人打招呼了。西安办公室的吴少吴少博一次又一次地在项目中用Mock写测试之后，有了Mock，[有人爱它我偏恨的感慨](http://wushaobo.info/?p=49)。
+
+### Build Android Environment With Intellij and Gradle
+
+Gradle已经不止一次被Thoughtworks好声音推荐了，但是大都在传统Java项目上如何使用Gradle。今天我们跟随西安办公室的张久坤的[Build Android Environment With Intellij and Gradle](http://jiukun.us/blog/2013/07/18/build-android-environmentwith-intellij-and-gradle/)来看一下Gradle如何应用到Android项目上的。
+
+### Scala中的语言特性是如何实现的
+
+我们学东西不止要知其然，还要知其所以然。成都办公室的崔鹏飞在学Scala的时候，不止学习如何使用Scala，也研究了Scala中的语言特性是如何实现的：[一](http://cuipengfei.me/blog/2013/05/05/how-are-scala-language-features-implemented/)，[二](http://cuipengfei.me/blog/2013/05/11/scala-language-features-2/)，[三](http://cuipengfei.me/blog/2013/10/13/scala-trait/)。
