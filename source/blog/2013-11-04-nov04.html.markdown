@@ -1,0 +1,31 @@
+---
+title: 十一月四日
+date: 2013-11-04 13:42 UTC
+tags: ios kvc & kvo, Guava, Preconditions, TDD, javascript module pattern, intellij, parameterize method refactoring
+authors: [{"name": "王兴驰", "about": "http://regrecall.github.io"},
+		  {"name": "张逸", "about": "http://agiledon.github.io"},
+		  {"name": "张凯峰", "about": "http://kfzhang.thoughtworkers.org"},
+		  {"name": "王磊", "about": "http://wldandan.github.io"},
+		  {"name": "文竞成", "about": "http://blog.csdn.net/kiwi_coder"} ]
+---
+新的一周开始了，ThoughtWorks好声音如约而至。
+
+### iOS KVC & KVO
+
+Key Value又称为键值对，在编码过程中活用键值对能够减少我们的代码量，增加代码灵活度。今天我们跟随成都办公室的王兴驰了解[键值对在iOS开发中的使用](http://regrecall.github.io/blog/2013/09/03/ios-kvc-and-kvo/)。
+
+### 使用Guava提供的Preconditions
+
+对于Guava大家大都用它来出来集合，其实Guava提供了很多其他的功能，今天我们看看抗战在咨询第一线的张逸为我们带来[使用Guava提供的Preconditions](http://agiledon.github.io/blog/2013/10/09/using-preconditions-of-guava/)去改善代码中的坏味道。
+
+###　为什么TDD？
+
+作为ThoughtWorker，说到软件开发的方式很自然就想到TDD，对于为什么要使用TDD，每个人都有不同的看法。北京办公室的张凯峰作为老程序员，也有他自己的[看法](http://kfzhang.thoughtworkers.org/2012/05/why-tdd/)，看完之后相信大家又会对这个问题有新的看法。
+
+### Understanding Javascript Module Pattern
+
+Javascript是一门学想要会写容易，但要想成为专家则要难上许多的一门语言。比如说Javascript是面向对象但它本身的语法中却不提供类(class)的关键字或者访问符(private, public, protected)等的定义就是一个比较让人费解的概念。西安办公室的王磊通过[Understanding Javascript Module Pattern](http://wldandan.github.io/blog/2013/05/26/javascript-module-pattern/)为大家解释了如何通过Module模式为Javascript带来封装。
+
+### 在IntelliJ下如何做parameterize method的重构
+
+在智能的IntelliJ IDEA的帮助下我们可以很简单的为我们的代码做重构，但是有的时候IntelliJ IDEA也不是那么智能。让我们看看成都办公室的小白文竞成发现的[问题以及如何解决](http://blog.csdn.net/kiwi_coder/article/details/10084717)的。
