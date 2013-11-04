@@ -5,10 +5,42 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-10-28T12:00:00Z</updated>
+  <updated>2013-11-04T13:42:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>十一月四日</title>
+    <link rel="alternate" href="/blog/nov04.html"/>
+    <id>/blog/nov04.html</id>
+    <published>2013-11-04T13:42:00Z</published>
+    <updated>2013-11-04T13:42:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;新的一周开始了，ThoughtWorks好声音如约而至。&lt;/p&gt;
+
+&lt;h3 id="ios-kvc--kvo"&gt;iOS KVC &amp;amp; KVO&lt;/h3&gt;
+
+&lt;p&gt;Key Value又称为键值对，在编码过程中活用键值对能够减少我们的代码量，增加代码灵活度。今天我们跟随成都办公室的王兴驰了解&lt;a href="http://regrecall.github.io/blog/2013/09/03/ios-kvc-and-kvo/"&gt;键值对在iOS开发中的使用&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="guavapreconditions"&gt;使用Guava提供的Preconditions&lt;/h3&gt;
+
+&lt;p&gt;对于Guava大家大都用它来出来集合，其实Guava提供了很多其他的功能，今天我们看看抗战在咨询第一线的张逸为我们带来&lt;a href="http://agiledon.github.io/blog/2013/10/09/using-preconditions-of-guava/"&gt;使用Guava提供的Preconditions&lt;/a&gt;去改善代码中的坏味道。&lt;/p&gt;
+
+&lt;h3 id="tdd"&gt;　为什么TDD？&lt;/h3&gt;
+
+&lt;p&gt;作为ThoughtWorker，说到软件开发的方式很自然就想到TDD，对于为什么要使用TDD，每个人都有不同的看法。北京办公室的张凯峰作为老程序员，也有他自己的&lt;a href="http://kfzhang.thoughtworkers.org/2012/05/why-tdd/"&gt;看法&lt;/a&gt;，看完之后相信大家又会对这个问题有新的看法。&lt;/p&gt;
+
+&lt;h3 id="understanding-javascript-module-pattern"&gt;Understanding Javascript Module Pattern&lt;/h3&gt;
+
+&lt;p&gt;Javascript是一门学想要会写容易，但要想成为专家则要难上许多的一门语言。比如说Javascript是面向对象但它本身的语法中却不提供类(class)的关键字或者访问符(private, public, protected)等的定义就是一个比较让人费解的概念。西安办公室的王磊通过&lt;a href="http://wldandan.github.io/blog/2013/05/26/javascript-module-pattern/"&gt;Understanding Javascript Module Pattern&lt;/a&gt;为大家解释了如何通过Module模式为Javascript带来封装。&lt;/p&gt;
+
+&lt;h3 id="intellijparameterize-method"&gt;在IntelliJ下如何做parameterize method的重构&lt;/h3&gt;
+
+&lt;p&gt;在智能的IntelliJ IDEA的帮助下我们可以很简单的为我们的代码做重构，但是有的时候IntelliJ IDEA也不是那么智能。让我们看看成都办公室的小白文竞成发现的&lt;a href="http://blog.csdn.net/kiwi_coder/article/details/10084717"&gt;问题以及如何解决&lt;/a&gt;的。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>十月二十八日</title>
     <link rel="alternate" href="/blog/oct28.html"/>
@@ -168,33 +200,6 @@
 &lt;h3 id="pitfall-in-isenum-method-in-java"&gt;Pitfall in isEnum Method in Java&lt;/h3&gt;
 &lt;p&gt;所谓有经验的程序员，无非是你掉到坑里的次数比其他人多。放眼望去，软件开发的坑无处不在，即便是人们熟悉得已经不能再熟悉的Java，依然有让人吃惊的地方。北京办公室的文迪从一个Java的枚举坑里爬了出来，写了一篇文章。让我们一起看一下，为了将来绕开这个坑，&lt;a href="http://timnew.github.io/blog/2013/07/19/pitfall-in-java-enumeration-reflection/"&gt;Pitfall in isEnum Method in Java&lt;/a&gt; 。&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>九月九日</title>
-    <link rel="alternate" href="/blog/Sep09.html"/>
-    <id>/blog/Sep09.html</id>
-    <published>2013-09-09T12:46:00Z</published>
-    <updated>2013-09-09T12:46:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Away Day大家玩得很Happy，也很辛苦，所以，我们稍事休息。本周，我们继续。&lt;/p&gt;
-
-&lt;h3 id="workshop"&gt;什么是Workshop&lt;/h3&gt;
-&lt;p&gt;UX现在已经软件开发中不可或缺的一部分，可你是否知道，几年前，我们根本没有人顶着UX的帽子。熊子川，中国区的UX Lead，几乎以一己之力从无到有地建设出中国的UX团队。我们这里分享一篇他的&lt;a href="http://www.tuzei8.com/2013/07/what-is-workshop/"&gt;《什么是Workshop》&lt;/a&gt;，看看他是如何利用Workshop带着大家思考的。&lt;/p&gt;
-
-&lt;h3 id="section"&gt;在项目中透明地引入特性开关&lt;/h3&gt;
-&lt;p&gt;之前曾经推荐过崔立强的《使用功能开关更好地实现持续部署》，介绍Feature Toggle的实践。北京办公室的孟宇现在对这个问题有了新的思考，当我们抛却Spring，Feature Toggle又该如何实践呢？于是，他写了一篇新的文章，&lt;a href="http://www.infoq.com/cn/articles/introducing-characteristics-switch-in-project-transparently"&gt;《在项目中透明地引入特性开关》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="gatling"&gt;新一代服务器性能测试工具Gatling&lt;/h3&gt;
-&lt;p&gt;现在的性能测试，已经是新贵Gatling的天下。我们前面也介绍过我们的印度同事Vaikuntham Jagannath写的一篇入门介绍，如果你想更全面地了解Gatling，成都办公室的刘冉又呈上了一篇&lt;a href="http://www.infoq.com/cn/articles/new-generation-server-testing-tool-gatling"&gt;《新一代服务器性能测试工具Gatling》&lt;/a&gt;。顺便说一下，Vaikuntham Jagannath和刘冉都是QA，现在你知道了，测试也是一个技术活。&lt;/p&gt;
-
-&lt;h3 id="section-1"&gt;在线系统数据&amp;amp;服务的迁移策略&lt;/h3&gt;
-&lt;p&gt;成都办公室的张耀丹是个毕业生，只是他的职业生涯一开始就面对一个复杂的遗留系统。好在遗留系统的复杂并没有让他退却，而是从中学习到了解决遗留系统的思考之道。他写了篇&lt;a href="http://yaodanzhang.com/blog/2013/08/19/migration-strategy-for-online-system/"&gt;《在线系统数据&amp;amp;服务的迁移策略》&lt;/a&gt;。如果不说，还真看不出这个内容出自一个毕业生的文笔。&lt;/p&gt;
-
-&lt;h3 id="understanding-nix-bash-profile"&gt;Understanding *nix Bash Profile&lt;/h3&gt;
-&lt;p&gt;作为一个ThoughtWorker，不熟悉命令行几乎是一件被人嘲笑的事，而Bash又几乎是每个人的入门shell。但你对Bash了解多少呢？你知道究竟应该配置Bash才能使其正确地运作。西安办公室的王磊用一篇&lt;a href="http://wldandan.github.io/blog/2013/05/23/understanding-unix-bash/"&gt;《Understanding *nix Bash Profile》&lt;/a&gt;详细解释了Bash的配置。&lt;/p&gt;
 </content>
   </entry>
 </feed>
