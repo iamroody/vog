@@ -5,10 +5,43 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-11-04T13:42:00Z</updated>
+  <updated>2013-11-11T01:39:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>NOV11</title>
+    <link rel="alternate" href="/blog/nov11.html"/>
+    <id>/blog/nov11.html</id>
+    <published>2013-11-11T01:39:00Z</published>
+    <updated>2013-11-11T01:39:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;双十一驾到，在疯狂抢购的同时，勿忘关注技术哦！&lt;/p&gt;
+
+&lt;h3 id="section"&gt;简单几步成为微信公众平台开发者&lt;/h3&gt;
+
+&lt;p&gt;腾讯官方如是说：微信，是一个生活方式。作为ThoughtWorkers，让我们跟随西安办公室的杨栋经过&lt;a href="http://linkedme.in/2013/09/25/turoial-to-be-wechat-public-account-developer/"&gt;简单几步成为微信公众平台开发者&lt;/a&gt;，来来影响我们的生活方式–微信&lt;/p&gt;
+
+&lt;h3 id="c"&gt;你真的了解C#中的值和引用吗？&lt;/h3&gt;
+
+&lt;p&gt;你了解C#中的值和引用么？真的？那么值类型到底存储在哪里？引用是地址么？请看北京珧麒麟同学给我们娓娓道来&lt;a href="http://www.cnblogs.com/kirinboy/archive/2012/06/12/value-and-reference-in-csharp-1.html"&gt;（上）&lt;/a&gt;&lt;a href="http://www.cnblogs.com/kirinboy/archive/2012/06/15/value-and-reference-in-csharp-2.html"&gt;（下）&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;正则表达式 - 零宽断言&lt;/h3&gt;
+
+&lt;p&gt;说到正则表达式，想必没有人不知道，但是说到正则表达式里的零宽断言，就未必所有人都知道了。且看北京办公室的杨政权同学给我们解释&lt;a href="http://yangkit.lue.so/coding/2012/10/25/regexp_zero_width_assertions/"&gt;正则表达式 - 零宽断言&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="gradle-jetty-7-8"&gt;使用Gradle 运行jetty 7, 8&lt;/h3&gt;
+
+&lt;p&gt;如果你做Web开发，那么我们推荐你使用Jetty作为你的Web容器。幸好当你使用Gradle作为你Web项目的构建脚本的时候，Gradle也提供了Jetty插件，能够帮你很容易就能通过Gradle部署你的应用到Jetty里。可是不幸的是Gradle官方提供的Jetty插件是针对Jetty 6的，看看成都办公室的赵峻伟&lt;a href="http://toozhao.com/2013/11/05/run-jetty-7,-8-with-gradle/"&gt;如何使用Gradle 运行jetty 7, 8&lt;/a&gt;的。&lt;/p&gt;
+
+&lt;h3 id="sqlite"&gt;sqlite数据库迁移的几种办法&lt;/h3&gt;
+
+&lt;p&gt;把数据库中除指定的表外的其它表数据清掉，但要保留表结构。作为ThoughtWorks，你要怎么做？肯定不会一个表执行一个delete语句的，那么我们看看李小波是如何做的：&lt;a href="http://seabornlee.com/post/bian-cheng/sqliteshu-ju-ku-qian-yi-de-ji-chong-ban-fa"&gt;sqlite数据库迁移的几种办法&lt;/a&gt;。&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>十一月四日</title>
     <link rel="alternate" href="/blog/nov04.html"/>
@@ -28,7 +61,7 @@
 
 &lt;p&gt;对于Guava大家大都用它来出来集合，其实Guava提供了很多其他的功能，今天我们看看抗战在咨询第一线的张逸为我们带来&lt;a href="http://agiledon.github.io/blog/2013/10/09/using-preconditions-of-guava/"&gt;使用Guava提供的Preconditions&lt;/a&gt;去改善代码中的坏味道。&lt;/p&gt;
 
-&lt;h3 id="tdd"&gt;　为什么TDD？&lt;/h3&gt;
+&lt;h3 id="tdd"&gt;为什么TDD？&lt;/h3&gt;
 
 &lt;p&gt;作为ThoughtWorker，说到软件开发的方式很自然就想到TDD，对于为什么要使用TDD，每个人都有不同的看法。北京办公室的张凯峰作为老程序员，也有他自己的&lt;a href="http://kfzhang.thoughtworkers.org/2012/05/why-tdd/"&gt;看法&lt;/a&gt;，看完之后相信大家又会对这个问题有新的看法。&lt;/p&gt;
 
@@ -172,34 +205,6 @@
 &lt;h3 id="thoughts-on-design-a-restful-api-on-ror-stack"&gt;Thoughts on design a RESTful API on RoR stack&lt;/h3&gt;
 
 &lt;p&gt;在如今的架构选型中， REST 几乎成为无可争议的主流。当我们开始一个 REST 架构的项目时，摆在我们的框架选择着实不少，这会让有选择困难的人们头疼不已。西安办公室的任晓君在完成了一次新项目架构选型之后，对这个问题有了属于&lt;a href="http://nicholasren.github.io/2013/09/04/thoughts-on-design-a-restful-api-on-ror-stack.html"&gt;自己的思考&lt;/a&gt;，至少它可以帮助我们在下一个 Ruby 的 REST 项目选型做一个参考。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>九月十六</title>
-    <link rel="alternate" href="/blog/Sep16.html"/>
-    <id>/blog/Sep16.html</id>
-    <published>2013-09-16T23:51:00Z</published>
-    <updated>2013-09-16T23:51:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;中秋将至，赏月时勿忘团圆，能回家的回家陪陪家人，不能回家的别忘了给家人打个电话。&lt;/p&gt;
-
-&lt;h3 id="viff"&gt;Viff&lt;/h3&gt;
-&lt;p&gt;我们都知道Selenium的出现开启Web测试的历程，但那种测试大多集中在功能上，但你可曾想过Web页面样式的测试又该如何着手呢？成都办公室的王秋最近就在进行这方面的探索，他打造一个工具叫Viff，写了篇&lt;a href="http://ishouldbeageek.me/2013/09/09/viff-introduction/"&gt;文章&lt;/a&gt;介绍它。作为一个刚起步的项目，王秋希望这个项目得到更多的关注，如果你是Github的用户，不妨Star一下，地址&lt;a href="https://github.com/winsonwq/viff"&gt;在此&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="webp"&gt;WebP&lt;/h3&gt;
-&lt;p&gt;你知道是什么是WebP吗？它是Google出品的新图像格式，这是一个Web开发者需要扩充的新知。成都办公室最近新来了一个UI开发人员，面试的时候，用自己开发JavaScript体感游戏震惊了大家，他叫陈嘉，请看他为大家带来的关于&lt;a href="http://www.btorange.com/2013/06/14/webp.html"&gt;WebP的介绍&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="fun-with-closure"&gt;fun with closure&lt;/h3&gt;
-&lt;p&gt;这是一个函数式编程越来越重要的年代，所以，如果你到现在还没听说过闭包，那实在要去补课。知道闭包不算什么，有Geek范的人就要折腾的深入一点。让我们看看北京办公室的刘夏是&lt;a href="http://www.cnblogs.com/lxconan/archive/2012/11/23/fun_with_closure.html"&gt;如何折腾闭包&lt;/a&gt;的。&lt;/p&gt;
-
-&lt;h3 id="section"&gt;前端页面替换文本的方法和技巧&lt;/h3&gt;
-&lt;p&gt;在前端页面替换文本有几种做法，不假思索的答案通常是直接用JavaScript。但你有没有想过这完全可以用CSS实现呢？让我们跟着西安办公室的冯智超一起跳出常规，探索一下技术的极限, &lt;a href="http://www.chaojiwudi.com/2013/07/swapping-out-text-and-more/"&gt;前端页面替换文本的方法和一些小技巧&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="pitfall-in-isenum-method-in-java"&gt;Pitfall in isEnum Method in Java&lt;/h3&gt;
-&lt;p&gt;所谓有经验的程序员，无非是你掉到坑里的次数比其他人多。放眼望去，软件开发的坑无处不在，即便是人们熟悉得已经不能再熟悉的Java，依然有让人吃惊的地方。北京办公室的文迪从一个Java的枚举坑里爬了出来，写了一篇文章。让我们一起看一下，为了将来绕开这个坑，&lt;a href="http://timnew.github.io/blog/2013/07/19/pitfall-in-java-enumeration-reflection/"&gt;Pitfall in isEnum Method in Java&lt;/a&gt; 。&lt;/p&gt;
-
 </content>
   </entry>
 </feed>
