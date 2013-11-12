@@ -1,7 +1,7 @@
 ---
 title: NOV11
 date: 2013-11-11 01:39 UTC
-tags:微信公众平台开发者, C# 值和引用, 零宽断言, Gradle, Jetty, Sqlite 迁移
+tags: 微信公众平台开发者, C# 值和引用, 零宽断言, Gradle, Jetty, Sqlite 迁移
 authors: [{"name": "杨栋", "about": "http://linkedme.in"},
 		  {"name": "珧麒麟", "about": "http://www.cnblogs.com/kirinboy"},
 		  {"name": "杨政权", "about": "http://yangkit.lue.so"},
