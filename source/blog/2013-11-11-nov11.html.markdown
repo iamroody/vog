@@ -1,0 +1,33 @@
+---
+title: NOV11
+date: 2013-11-11 01:39 UTC
+tags:微信公众平台开发者, C# 值和引用, 零宽断言, Gradle, Jetty, Sqlite 迁移
+authors: [{"name": "杨栋", "about": "http://linkedme.in"},
+		  {"name": "珧麒麟", "about": "http://www.cnblogs.com/kirinboy"},
+		  {"name": "杨政权", "about": "http://yangkit.lue.so"},
+		  {"name": "赵峻伟", "about": "http://toozhao.com"},
+		  {"name": "李小波", "about": "http://seabornlee.com"} ]
+---
+双十一驾到，在疯狂抢购的同时，勿忘关注技术哦！
+
+###简单几步成为微信公众平台开发者
+
+腾讯官方如是说：微信，是一个生活方式。作为ThoughtWorkers，让我们跟随西安办公室的杨栋经过[简单几步成为微信公众平台开发者](http://linkedme.in/2013/09/25/turoial-to-be-wechat-public-account-developer/)，来来影响我们的生活方式--微信
+
+###你真的了解C#中的值和引用吗？
+
+你了解C#中的值和引用么？真的？那么值类型到底存储在哪里？引用是地址么？请看北京珧麒麟同学给我们娓娓道来[（上）](http://www.cnblogs.com/kirinboy/archive/2012/06/12/value-and-reference-in-csharp-1.html)[（下）](http://www.cnblogs.com/kirinboy/archive/2012/06/15/value-and-reference-in-csharp-2.html)。
+
+###正则表达式 - 零宽断言
+
+说到正则表达式，想必没有人不知道，但是说到正则表达式里的零宽断言，就未必所有人都知道了。且看北京办公室的杨政权同学给我们解释[正则表达式 - 零宽断言](http://yangkit.lue.so/coding/2012/10/25/regexp_zero_width_assertions/)。
+
+###使用Gradle 运行jetty 7, 8
+
+如果你做Web开发，那么我们推荐你使用Jetty作为你的Web容器。幸好当你使用Gradle作为你Web项目的构建脚本的时候，Gradle也提供了Jetty插件，能够帮你很容易就能通过Gradle部署你的应用到Jetty里。可是不幸的是Gradle官方提供的Jetty插件是针对Jetty 6的，看看成都办公室的赵峻伟[如何使用Gradle 运行jetty 7, 8](http://toozhao.com/2013/11/05/run-jetty-7,-8-with-gradle/)的。
+
+###sqlite数据库迁移的几种办法
+
+把数据库中除指定的表外的其它表数据清掉，但要保留表结构。作为ThoughtWorks，你要怎么做？肯定不会一个表执行一个delete语句的，那么我们看看李小波是如何做的：[sqlite数据库迁移的几种办法](http://seabornlee.com/post/bian-cheng/sqliteshu-ju-ku-qian-yi-de-ji-chong-ban-fa)。
+
+

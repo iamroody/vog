@@ -18,7 +18,7 @@ Key Value又称为键值对，在编码过程中活用键值对能够减少我�
 
 对于Guava大家大都用它来出来集合，其实Guava提供了很多其他的功能，今天我们看看抗战在咨询第一线的张逸为我们带来[使用Guava提供的Preconditions](http://agiledon.github.io/blog/2013/10/09/using-preconditions-of-guava/)去改善代码中的坏味道。
 
-###　为什么TDD？
+### 为什么TDD？
 
 作为ThoughtWorker，说到软件开发的方式很自然就想到TDD，对于为什么要使用TDD，每个人都有不同的看法。北京办公室的张凯峰作为老程序员，也有他自己的[看法](http://kfzhang.thoughtworkers.org/2012/05/why-tdd/)，看完之后相信大家又会对这个问题有新的看法。
 
