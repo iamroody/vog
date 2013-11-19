@@ -1,0 +1,27 @@
+---
+title: 十一月十八日
+date: 2013-11-19 00:51 UTC
+tags: gradle, 数据采集, Log4j、Log4j 2、Logback、SFL4J、JUL、JCL, 全景图片, 文本化的幻灯片
+authors: [{"name": "滕云", "about": "http://www.davenkin.me},
+		  {"name": "熊杰", "about": "http://gigix.thoughtworkers.org"},
+		  {"name": "彭洪伟", "about": "http://www.cnblogs.com/penghongwei"},
+		  {"name": "冯志超", "about": "http://www.chaojiwudi.com"},
+		  {"name": "韩锴", "about": "http://isaachan.github.io"} ]
+---
+
+双十一过去，疯狂抢购的宝贝到了，新一期的好声音也来了！
+
+### Gradle学习系列
+Gradle作为新兴的构建工具，其中一个优点就是灵活，学习如此灵活的工具想必会让你头疼。在滕云的Maven学习系列被无情地拒之于P2门外之后，他又为大家带来了[Gradle学习系列](http://www.davenkin.me/post/2013-11-12/gradle-first-try)，包括快速入门、自定义Property、自定义Task和自定义Plugin等一系列博客，读完之后相信你就能把Gradle用到你的项目中了。
+
+### 数据采集的新时代
+你还在用HTML一个字段一个字段实现表单吗？你的开发工作量还和表单长度成正比吗？那弱爆了好吗？作为ThoughtWorker，提到数据采集，你应该立马想起金数据，如今在乌干达办公室的熊杰告诉你另一种[做法](http://gigix.thoughtworkers.org/2013/11/16/new-era-of-data-collecting)。
+
+### Log4j、Log4j 2、Logback、SFL4J、JUL、JCL的比较
+说到日志框架，想必大家都知道不少框架，可是大家知道什么时候该用何种logger，哪种logger比较好吗？成都办公室的彭洪伟通过他的调查，给出了[几种日志框架的比较](http://www.cnblogs.com/penghongwei/p/3417179.html)，相信大家之后使用日志框架的时候就不会有选择困难症了。
+
+### 使用 background-size 和 background-position 制作全景图片浏览
+在网页中显示全景图片大家一般怎么实现？西安办公室的冯志超同学使用background-image提供了一种[实现方式](http://www.chaojiwudi.com/2013/08/panorama-background-image-scroll-viewer/)。
+
+### 文本化的幻灯片 - 实用技术
+大家还记得上次像写代码一样写幻灯片的韩锴，韩老师么？大家用过SlideShow了么？有没有遇到什么问题呢？本着好事做到底，送佛送到西的原则，韩老师这次又给我们带来了他多年总结的使用SlideShow的经验。真是功德无量，功德无量。赶紧跟随小编一起去看看这篇[《文本化的幻灯片 实用技术》](http://isaachan.github.io/blog/2013/08/18/slide-textuality-tips/)吧
