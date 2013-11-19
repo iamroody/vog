@@ -1,8 +1,8 @@
 ---
 title: 十一月十八日
 date: 2013-11-19 00:51 UTC
-tags: gradle, 数据采集, Log4j、Log4j 2、Logback、SFL4J、JUL、JCL, 全景图片, 文本化的幻灯片
-authors: [{"name": "滕云", "about": "http://www.davenkin.me},
+tags: gradle, 数据采集, Log4j, Log4j 2, Logback, SFL4J, JUL, JCL, 全景图片, 文本化的幻灯片
+authors: [{"name": "滕云", "about": "http://www.davenkin.me"},
 		  {"name": "熊杰", "about": "http://gigix.thoughtworkers.org"},
 		  {"name": "彭洪伟", "about": "http://www.cnblogs.com/penghongwei"},
 		  {"name": "冯志超", "about": "http://www.chaojiwudi.com"},
