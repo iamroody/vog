@@ -5,12 +5,39 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-11-11T01:39:00Z</updated>
+  <updated>2013-11-19T00:51:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>NOV11</title>
+    <title>十一月十八日</title>
+    <link rel="alternate" href="/blog/nov18.html"/>
+    <id>/blog/nov18.html</id>
+    <published>2013-11-19T00:51:00Z</published>
+    <updated>2013-11-19T00:51:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;双十一过去，疯狂抢购的宝贝到了，新一期的好声音也来了！&lt;/p&gt;
+
+&lt;h3 id="gradle"&gt;Gradle学习系列&lt;/h3&gt;
+&lt;p&gt;Gradle作为新兴的构建工具，其中一个优点就是灵活，学习如此灵活的工具想必会让你头疼。在滕云的Maven学习系列被无情地拒之于P2门外之后，他又为大家带来了&lt;a href="http://www.davenkin.me/post/2013-11-12/gradle-first-try"&gt;Gradle学习系列&lt;/a&gt;，包括快速入门、自定义Property、自定义Task和自定义Plugin等一系列博客，读完之后相信你就能把Gradle用到你的项目中了。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;数据采集的新时代&lt;/h3&gt;
+&lt;p&gt;你还在用HTML一个字段一个字段实现表单吗？你的开发工作量还和表单长度成正比吗？那弱爆了好吗？作为ThoughtWorker，提到数据采集，你应该立马想起金数据，如今在乌干达办公室的熊杰告诉你另一种&lt;a href="http://gigix.thoughtworkers.org/2013/11/16/new-era-of-data-collecting"&gt;做法&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="log4jlog4j-2logbacksfl4jjuljcl"&gt;Log4j、Log4j 2、Logback、SFL4J、JUL、JCL的比较&lt;/h3&gt;
+&lt;p&gt;说到日志框架，想必大家都知道不少框架，可是大家知道什么时候该用何种logger，哪种logger比较好吗？成都办公室的彭洪伟通过他的调查，给出了&lt;a href="http://www.cnblogs.com/penghongwei/p/3417179.html"&gt;几种日志框架的比较&lt;/a&gt;，相信大家之后使用日志框架的时候就不会有选择困难症了。&lt;/p&gt;
+
+&lt;h3 id="background-size--background-position-"&gt;使用 background-size 和 background-position 制作全景图片浏览&lt;/h3&gt;
+&lt;p&gt;在网页中显示全景图片大家一般怎么实现？西安办公室的冯志超同学使用background-image提供了一种&lt;a href="http://www.chaojiwudi.com/2013/08/panorama-background-image-scroll-viewer/"&gt;实现方式&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;文本化的幻灯片 - 实用技术&lt;/h3&gt;
+&lt;p&gt;大家还记得上次像写代码一样写幻灯片的韩锴，韩老师么？大家用过SlideShow了么？有没有遇到什么问题呢？本着好事做到底，送佛送到西的原则，韩老师这次又给我们带来了他多年总结的使用SlideShow的经验。真是功德无量，功德无量。赶紧跟随小编一起去看看这篇&lt;a href="http://isaachan.github.io/blog/2013/08/18/slide-textuality-tips/"&gt;《文本化的幻灯片 实用技术》&lt;/a&gt;吧&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>十一月十一日</title>
     <link rel="alternate" href="/blog/nov11.html"/>
     <id>/blog/nov11.html</id>
     <published>2013-11-11T01:39:00Z</published>
@@ -173,38 +200,6 @@
 &lt;a href="http://dreamhead.blogbus.com/logs/235329092.html"&gt;《你应该更新的Java知识之Optional》&lt;/a&gt;
 &lt;a href="http://dreamhead.blogbus.com/logs/235334714.html"&gt;《你应该更新的Java知识之Optional高级用法》&lt;/a&gt;
 &lt;a href="http://dreamhead.blogbus.com/logs/236028457.html"&gt;《你应该更新的Java知识之不变集合》&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>九月二十三日</title>
-    <link rel="alternate" href="/blog/Sep23.html"/>
-    <id>/blog/Sep23.html</id>
-    <published>2013-09-23T05:55:00Z</published>
-    <updated>2013-09-23T05:55:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;中秋过了，三天休息可好，再坚持一下，又是长假！&lt;/p&gt;
-
-&lt;h3 id="email-"&gt;Email 中的图片叠放&lt;/h3&gt;
-
-&lt;p&gt;在 Web 网站中，我们经常会一张图片叠在另一张图片上面，解决方案有很多。但当你面对的不再是网页，而是 Email，常规的解决方案通通失效了，因为很多样式样式是不支持的。是不是有些手足无措了？不要紧，西安办公室的冯佳会&lt;a href="http://justinfeng.github.io/blog/2013/04/25/overlap-image-in-email/"&gt;救你于水深火热&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="section"&gt;浏览器默认行为执行与阻止分析&lt;/h3&gt;
-
-&lt;p&gt;有些东西称为基本功，对于 Web 开发而言，事件处理模型便是其中的一个，我们经常会在代码里遇到阻止浏览器默认行为的做法。成都办公室的陈致豪花了时间，把事件处理模型整理清楚，做了一次&lt;a href="http://chenzhihao.github.io/blog/prevent-browser-default-behavior/"&gt;《浏览器默认行为执行与阻止分析》&lt;/a&gt;，帮我们更好地理解发生的一切。&lt;/p&gt;
-
-&lt;h3 id="gradle-"&gt;Gradle 命令行黑魔法&lt;/h3&gt;
-
-&lt;p&gt;关于 Gradle ，我们常常会想到的是如何编写一个 Task ，怎么写一个 Plugin ，但是对于 Gradle 命令行本身怎么用却探究不多。还好成都办公室的黄博文注意到了这个让人遗忘的角落，写了一篇文章，揭秘鲜为人知的&lt;a href="http://huangbowen.net/blog/2013/09/01/command-line-of-gradle/"&gt;《Gradle命令行黑魔法》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="linux--cc--testngpp--mockcpp"&gt;Linux 上安装 C/C++ 单元测试框架之 TestNGPP + MockCpp&lt;/h3&gt;
-
-&lt;p&gt;在敏捷软件开发中， TDD 是不可或缺的，但同样是 TDD ，在 Java/C# 等现代开发语言轻而易举的事情，对于 C/C++ 这样的“老”语言来说，却总有些步履蹒跚，这是由 C/C++ 自身的编译模型造成的。其实，在这方面的探索已经有很多了，上海办公室的赵喜鸿给我们介绍&lt;a href="http://blog.sina.com.cn/s/blog_792d2ad701011rnh.html"&gt;《 Linux 上安装 C/C++ 单元测试框架之 TestNGPP + MockCpp 》&lt;/a&gt;，如果你是一个 C/C++ 开发人员，不妨试一下。&lt;/p&gt;
-
-&lt;h3 id="thoughts-on-design-a-restful-api-on-ror-stack"&gt;Thoughts on design a RESTful API on RoR stack&lt;/h3&gt;
-
-&lt;p&gt;在如今的架构选型中， REST 几乎成为无可争议的主流。当我们开始一个 REST 架构的项目时，摆在我们的框架选择着实不少，这会让有选择困难的人们头疼不已。西安办公室的任晓君在完成了一次新项目架构选型之后，对这个问题有了属于&lt;a href="http://nicholasren.github.io/2013/09/04/thoughts-on-design-a-restful-api-on-ror-stack.html"&gt;自己的思考&lt;/a&gt;，至少它可以帮助我们在下一个 Ruby 的 REST 项目选型做一个参考。&lt;/p&gt;
 </content>
   </entry>
 </feed>
