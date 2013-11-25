@@ -1,0 +1,30 @@
+---
+title: 十一月二十五日
+date: 2013-11-25 15:34 UTC
+tags: Data Encryption, 持续原型设计， hadoop， cloudformation，事件队列
+authors: [{"name": "Zhang ShaSha", "about": "http://shashazhang.github.io"},
+		  {"name": "刘若然", "about": "http://lrrfantasy.github.io"},
+		  {"name": "占红来", "about": "http://sonlyf5020.github.io"},
+		  {"name": "黄博文", "about": "http://huangbowen.net"},
+		  {"name": "贺亮", "about": "http://hebuliang.github.io"} ]
+---
+冬天来了，天越来越冷，但是ThoughtWorks热情不减，好声音依旧！
+
+### Comparation of Data Encryption Between Db and Dotnet
+数据加密又称密码学，它是一门历史悠久的技术，相信很多同学都知道对称密钥与非对称密钥，那么你知道数据库是如何对数据进行加密的? 在.net应用层面的加密需要如何开始？ 北京办公室的Zhang ShaSha同学针对这个问题进行了探讨，请看[数据库与.net应用加密的实现与性能比较](http://shashazhang.github.io/blog/2013/09/28/comparation-of-data-encryption-between-db-and-dotnet/)。
+
+### 使用Serve实现持续原型设计
+
+你可能知道成都有一组人是专门做前端设计的，他们精通前端设计，对服务器端开发敬而远之。但是不会设计的开发不是好UI，成都办公室的刘若然就是这样的好UI。想知道传统开发出身的是怎样看现在的设计流程，以及这方面的新概念新工具吗？来看下他带来的[使用Serve实现持续原型设计](http://lrrfantasy.github.io/use-serve-for-continuous-prototype-design/)。
+
+### Install hadoop-2.2.0 in mac-os-10.8
+
+经过几年的发展，Hadoop几乎成为大数据的事实标准，而Hadoop2也在ThoughtWorks Tech Radar中。作为人手一个Mac的ThoughtWorker，想必你也想在你的Mac上将Hadoop跑起来。行动起来吧，跟随目前在西安办公室的占红来在你的Mac上[安装Hadoop2](http://sonlyf5020.github.io/blog/2013/11/18/install-hadoop-2-dot-2-0-in-mac-os-10-dot-8/)吧。
+
+### 亚马逊云服务之CloudFormation
+
+持续部署已经在ThoughtWorks里推行好几年了，可是在亚马逊的云上进行持续部署该如何做呢？西安在这方面已经做的很好了，但是今天我们来看一看成都办公室的黄博文是[如何使用CloudFormation在亚马逊的云上进行持续部署](http://huangbowen.net/blog/2013/10/23/aws-cloudformation/)的。
+
+### 理解事件队列
+
+想必大家都知道JavaScript一般都是在浏览器中执行，大家也知道可以通过事件调用JavaScript函数，可是大家清楚JavaScript是如何处理事件的吗？西安办公室的贺亮通过一篇[理解事件队列](http://hebuliang.github.io/blog/2013/08/13/events-and-timing-in-depth/)为大家答疑解惑。
