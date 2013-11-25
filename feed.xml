@@ -5,10 +5,41 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-11-19T00:51:00Z</updated>
+  <updated>2013-11-25T15:34:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>十一月二十五日</title>
+    <link rel="alternate" href="/blog/nov25th.html"/>
+    <id>/blog/nov25th.html</id>
+    <published>2013-11-25T15:34:00Z</published>
+    <updated>2013-11-25T15:34:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;冬天来了，天越来越冷，但是ThoughtWorks热情不减，好声音依旧！&lt;/p&gt;
+
+&lt;h3 id="comparation-of-data-encryption-between-db-and-dotnet"&gt;Comparation of Data Encryption Between Db and Dotnet&lt;/h3&gt;
+&lt;p&gt;数据加密又称密码学，它是一门历史悠久的技术，相信很多同学都知道对称密钥与非对称密钥，那么你知道数据库是如何对数据进行加密的? 在.net应用层面的加密需要如何开始？ 北京办公室的Zhang ShaSha同学针对这个问题进行了探讨，请看&lt;a href="http://shashazhang.github.io/blog/2013/09/28/comparation-of-data-encryption-between-db-and-dotnet/"&gt;数据库与.net应用加密的实现与性能比较&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="serve"&gt;使用Serve实现持续原型设计&lt;/h3&gt;
+
+&lt;p&gt;你可能知道成都有一组人是专门做前端设计的，他们精通前端设计，对服务器端开发敬而远之。但是不会设计的开发不是好UI，成都办公室的刘若然就是这样的好UI。想知道传统开发出身的是怎样看现在的设计流程，以及这方面的新概念新工具吗？来看下他带来的&lt;a href="http://lrrfantasy.github.io/use-serve-for-continuous-prototype-design/"&gt;使用Serve实现持续原型设计&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="install-hadoop-220-in-mac-os-108"&gt;Install hadoop-2.2.0 in mac-os-10.8&lt;/h3&gt;
+
+&lt;p&gt;经过几年的发展，Hadoop几乎成为大数据的事实标准，而Hadoop2也在ThoughtWorks Tech Radar中。作为人手一个Mac的ThoughtWorker，想必你也想在你的Mac上将Hadoop跑起来。行动起来吧，跟随目前在西安办公室的占红来在你的Mac上&lt;a href="http://sonlyf5020.github.io/blog/2013/11/18/install-hadoop-2-dot-2-0-in-mac-os-10-dot-8/"&gt;安装Hadoop2&lt;/a&gt;吧。&lt;/p&gt;
+
+&lt;h3 id="cloudformation"&gt;亚马逊云服务之CloudFormation&lt;/h3&gt;
+
+&lt;p&gt;持续部署已经在ThoughtWorks里推行好几年了，可是在亚马逊的云上进行持续部署该如何做呢？西安在这方面已经做的很好了，但是今天我们来看一看成都办公室的黄博文是&lt;a href="http://huangbowen.net/blog/2013/10/23/aws-cloudformation/"&gt;如何使用CloudFormation在亚马逊的云上进行持续部署&lt;/a&gt;的。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;理解事件队列&lt;/h3&gt;
+
+&lt;p&gt;想必大家都知道JavaScript一般都是在浏览器中执行，大家也知道可以通过事件调用JavaScript函数，可是大家清楚JavaScript是如何处理事件的吗？西安办公室的贺亮通过一篇&lt;a href="http://hebuliang.github.io/blog/2013/08/13/events-and-timing-in-depth/"&gt;理解事件队列&lt;/a&gt;为大家答疑解惑。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>十一月十八日</title>
     <link rel="alternate" href="/blog/nov18.html"/>
@@ -163,43 +194,6 @@
 &lt;h3 id="section"&gt;语言设计中的鸭子类型风格&lt;/h3&gt;
 
 &lt;p&gt;随着Ruby的流行谚语：“如果行鸭子一样走路，像鸭子一样呱呱叫，那它就是一只鸭子”也越来越流行，成都办公室的扎西扎爷通过&lt;a href="http://www.cnblogs.com/whitewolf/p/3163358.html"&gt;《语言设计中的鸭子类型风格》&lt;/a&gt;从JavaScript、Go以及TypeScript三种不同的动态语言阐述了对这句谚语的理解。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>十月十四日</title>
-    <link rel="alternate" href="/blog/Oct14.html"/>
-    <id>/blog/Oct14.html</id>
-    <published>2013-10-14T14:23:00Z</published>
-    <updated>2013-10-14T14:23:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;在那人潮汹涌的“黄金粥”，你是否想念我们的好声音。&lt;/p&gt;
-
-&lt;h3 id="junit"&gt;JUnit中测试异常抛出的方法&lt;/h3&gt;
-&lt;p&gt;相信大家都熟知如何使用JUnit测试一个方法应该抛出异常，使用try…fail…catch…或者@Test(expected=xxx)，成都办公室的文静小女生雷钰给大家带来了第三种方法：ExpectedException Rule，并比较了这三种方式的差异。请看&lt;a href="http://www.cnblogs.com/harolei/p/3242131.html"&gt;《JUnit中测试异常抛出的方法》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="mapreduce"&gt;云计算平台漫谈——MapReduce简介&lt;/h3&gt;
-&lt;p&gt;今年EGG大会确定了数据和数据分析是我们Thoughtworks未来几年需要关注的技术趋势之一，MapReduce作为数据和数据分析的重要技术，大家不能不去了解一下。西安办公室的卢珂读了维克托.迈尔-舍恩伯格的《大数据时代》之后，热血沸腾，于十一“黄金粥”之后的第一天为大家带来了一篇MapReduce的简介&lt;a href="http://www.blogbus.com/ricklu-logs/236079395.html"&gt;《云计算平台漫谈——MapReduce简介》&lt;/a&gt;。燃烧吧，少年，沸腾吧，ThoughtWorker。&lt;/p&gt;
-
-&lt;h3 id="docbook-"&gt;DocBook 让文档版本化&lt;/h3&gt;
-&lt;p&gt;你们都知道ThoughtWorks曾经是扛敏捷的大旗的，你们也都知道敏捷是反文档的，不过那都是误解啦。虽然作为一个程序员最讨厌的事情有两件：1，写文档，2，别人没写文档。但是文档这个东西，该有还是要有的。我们反对的是写文档的过程带来一些让人灰头土脸问题。比如版本化，版本之间查找对比不方便之类。所以我们自己写文档的时候，就要避免这种问题。为了体面的写文档，我们来看看杨锐同学的高招&lt;a href="http://r00e.github.io/blog/2013/09/21/rang-wen-dang-ban-ben-hua/"&gt;《DocBook 让文档版本化》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="angularjs--1--javascript"&gt;溯源AngularJs -1- 理解javascript的赋值、调用与参数传递&lt;/h3&gt;
-&lt;p&gt;AngularJs已经成为开发前端的标配了，同时也在The Voice of ThoughtWorker里出现了好多次了，不过这次由西安办公室的蒋帆为大家带来的&lt;a href="http://wordpress.torchz.net/know-js-from-angular/"&gt;《溯源AngularJs -1- 理解javascript的赋值、调用与参数传递》&lt;/a&gt;，为大家讲解AngularJs的实现原理。&lt;/p&gt;
-
-&lt;h3 id="java"&gt;你应该更新的Java知识系列&lt;/h3&gt;
-&lt;p&gt;刚刚获得了Duke选择大奖、登上时代广场的郑晔，已经连续commit代码239天了，在每天坚持不懈写程序的同时，也在不断探索Java新的开发方向。作为ThoughtWorker，时时都应该更新我们的知识，让我们通过郑晔的视角来看看有哪些我们需要更新的Java知识。
-&lt;a href="http://dreamhead.blogbus.com/logs/226738702.html"&gt;《你应该更新的Java知识之常用程序库（一）》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/226738756.html"&gt;《你应该更新的Java知识之常用程序库（二）》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/227427912.html"&gt;《你应该更新的Java知识之构建工具》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/231594181.html"&gt;《你应该更新的Java知识之Observer》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/232899025.html"&gt;《你应该更新的Java知识之集合初始化》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/234113759.html"&gt;《你应该更新的Java知识之集合操作》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/234741366.html"&gt;《你应该更新的Java知识之惰性求值》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/235329092.html"&gt;《你应该更新的Java知识之Optional》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/235334714.html"&gt;《你应该更新的Java知识之Optional高级用法》&lt;/a&gt;
-&lt;a href="http://dreamhead.blogbus.com/logs/236028457.html"&gt;《你应该更新的Java知识之不变集合》&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
