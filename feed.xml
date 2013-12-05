@@ -5,10 +5,44 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-11-25T15:34:00Z</updated>
+  <updated>2013-12-05T04:59:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>十二月二日</title>
+    <link rel="alternate" href="/blog/dec02.html"/>
+    <id>/blog/dec02.html</id>
+    <published>2013-12-05T04:59:00Z</published>
+    <updated>2013-12-05T04:59:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;2013年的感恩节刚刚过去。在感恩这个世界不断涌现的先进技术改变了我们的生活之外，今天小编也想感谢一下各位同事对骚窝好声音的支持，出文章的提反馈的，还有默默阅读的；正是有了你们，才有了我们今天的好声音。当然，小编也没有忘记我们辛苦的编辑们，周哲武、何海洋、曾学海、仝键、邱俊涛、马博文、禚娴静、郑晔；正是有了你们坚持不断的寻找和努力，我们的好声音才能走到今天，乃至更远。&lt;/p&gt;
+
+&lt;p&gt;让我们来看一看这一期的好声音是什么吧。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;响应式设计及其深层意义&lt;/h3&gt;
+
+&lt;p&gt;Responsive Design，中文称“响应式设计”，是移动时代的网页设计思路。之所以说其是思路而不是技术，是因为实现响应式设计的技术在这个词汇发明之前很早就有了。成都办公室的张岱同学向我们阐述了他对于其背后的驱动力量以及其深层意义的理解，&lt;a href="http://neverdai.com/post/68165266826/on-responsive-design"&gt;响应式设计及其深层意义&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="ios"&gt;构建iOS持续集成平台&lt;/h3&gt;
+
+&lt;p&gt;持续集成理念经过10多年的发展，已经成为了业界的标准。Java、Ruby的世界里已经诞生了非常成熟的持续集成工具和实践，然而对于iOS领域来说，因为技术本身相对比较年轻和苹果与生俱来的封闭思想，在持续集成方面的发展相对滞后一些。随着越来越多的iOS开发者的涌入，以及各个互联网巨头加大对iOS开发的投入，一大批非常好用的持续集成工具和服务纷纷诞生。如何有效的利用这些类库，快速构建一个iOS开发环境下的持续集成平台呢？成都办公室的刘先宁同学带给我们他的系列文章：&lt;a href="http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part1"&gt;（一）自动化构建和依赖管理&lt;/a&gt;，&lt;a href="http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part2"&gt;（二）测试框架&lt;/a&gt;，&lt;a href="http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part3"&gt;（三）CI服务器与自动化部署&lt;/a&gt;，&lt;a href="http://ningandjiao.iteye.com/blog/1947271"&gt;（四）HockeyApp的介绍&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="javascript"&gt;JavaScript语言中五种消除分支的方法&lt;/h3&gt;
+
+&lt;p&gt;过多的条件分支判断是代码里面常见的坏味道，但如何消除这些分支判断也是让程序员头疼的问题。北京办公室的李光磊同学着眼于JavaScript语言，提出了5种消除分支方法，让我们一起去看一下他又一次不凡的思考吧，&lt;a href="http://liguanglei.name/blogs/2013/09/26/eliminate_branches_in_javascript/"&gt;5 ways to eliminate if/else/switch/case in JavaScript&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="pythonselenium"&gt;使用Python与Selenium集成进行自动化功能测试&lt;/h3&gt;
+
+&lt;p&gt;自动化测试可以帮助团队节省手动回归测试的时间，能够提高测试覆盖率，增强团队成员对代码的信心。可是选取测试自动化的解决方案是一件纠结的事情：要不要采用当前系统开发的技术桟呢？引入新的技术带来新的学习成本怎么办？成都办公室雷钰同学认为简单快速解决问题是王道，与Java说拜拜，且看他如何使用&lt;a href="http://www.cnblogs.com/harolei/p/3428835.html"&gt;python与selenium集成进行自动化功能测试&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="intellij"&gt;在IntelliJ下使用实例方法替换静态方法&lt;/h3&gt;
+
+&lt;p&gt;作为一个Thoughtworker，重构是必须知晓的内功心法，然而要想掌握其精髓，需从基础练起，日夜兼程，方能成为一代大师。看，那成都古城，有一位小白同学正闻鸡起舞，苦心修炼在&lt;a href="http://blog.csdn.net/kiwi_coder/article/details/16115275"&gt;IntelliJ下使用instance method替换static method&lt;/a&gt;。少年，我看好你，文竞成，加油！&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>十一月二十五日</title>
     <link rel="alternate" href="/blog/nov25th.html"/>
@@ -162,38 +196,6 @@
 &lt;h3 id="scala"&gt;Scala中的语言特性是如何实现的&lt;/h3&gt;
 
 &lt;p&gt;我们学东西不止要知其然，还要知其所以然。成都办公室的崔鹏飞在学Scala的时候，不止学习如何使用Scala，也研究了Scala中的语言特性是如何实现的：&lt;a href="http://cuipengfei.me/blog/2013/05/05/how-are-scala-language-features-implemented/"&gt;一&lt;/a&gt;，&lt;a href="http://cuipengfei.me/blog/2013/05/11/scala-language-features-2/"&gt;二&lt;/a&gt;，&lt;a href="http://cuipengfei.me/blog/2013/10/13/scala-trait/"&gt;三&lt;/a&gt;。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>十月二十一日</title>
-    <link rel="alternate" href="/blog/Oct21.html"/>
-    <id>/blog/Oct21.html</id>
-    <published>2013-10-21T14:36:00Z</published>
-    <updated>2013-10-21T14:36:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;又一周悄悄过去了，我们的好声音如约与大家见面。&lt;/p&gt;
-
-&lt;h3 id="css"&gt;为什么要内嵌CSS？&lt;/h3&gt;
-
-&lt;p&gt;相信大家对内嵌CSS深恶痛绝，也能列出很多不要内嵌CSS的理由。成都办公室的陈嘉却要研究一下&lt;a href="http://www.btorange.com/2010/05/11/embedded-css.html"&gt;《为什么要用内嵌CSS》&lt;/a&gt;以及什么情况下使用内嵌CSS，相信能给大家带来不同的视角。&lt;/p&gt;
-
-&lt;h3 id="vagrant"&gt;程序员的神兵利器－Vagrant&lt;/h3&gt;
-
-&lt;p&gt;虚拟化技术能够帮助我们快速搭建开发和产品环境，你不能不说Vagrant是虚拟化技术的神兵利器。让我们跟随袁晓峰的程序员的神兵利器－&lt;a href="http://yxfilm.us/blog/archives/2013/08/119"&gt;《Vagrant为我们的兵器库添加新的利器》&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="guavafor"&gt;Guava增强for循环&lt;/h3&gt;
-
-&lt;p&gt;看过上期郑晔的需要更新的Java知识系列之后，相信大家已经知道了Guava。成都办公室的杨柳率先体验了一下&lt;a href="http://www.cnblogs.com/Alex--Yang/p/3371282.html"&gt;《Guava增强for循环》&lt;/a&gt;，让糟糕的for与if，else的冗余组合变的简单易懂。另外如果使用FluentIterable的话，可读性更好。&lt;/p&gt;
-
-&lt;h3 id="bower-as-dependencies-manager"&gt;Bower as Dependencies Manager&lt;/h3&gt;
-
-&lt;p&gt;大家还记的在Maven之前Java管理包依赖的痛苦吗？同样的痛苦会在新兴的Node.js里折磨大家吗？且看看在西安办公室里讲过说文解字的邱俊涛邱大师通过&lt;a href="http://icodeit.org/2013/10/bower-as-dependencies-manager/"&gt;《Bower as Dependencies Manager》&lt;/a&gt;解释了如何使用Bower解决Node.js里的依赖痛苦。&lt;/p&gt;
-
-&lt;h3 id="section"&gt;语言设计中的鸭子类型风格&lt;/h3&gt;
-
-&lt;p&gt;随着Ruby的流行谚语：“如果行鸭子一样走路，像鸭子一样呱呱叫，那它就是一只鸭子”也越来越流行，成都办公室的扎西扎爷通过&lt;a href="http://www.cnblogs.com/whitewolf/p/3163358.html"&gt;《语言设计中的鸭子类型风格》&lt;/a&gt;从JavaScript、Go以及TypeScript三种不同的动态语言阐述了对这句谚语的理解。&lt;/p&gt;
 </content>
   </entry>
 </feed>
