@@ -1,0 +1,34 @@
+---
+title: 十二月二日
+date: 2013-12-05 04:59 UTC
+tags: 响应设计，IOS， 持续集成，消除分支，自动化功能测试，替换静态方法
+authors: [{"name": "张岱", "about": "http://neverdai.com"},
+		{"name": "刘先宁", "about": "http://ningandjiao.iteye.com"},
+		{"name": "李光磊", "about": "http://liguanglei.name"},
+		  {"name": "雷钰", "about": "http://www.cnblogs.com/harolei"},
+		  {"name": "文竞成", "about": "http://blog.csdn.net/kiwi_coder"}]
+---
+
+2013年的感恩节刚刚过去。在感恩这个世界不断涌现的先进技术改变了我们的生活之外，今天小编也想感谢一下各位同事对骚窝好声音的支持，出文章的提反馈的，还有默默阅读的；正是有了你们，才有了我们今天的好声音。当然，小编也没有忘记我们辛苦的编辑们，周哲武、何海洋、曾学海、仝键、邱俊涛、马博文、禚娴静、郑晔；正是有了你们坚持不断的寻找和努力，我们的好声音才能走到今天，乃至更远。
+
+让我们来看一看这一期的好声音是什么吧。
+
+### 响应式设计及其深层意义
+
+Responsive Design，中文称“响应式设计”，是移动时代的网页设计思路。之所以说其是思路而不是技术，是因为实现响应式设计的技术在这个词汇发明之前很早就有了。成都办公室的张岱同学向我们阐述了他对于其背后的驱动力量以及其深层意义的理解，[响应式设计及其深层意义](http://neverdai.com/post/68165266826/on-responsive-design)。
+
+### 构建iOS持续集成平台
+
+持续集成理念经过10多年的发展，已经成为了业界的标准。Java、Ruby的世界里已经诞生了非常成熟的持续集成工具和实践，然而对于iOS领域来说，因为技术本身相对比较年轻和苹果与生俱来的封闭思想，在持续集成方面的发展相对滞后一些。随着越来越多的iOS开发者的涌入，以及各个互联网巨头加大对iOS开发的投入，一大批非常好用的持续集成工具和服务纷纷诞生。如何有效的利用这些类库，快速构建一个iOS开发环境下的持续集成平台呢？成都办公室的刘先宁同学带给我们他的系列文章：[（一）自动化构建和依赖管理](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part1)，[（二）测试框架](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part2)，[（三）CI服务器与自动化部署](http://www.infoq.com/cn/articles/build-ios-continuous-integration-platform-part3)，[（四）HockeyApp的介绍](http://ningandjiao.iteye.com/blog/1947271)。
+
+### JavaScript语言中五种消除分支的方法
+
+过多的条件分支判断是代码里面常见的坏味道，但如何消除这些分支判断也是让程序员头疼的问题。北京办公室的李光磊同学着眼于JavaScript语言，提出了5种消除分支方法，让我们一起去看一下他又一次不凡的思考吧，[5 ways to eliminate if/else/switch/case in JavaScript](http://liguanglei.name/blogs/2013/09/26/eliminate_branches_in_javascript/)。
+
+### 使用Python与Selenium集成进行自动化功能测试
+
+自动化测试可以帮助团队节省手动回归测试的时间，能够提高测试覆盖率，增强团队成员对代码的信心。可是选取测试自动化的解决方案是一件纠结的事情：要不要采用当前系统开发的技术桟呢？引入新的技术带来新的学习成本怎么办？成都办公室雷钰同学认为简单快速解决问题是王道，与Java说拜拜，且看他如何使用[python与selenium集成进行自动化功能测试](http://www.cnblogs.com/harolei/p/3428835.html)。
+
+### 在IntelliJ下使用实例方法替换静态方法
+
+作为一个Thoughtworker，重构是必须知晓的内功心法，然而要想掌握其精髓，需从基础练起，日夜兼程，方能成为一代大师。看，那成都古城，有一位小白同学正闻鸡起舞，苦心修炼在[IntelliJ下使用instance method替换static method](http://blog.csdn.net/kiwi_coder/article/details/16115275)。少年，我看好你，文竞成，加油！
