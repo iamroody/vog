@@ -5,10 +5,44 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-12-05T04:59:00Z</updated>
+  <updated>2013-12-17T10:27:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>十二月十六</title>
+    <link rel="alternate" href="/blog/dec16.html"/>
+    <id>/blog/dec16.html</id>
+    <published>2013-12-17T10:27:00Z</published>
+    <updated>2013-12-17T10:27:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;新一期的技术雷达即将在2014年1月发布，近水楼台的ThoughtWorker们已经拿到新版的草稿，各个办公室也相继开始了热火朝天的雷达学习活动。一股股技术的浪潮重新涌现，仿佛又回到了那个骚窝的青春年代。技术雷达缘何吸引着一批又一批的ThoughtWorker不停地追逐呢？于晓强同学说，因为它有意思、因为它实用；是的，技术就是因此而迷人。而小编认为也正是因为我们的坚持，因为那些对于技术的追求，才成就了这技术雷达。
+在这技术热潮重现的今天，作为那个Geek的你，是否也被它撞了一下腰呢？&lt;/p&gt;
+
+&lt;h3 id="section"&gt;十年&lt;/h3&gt;
+
+&lt;p&gt;“十年之前，我不认识你，你不属于我；十年之后我们是朋友~~”。
+十年之前，郑晔同学选择了博客作为他对于技术追求的一种表达方式，十年后他仍然坚信当初的决定，“我想我还会写下去，我现在格外相信坚持的力量，我的一些坚持让我变得和从前不一样”。让我们一起来看看郑晔的这&lt;a href="http://dreamhead.blogbus.com/logs/242009297.html"&gt;十年&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="adobe-analytics"&gt;使用Adobe Analytics分析和跟踪网站内容&lt;/h3&gt;
+
+&lt;p&gt;Adobe Analytics是一款提供给营销人员实时准确地跟踪在线用户访问行为的产品，可以帮助企业洞察、分析、优化运营。成都办公室的陈加兴同学从&lt;a href="http://www.justinablog.com/?p=800"&gt;在线用户跟踪(一)&lt;/a&gt;、&lt;a href="http://www.justinablog.com/?p=833"&gt;在线用户跟踪(二)&lt;/a&gt;、&lt;a href="http://www.justinablog.com/?p=848"&gt;视频分析&lt;/a&gt;、&lt;a href="http://www.justinablog.com/?p=865%20"&gt;站内搜索&lt;/a&gt;、&lt;a href="http://www.justinablog.com/?p=870"&gt;网站访问速度分析&lt;/a&gt;等几个方面介绍了她对于Adobe Analytics的理解与实践。&lt;/p&gt;
+
+&lt;h3 id="angularjs-ngoptioniengmodel"&gt;AngularJS ngOption在IE下的问题以及ngModel的类型转化&lt;/h3&gt;
+
+&lt;p&gt;成都办公室的扎西在这一期向我们分享了他在使用angularJS时遇到的IE及ngModel类型转化的问题，作为小编的我除了认同他不局限于具体的问题的思考，更喜欢他对于问题及解决方案的抽象与泛化，这也往往意味着创新的开始。如果你想了解更多，不妨看一看:&lt;a href="http://www.cnblogs.com/whitewolf/p/3464053.html"&gt;（一）angularJS ngOption在IE下的问题&lt;/a&gt;、&lt;a href="http://www.cnblogs.com/whitewolf/p/3474990.html"&gt;（二）angularJS ngModel的类型转化&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;面向对象和函数式语言的学习&lt;/h3&gt;
+
+&lt;p&gt;早在2011年，徐昊在InfoQ发表了文章&lt;a href="http://www.infoq.com/cn/articles/object-have-dead/"&gt;“对象之死”&lt;/a&gt;，论述了如何看待面向对象技术与函数式语言。然而时至今天，这个话题仍在继续。各地SICP（计算机程序的构造与解释）读书研讨会纷纷揭竿而起，上海办公室的李鹏同学也通过十周的坚持完成了coursera的“编程语言”这门课程，且看他的收获：&lt;a href="http://freewind.me/blog/20131205/2222.html"&gt;终于把Programming Languages学完了&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id="mockito"&gt;Mockito之体验&lt;/h3&gt;
+
+&lt;p&gt;如果你在开发实践中采用测试驱动开发，那么你一定知道mock；如果你是一个Java程序员，那你一定知道Mockito；但，你知道Partial Mock么？西安办公室的王磊同学向我们介绍了如何使用Mockito的&lt;a href="http://wldandan.github.io/blog/2013/12/09/mockito-partial-mocking-learning/"&gt;Partial Mock&lt;/a&gt;。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>十二月二日</title>
     <link rel="alternate" href="/blog/dec02.html"/>
@@ -164,38 +198,6 @@
 &lt;h3 id="intellijparameterize-method"&gt;在IntelliJ下如何做parameterize method的重构&lt;/h3&gt;
 
 &lt;p&gt;在智能的IntelliJ IDEA的帮助下我们可以很简单的为我们的代码做重构，但是有的时候IntelliJ IDEA也不是那么智能。让我们看看成都办公室的小白文竞成发现的&lt;a href="http://blog.csdn.net/kiwi_coder/article/details/10084717"&gt;问题以及如何解决&lt;/a&gt;的。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>十月二十八日</title>
-    <link rel="alternate" href="/blog/oct28.html"/>
-    <id>/blog/oct28.html</id>
-    <published>2013-10-28T12:00:00Z</published>
-    <updated>2013-10-28T12:00:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;不知不觉，这已经是十月份最后一期好声音了。&lt;/p&gt;
-
-&lt;h3 id="maven"&gt;为什么要抛弃maven&lt;/h3&gt;
-
-&lt;p&gt;在Thoughtworks的Tech Radar里Maven已经On Hold了，但是大家知道曾经流行的Maven为什么被On Hold区吗？且看李鹏怎么低调的为大家解释&lt;a href="http://freewind.me/blog/20130803/2195.html"&gt;为什么要抛弃maven&lt;/a&gt;，看完之后相信大家会有把项目的构建工具换成Gradle的冲动。&lt;/p&gt;
-
-&lt;h3 id="phonegap"&gt;一起来玩PhoneGap&lt;/h3&gt;
-
-&lt;p&gt;一提到移动开发相信大家首先会想到iOS或者Android，但是当你想做一些原型设计的时候，你还有第三种选择——就是PhoneGap。今天就跟成都办公室的贺思聪同学&lt;a href="http://blog.april1985.com/index.php/2013/10/yi_qi_lai_wan_phonegap/"&gt;一起来玩PhoneGap&lt;/a&gt;吧，看看他遇见了什么坑。&lt;/p&gt;
-
-&lt;h3 id="mock"&gt;Mock，有人爱它我偏恨&lt;/h3&gt;
-
-&lt;p&gt;作为Thoughtworks你不TDD你不好意思跟人打招呼，那你写测试你不Mock你就更不好意思跟人打招呼了。西安办公室的吴少吴少博一次又一次地在项目中用Mock写测试之后，有了Mock，&lt;a href="http://wushaobo.info/?p=49"&gt;有人爱它我偏恨的感慨&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h3 id="build-android-environment-with-intellij-and-gradle"&gt;Build Android Environment With Intellij and Gradle&lt;/h3&gt;
-
-&lt;p&gt;Gradle已经不止一次被Thoughtworks好声音推荐了，但是大都在传统Java项目上如何使用Gradle。今天我们跟随西安办公室的张久坤的&lt;a href="http://jiukun.us/blog/2013/07/18/build-android-environmentwith-intellij-and-gradle/"&gt;Build Android Environment With Intellij and Gradle&lt;/a&gt;来看一下Gradle如何应用到Android项目上的。&lt;/p&gt;
-
-&lt;h3 id="scala"&gt;Scala中的语言特性是如何实现的&lt;/h3&gt;
-
-&lt;p&gt;我们学东西不止要知其然，还要知其所以然。成都办公室的崔鹏飞在学Scala的时候，不止学习如何使用Scala，也研究了Scala中的语言特性是如何实现的：&lt;a href="http://cuipengfei.me/blog/2013/05/05/how-are-scala-language-features-implemented/"&gt;一&lt;/a&gt;，&lt;a href="http://cuipengfei.me/blog/2013/05/11/scala-language-features-2/"&gt;二&lt;/a&gt;，&lt;a href="http://cuipengfei.me/blog/2013/10/13/scala-trait/"&gt;三&lt;/a&gt;。&lt;/p&gt;
 </content>
   </entry>
 </feed>
