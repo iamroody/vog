@@ -1,0 +1,34 @@
+---
+title: 十二月十六
+date: 2013-12-17 10:27 UTC
+tags: 十年，adobe analytics，angularJS，ngOption，函数式，mockito
+authors: [{"name": "郑晔", "about": "http://dreamhead.blogbus.com"},
+		{"name": "陈加兴", "about": "http://www.justinablog.com"},
+		{"name": "扎西", "about": "http://www.cnblogs.com/whitewolf"},
+		  {"name": "李鹏", "about": "http://freewind.me"},
+		  {"name": "王磊", "about": "http://wldandan.github.io"}]
+---
+
+新一期的技术雷达即将在2014年1月发布，近水楼台的ThoughtWorker们已经拿到新版的草稿，各个办公室也相继开始了热火朝天的雷达学习活动。一股股技术的浪潮重新涌现，仿佛又回到了那个骚窝的青春年代。技术雷达缘何吸引着一批又一批的ThoughtWorker不停地追逐呢？于晓强同学说，因为它有意思、因为它实用；是的，技术就是因此而迷人。而小编认为也正是因为我们的坚持，因为那些对于技术的追求，才成就了这技术雷达。
+在这技术热潮重现的今天，作为那个Geek的你，是否也被它撞了一下腰呢？
+
+### 十年
+
+“十年之前，我不认识你，你不属于我；十年之后我们是朋友~~”。
+十年之前，郑晔同学选择了博客作为他对于技术追求的一种表达方式，十年后他仍然坚信当初的决定，“我想我还会写下去，我现在格外相信坚持的力量，我的一些坚持让我变得和从前不一样”。让我们一起来看看郑晔的这[十年](http://dreamhead.blogbus.com/logs/242009297.html)。
+
+### 使用Adobe Analytics分析和跟踪网站内容
+
+Adobe Analytics是一款提供给营销人员实时准确地跟踪在线用户访问行为的产品，可以帮助企业洞察、分析、优化运营。成都办公室的陈加兴同学从[在线用户跟踪(一)](http://www.justinablog.com/?p=800)、[在线用户跟踪(二)](http://www.justinablog.com/?p=833)、[视频分析](http://www.justinablog.com/?p=848)、[站内搜索](http://www.justinablog.com/?p=865%20)、[网站访问速度分析](http://www.justinablog.com/?p=870)等几个方面介绍了她对于Adobe Analytics的理解与实践。
+
+### AngularJS ngOption在IE下的问题以及ngModel的类型转化
+
+成都办公室的扎西在这一期向我们分享了他在使用angularJS时遇到的IE及ngModel类型转化的问题，作为小编的我除了认同他不局限于具体的问题的思考，更喜欢他对于问题及解决方案的抽象与泛化，这也往往意味着创新的开始。如果你想了解更多，不妨看一看:[（一）angularJS ngOption在IE下的问题](http://www.cnblogs.com/whitewolf/p/3464053.html)、[（二）angularJS ngModel的类型转化](http://www.cnblogs.com/whitewolf/p/3474990.html)。
+ 
+### 面向对象和函数式语言的学习
+
+早在2011年，徐昊在InfoQ发表了文章[“对象之死”](http://www.infoq.com/cn/articles/object-have-dead/)，论述了如何看待面向对象技术与函数式语言。然而时至今天，这个话题仍在继续。各地SICP（计算机程序的构造与解释）读书研讨会纷纷揭竿而起，上海办公室的李鹏同学也通过十周的坚持完成了coursera的“编程语言”这门课程，且看他的收获：[终于把Programming Languages学完了](http://freewind.me/blog/20131205/2222.html)。
+
+### Mockito之体验
+
+如果你在开发实践中采用测试驱动开发，那么你一定知道mock；如果你是一个Java程序员，那你一定知道Mockito；但，你知道Partial Mock么？西安办公室的王磊同学向我们介绍了如何使用Mockito的[Partial Mock](http://wldandan.github.io/blog/2013/12/09/mockito-partial-mocking-learning/)。
